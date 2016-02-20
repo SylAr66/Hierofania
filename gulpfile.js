@@ -4,6 +4,7 @@ var sass        = require('gulp-sass');
 var prefix      = require('gulp-autoprefixer');
 var cp          = require('child_process');
 var concat = require('gulp-concat');
+var deploy = require("gulp-gh-pages");
 
 var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
@@ -51,7 +52,7 @@ gulp.task('sass', function () {
         .pipe(gulp.dest('css'));
 });
 
-/**
+/**packa
 * Concatenate javascript 
 */
 gulp.task('scripts', function() {
@@ -69,6 +70,16 @@ gulp.task('watch', function () {
     gulp.watch('_scss/*.scss', ['sass']);
     gulp.watch(['*.html', '_includes/*.html', '_layouts/*.html', '_posts/*'], ['jekyll-rebuild']);
     gulp.watch('_js/*.js', ['scripts']);
+});
+
+/**
+*   Deploy Current verion of the website to the gh-pages brach
+*TODO
+**/
+
+gulp.task("deploy", ["jekyll-build"], function () {
+    return gulp.src("./_site/**/*")
+        .pipe(deploy());
 });
 
 /**
