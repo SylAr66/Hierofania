@@ -1,0 +1,148 @@
+///* CSS used here will be applied after bootstrap.css */
+//html,body {
+//	height:100%;
+//    padding-top:70px;
+//}
+//
+//section {
+//  height:calc(90% - 50px);
+//}
+//
+//.affix {
+//  padding:0px;
+//  -webkit-transition:padding 0.2s linear;
+//  -moz-transition:padding 0.2s linear;  
+//  -o-transition:padding 0.2s linear;         
+//  transition:padding 0.2s linear;  
+//
+//}
+// 
+//.affix-top {
+//  padding-top:15px;
+//  padding-bottom:15px;
+//  -webkit-transition:padding 0.5s linear;
+//  -moz-transition:padding 0.5s linear;  
+//  -o-transition:padding 0.5s linear;         
+//  transition:padding 0.5s linear;  
+//}
+//nav{
+//    box-shadow: 1px 1px 5px #000;
+//    width: 100%;
+//}
+//nav a{
+//    font-family: "Poiret One" !important;
+//    text-transform: uppercase;
+//    font-size: 20px;
+//    font-weight: bold;
+//}
+
+//.affix{
+//    position: fixed;
+//    top:0px;
+//    height: auto;
+//    & img{
+//        display: none;
+//    }
+//}
+
+.social {
+    position: fixed;
+//    bottom: 50px;
+    right: 0px;
+    & > i{
+        display: block;
+        font-size: 50px;
+    }
+}
+
+
+
+
+@import url(http://fonts.googleapis.com/css?family=Hind);
+
+$color--primary-dark: #151828;
+$color--secondary-light: #f2f2f2;
+$color--main-bg: white;
+$color--main-text: #333;
+
+//
+//html {
+//  height: 100%;
+//  font-size: 62.5%;
+//}
+//body {
+//  height: 100%;
+//  padding: 0;
+//  margin: 0;
+//  font-size: 2.2rem;
+//  font-family: 'Hind', sans-serif;
+//  font-weight: 400;
+//  color: $color--main-text;
+//  &.nav-fixed-top {
+//    padding-top: 45px;
+//  }
+//}
+a {
+  text-decoration: none;
+  color: $color--primary-dark;
+  text-transform: uppercase;
+  transition: color .35s ease;
+  &:hover, &:focus, &:visited {
+    outline: 0;
+    color: darken($color--primary-dark, 30%);
+  }
+}
+
+.container {
+  max-width: 960px;
+  width: 95%;
+  margin: 0 auto;
+}
+.hero {
+  background: $color--primary-dark;
+  padding: 200px 40px;
+  margin: 0;
+  text-align: center;
+  font-size: 7.0rem;
+  color: darken($color--secondary-light, 10%);
+}
+.nav {
+  margin: 0; 
+  padding: 20px 0;
+  background: $color--secondary-light;
+  list-style: none;
+  text-align: center;
+  transition: all .15s ease;
+  &.nav-fixed-top {
+    top: 0;
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+    background: $color--primary-dark;
+    padding: 0;
+    a {
+      color: white;
+      &:visited {
+        color: white;
+      }
+      &:hover, &:focus {
+        outline: 0;
+        color: lighten($color--primary-dark, 40%);
+      }
+    }
+  }
+  ul { 
+    padding: 0;
+    margin: 5px 0; 
+    li {
+      display: inline-block;
+      padding: 0 20px;
+    }  
+  }
+}
+//.body-content {
+//  margin: 0;
+//  padding: 15px 0;
+//  font-size: 1.8rem;
+//  line-height: 1.38;
+//}
