@@ -1,148 +1,209 @@
-///* CSS used here will be applied after bootstrap.css */
-//html,body {
-//	height:100%;
-//    padding-top:70px;
-//}
-//
-//section {
-//  height:calc(90% - 50px);
-//}
-//
-//.affix {
-//  padding:0px;
-//  -webkit-transition:padding 0.2s linear;
-//  -moz-transition:padding 0.2s linear;  
-//  -o-transition:padding 0.2s linear;         
-//  transition:padding 0.2s linear;  
-//
-//}
-// 
-//.affix-top {
-//  padding-top:15px;
-//  padding-bottom:15px;
-//  -webkit-transition:padding 0.5s linear;
-//  -moz-transition:padding 0.5s linear;  
-//  -o-transition:padding 0.5s linear;         
-//  transition:padding 0.5s linear;  
-//}
-//nav{
-//    box-shadow: 1px 1px 5px #000;
-//    width: 100%;
-//}
-//nav a{
-//    font-family: "Poiret One" !important;
-//    text-transform: uppercase;
-//    font-size: 20px;
-//    font-weight: bold;
-//}
-
-//.affix{
-//    position: fixed;
-//    top:0px;
-//    height: auto;
-//    & img{
-//        display: none;
-//    }
-//}
-
-.social {
-    position: fixed;
-//    bottom: 50px;
-    right: 0px;
-    & > i{
-        display: block;
-        font-size: 50px;
-    }
-}
-
-
-
-
-@import url(http://fonts.googleapis.com/css?family=Hind);
-
-$color--primary-dark: #151828;
-$color--secondary-light: #f2f2f2;
-$color--main-bg: white;
-$color--main-text: #333;
-
-//
-//html {
-//  height: 100%;
-//  font-size: 62.5%;
-//}
-//body {
-//  height: 100%;
-//  padding: 0;
-//  margin: 0;
-//  font-size: 2.2rem;
-//  font-family: 'Hind', sans-serif;
-//  font-weight: 400;
-//  color: $color--main-text;
-//  &.nav-fixed-top {
-//    padding-top: 45px;
-//  }
-//}
-a {
-  text-decoration: none;
-  color: $color--primary-dark;
-  text-transform: uppercase;
-  transition: color .35s ease;
-  &:hover, &:focus, &:visited {
-    outline: 0;
-    color: darken($color--primary-dark, 30%);
-  }
-}
-
-.container {
-  max-width: 960px;
-  width: 95%;
-  margin: 0 auto;
-}
-.hero {
-  background: $color--primary-dark;
-  padding: 200px 40px;
-  margin: 0;
-  text-align: center;
-  font-size: 7.0rem;
-  color: darken($color--secondary-light, 10%);
-}
-.nav {
-  margin: 0; 
-  padding: 20px 0;
-  background: $color--secondary-light;
-  list-style: none;
-  text-align: center;
-  transition: all .15s ease;
-  &.nav-fixed-top {
-    top: 0;
-    z-index: 100;
-    position: fixed;
+nav {
+    font: normal 50px/200% "Poiret One", Arial, Helvetica, sans-serif;
     width: 100%;
-    background: $color--primary-dark;
-    padding: 0;
-    a {
-      color: white;
-      &:visited {
-        color: white;
-      }
-      &:hover, &:focus {
-        outline: 0;
-        color: lighten($color--primary-dark, 40%);
-      }
-    }
-  }
-  ul { 
-    padding: 0;
-    margin: 5px 0; 
-    li {
-      display: inline-block;
-      padding: 0 20px;
-    }  
-  }
+    margin: 0 0 0 auto;
+    transition: .5s;
+    border-width: 0 0 1px 0;
 }
-//.body-content {
-//  margin: 0;
-//  padding: 15px 0;
-//  font-size: 1.8rem;
-//  line-height: 1.38;
-//}
+
+#nav_wrap nav a {
+    color: white;
+    text-transform: uppercase;
+}
+
+.nav_animate {
+    width: 82.5%;
+    transition: .5s;
+}
+
+nav a {
+    display: inline-block;
+    font-size: 14px;
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: #f2f2f2;
+    /*  width: 20%;*/
+    text-align: center;
+    line-height: 40px;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    border-bottom: 50px solid #4a4a4a;
+    transition: .4s;
+    box-sizing: border-box !important;
+    line-height: 440%;
+}
+
+.sticky {
+    position: fixed !important;
+    top: 0;
+}
+
+img.right {
+    margin: 0 0 0 40px;
+    border-radius: 200px;
+}
+
+
+.hero {
+    height: 100vh;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/2/2f/Buddha_statues_in_a_temple_on_Jejudo.jpg);
+}
+
+.bodysec {
+    min-height: 700px;
+}
+
+#hero-section {
+    background: black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+//    background: url(https://upload.wikimedia.org/wikipedia/commons/d/d2/Mosque_in_india-1515894.jpg), black;
+    background: url(/img/night-sky-hd-wallpaper.jpg), black;
+    background-position:  center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    color: #fff;
+    @media screen and (max-width: 600px) {
+        background-size: cover;
+    }
+
+}
+
+#nav_wrap {
+    background-color: #000;
+    color: #fafeff;
+    height: 64px;
+    text-align: left;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    overflow: hidden;
+    z-index: 100;
+    box-shadow: 0 0 4px #343434;
+}
+
+nav {
+    width: 100%;
+    margin: 0 0 0 auto;
+    transition: .5s;
+    border-width: 0 0 1px 0;
+}
+
+.nav_animate {
+    width: 82.5%;
+    transition: .5s;
+}
+
+nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: #f2f2f2;
+    text-align: center;
+    line-height: 65px;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    border-bottom: 5px solid #4a4a4a;
+    transition: .4s;
+    box-sizing: border-box !important;
+    height: 64px;
+    line-height: 64px;
+}
+
+.sticky {
+    position: fixed !important;
+    top: 0;
+}
+
+#logo,
+#social {
+    position: absolute;
+    color: #fafeff;
+    z-index: 100;
+    transition: 1s;
+    line-height: 80px;
+}
+
+#logo {
+    left: -150px;
+    font-size: 25px;
+    height: 65px;
+    line-height: 65px;
+    padding: 0 10px;
+    margin: 0;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+#topbar-section {
+    background: black;
+}
+
+#top-p8-logo {
+    background: black;
+    font-size: 2rem;
+    color: white;
+    padding: 1.5rem;
+    float: left;
+}
+
+#top-blurb {
+    background: black;
+    font-size: 2rem;
+    color: white;
+    padding: 1.5rem;
+    float: right;
+}
+
+#nav_wrap nav {
+    margin: 0 auto;
+    width: 55%;
+}
+
+#nav_wrap nav a {
+    text-align: center;
+    display: inline-block;
+    float: left;
+    margin: 0 auto;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.logo {
+    & > img {
+        height: 50px;
+        & path {
+            fill: red;
+        }
+    }
+    &--large {
+        position: absolute;
+        top: 25vh;
+        filter: drop-shadow(5px 3px 5px rgba(0, 0, 0, 0.9));
+        height: 50vh;
+        width: auto;
+        left: 50%;
+        transform: translate(-50%)
+    }
+}
+
+.hierofania {
+    text-shadow: 5px 3px 5px rgba(0, 0, 0, 0.9);
+    position: absolute;
+    font: normal 100px/150% "Poiret One", Arial, Helvetica, sans-serif;
+    width: 100%;
+    text-align: center;
+    font-size: 18vh;
+    line-height: 25vh;
+    &> a:hover{
+        text-decoration: none; 
+    }
+    & a{
+            color: #fff !important;
+
+    }
+}

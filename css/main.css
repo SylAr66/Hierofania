@@ -7,7 +7,6 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
-@import url(http://fonts.googleapis.com/css?family=Hind);
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -5752,62 +5751,359 @@ button.close {
   .hidden-print {
     display: none !important; } }
 
-.social {
-  position: fixed;
-  right: 0px; }
-  .social > i {
-    display: block;
-    font-size: 50px; }
+nav {
+  font: normal 50px/200% "Poiret One", Arial, Helvetica, sans-serif;
+  width: 100%;
+  margin: 0 0 0 auto;
+  transition: .5s;
+  border-width: 0 0 1px 0; }
 
-a {
+#nav_wrap nav a {
+  color: white;
+  text-transform: uppercase; }
+
+.nav_animate {
+  width: 82.5%;
+  transition: .5s; }
+
+nav a {
+  display: inline-block;
+  font-size: 14px;
+  font-size: 1.4rem;
   text-decoration: none;
-  color: #151828;
-  text-transform: uppercase;
-  transition: color .35s ease; }
-  a:hover, a:focus, a:visited {
-    outline: 0;
-    color: black; }
+  color: #f2f2f2;
+  /*  width: 20%;*/
+  text-align: center;
+  line-height: 40px;
+  text-transform: uppercase; }
 
-.container {
-  max-width: 960px;
-  width: 95%;
-  margin: 0 auto; }
+nav a:hover {
+  border-bottom: 50px solid #4a4a4a;
+  transition: .4s;
+  box-sizing: border-box !important;
+  line-height: 440%; }
+
+.sticky {
+  position: fixed !important;
+  top: 0; }
+
+img.right {
+  margin: 0 0 0 40px;
+  border-radius: 200px; }
 
 .hero {
-  background: #151828;
-  padding: 200px 40px;
-  margin: 0;
-  text-align: center;
-  font-size: 7.0rem;
-  color: #d9d9d9; }
+  height: 100vh;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/2/2f/Buddha_statues_in_a_temple_on_Jejudo.jpg); }
 
-.nav {
-  margin: 0;
-  padding: 20px 0;
-  background: #f2f2f2;
-  list-style: none;
+.bodysec {
+  min-height: 700px; }
+
+#hero-section {
+  background: black;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: url(/img/night-sky-hd-wallpaper.jpg), black;
+  background-position: center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  color: #fff; }
+  @media screen and (max-width: 600px) {
+    #hero-section {
+      background-size: cover; } }
+
+#nav_wrap {
+  background-color: #000;
+  color: #fafeff;
+  height: 64px;
+  text-align: left;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  overflow: hidden;
+  z-index: 100;
+  box-shadow: 0 0 4px #343434; }
+
+nav {
+  width: 100%;
+  margin: 0 0 0 auto;
+  transition: .5s;
+  border-width: 0 0 1px 0; }
+
+.nav_animate {
+  width: 82.5%;
+  transition: .5s; }
+
+nav a {
+  display: inline-block;
+  text-decoration: none;
+  color: #f2f2f2;
   text-align: center;
-  transition: all .15s ease; }
-  .nav.nav-fixed-top {
-    top: 0;
-    z-index: 100;
-    position: fixed;
-    width: 100%;
-    background: #151828;
-    padding: 0; }
-    .nav.nav-fixed-top a {
-      color: white; }
-      .nav.nav-fixed-top a:visited {
-        color: white; }
-      .nav.nav-fixed-top a:hover, .nav.nav-fixed-top a:focus {
-        outline: 0;
-        color: #5e6aab; }
-  .nav ul {
-    padding: 0;
-    margin: 5px 0; }
-    .nav ul li {
-      display: inline-block;
-      padding: 0 20px; }
+  line-height: 65px;
+  text-transform: uppercase; }
+
+nav a:hover {
+  border-bottom: 5px solid #4a4a4a;
+  transition: .4s;
+  box-sizing: border-box !important;
+  height: 64px;
+  line-height: 64px; }
+
+.sticky {
+  position: fixed !important;
+  top: 0; }
+
+#logo,
+#social {
+  position: absolute;
+  color: #fafeff;
+  z-index: 100;
+  transition: 1s;
+  line-height: 80px; }
+
+#logo {
+  left: -150px;
+  font-size: 25px;
+  height: 65px;
+  line-height: 65px;
+  padding: 0 10px;
+  margin: 0;
+  cursor: pointer;
+  font-weight: bolder; }
+
+#topbar-section {
+  background: black; }
+
+#top-p8-logo {
+  background: black;
+  font-size: 2rem;
+  color: white;
+  padding: 1.5rem;
+  float: left; }
+
+#top-blurb {
+  background: black;
+  font-size: 2rem;
+  color: white;
+  padding: 1.5rem;
+  float: right; }
+
+#nav_wrap nav {
+  margin: 0 auto;
+  width: 55%; }
+
+#nav_wrap nav a {
+  text-align: center;
+  display: inline-block;
+  float: left;
+  margin: 0 auto;
+  margin-left: 3%;
+  margin-right: 3%; }
+
+.logo > img {
+  height: 50px; }
+  .logo > img path {
+    fill: red; }
+
+.logo--large {
+  position: absolute;
+  top: 25vh;
+  -webkit-filter: drop-shadow(5px 3px 5px rgba(0, 0, 0, 0.9));
+          filter: drop-shadow(5px 3px 5px rgba(0, 0, 0, 0.9));
+  height: 50vh;
+  width: auto;
+  left: 50%;
+  -webkit-transform: translate(-50%);
+          transform: translate(-50%); }
+
+.hierofania {
+  text-shadow: 5px 3px 5px rgba(0, 0, 0, 0.9);
+  position: absolute;
+  font: normal 100px/150% "Poiret One", Arial, Helvetica, sans-serif;
+  width: 100%;
+  text-align: center;
+  font-size: 18vh;
+  line-height: 25vh; }
+  .hierofania > a:hover {
+    text-decoration: none; }
+  .hierofania a {
+    color: #fff !important; }
+
+/*============================================================================
+  Social Icon Buttons v1.0
+  Author:
+    Carson Shold | @cshold
+    http://www.carsonshold.com
+  MIT License
+==============================================================================*/
+@font-face {
+  font-family: 'icons';
+  src: url("fonts/icons.eot?qhrhpx");
+  src: url("fonts/icons.eot?qhrhpx#iefix") format("embedded-opentype"), url("fonts/icons.ttf?qhrhpx") format("truetype"), url("fonts/icons.woff?qhrhpx") format("woff"), url("fonts/icons.svg?qhrhpx#icons") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.icon-fancy:before {
+  content: "a"; }
+
+.icon-twitter:before {
+  content: "b"; }
+
+.icon-facebook:before {
+  content: "c"; }
+
+.icon-google:before {
+  content: "d"; }
+
+.icon-pinterest:before {
+  content: "e"; }
+
+.icon-reddit:before {
+  content: "f"; }
+
+.icon-linkedin:before {
+  content: "g"; }
+
+.icon-skype:before {
+  content: "h"; }
+
+/*================ Social share buttons ================*/
+.social-sharing {
+  font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*================ Large Buttons ================*/ }
+  .social-sharing * {
+    box-sizing: border-box; }
+  .social-sharing a {
+    display: inline-block;
+    color: #fff;
+    border-radius: 2px;
+    margin: 0 10px 10px 0;
+    height: 22px;
+    line-height: 22px;
+    text-decoration: none;
+    font-weight: normal; }
+    .social-sharing a:hover {
+      color: #fff; }
+  .social-sharing span {
+    display: inline-block;
+    vertical-align: top;
+    height: 22px;
+    line-height: 22px;
+    font-size: 12px; }
+  .social-sharing .icon {
+    padding: 0 5px 0 10px; }
+    .social-sharing .icon:before {
+      line-height: 22px; }
+  .social-sharing.is-large a {
+    height: 44px;
+    line-height: 44px; }
+    .social-sharing.is-large a span {
+      height: 44px;
+      line-height: 44px;
+      font-size: 18px; }
+    .social-sharing.is-large a .icon {
+      padding: 0 10px 0 18px; }
+      .social-sharing.is-large a .icon:before {
+        line-height: 44px; }
+
+.share-title {
+  font-weight: 900;
+  font-size: 12px;
+  padding-right: 10px; }
+  .is-large .share-title {
+    padding-right: 16px; }
+
+.share-facebook {
+  background-color: #3b5998; }
+  .share-facebook:hover {
+    background-color: #2d4373; }
+
+.share-twitter {
+  background-color: #00aced; }
+  .share-twitter:hover {
+    background-color: #0087ba; }
+
+.share-pinterest {
+  background-color: #cb2027; }
+  .share-pinterest:hover {
+    background-color: #9f191f; }
+
+.share-fancy {
+  background-color: #4999dc; }
+  .share-fancy:hover {
+    background-color: #2780cb; }
+
+.share-google {
+  background-color: #dd4b39; }
+  .share-google:hover {
+    background-color: #c23321; }
+
+.share-reddit {
+  background-color: #5f99cf; }
+  .share-reddit:hover {
+    background-color: #3a80c1; }
+
+.share-linkedin {
+  background-color: #0077b5; }
+  .share-linkedin:hover {
+    background-color: #005582; }
+
+.share-skype {
+  background-color: #00aff0; }
+  .share-skype:hover {
+    background-color: #008abd; }
+
+/*================ Clean Buttons ================*/
+.social-sharing.is-clean a {
+  background-color: #fff;
+  border: 1px solid #ececec;
+  color: #333;
+  height: 30px;
+  line-height: 30px; }
+  .social-sharing.is-clean a span {
+    height: 30px;
+    line-height: 30px;
+    font-size: 13px; }
+  .social-sharing.is-clean a:hover {
+    background-color: #ececec; }
+  .social-sharing.is-clean a .share-title {
+    font-weight: normal; }
+
+.social-sharing.is-clean .icon-facebook {
+  color: #3b5998; }
+
+.social-sharing.is-clean .icon-twitter {
+  color: #00aced; }
+
+.social-sharing.is-clean .icon-pinterest {
+  color: #cb2027; }
+
+.social-sharing.is-clean .icon-fancy {
+  color: #4999dc; }
+
+.social-sharing.is-clean .icon-google {
+  color: #dd4b39; }
+
+.social-sharing.is-clean .icon-reddit {
+  color: #5f99cf; }
+
+.social-sharing.is-clean .icon-linkedin {
+  color: #0077b5; }
+
+.social-sharing.is-clean .icon-skype {
+  color: #00aff0; }
 
 body {
   background: url(../img/bg.jpeg);

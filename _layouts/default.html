@@ -4,11 +4,13 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>{{ page.title }}</title>
+    <title>{%if page.title %}{{ page.title }}{% else %}{{site.title}}{% endif %}</title>
+    <meta name="description" content="{%if page.description %}{{ page.description }}{% else %}{{site.description}}{% endif %}">
     <meta name="viewport" content="width=device-width">
-
+    <link rel="canonical" href="{{site.base_url}}{{page.url}}">
+    
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="{{site.base_url}}/css/main.css"> 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     
 
@@ -20,33 +22,56 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha256-KXn5puMvxCw+dAYznun+drMdG1IFl3agK0p/pqT9KAo= sha512-2e8qq0ETcfWRI4HJBzQiA3UoyFk6tbNyG+qSaIBZLyW9Xf3sWZHN/lxe9fTh1U45DpPf07yj94KsUHHWe4Yk1A==" crossorigin="anonymous"></script>
 <script>
-    $(document).ready(function() {
-  //change the integers below to match the height of your upper div, which I called
-  //banner.  Just add a 1 to the last number.  console.log($(window).scrollTop())
-  //to figure out what the scroll position is when exactly you want to fix the nav
-  //bar or div or whatever.  I stuck in the console.log for you.  Just remove when
-  //you know the position.
-  var headerHeight = $("header.hero").outerHeight();
-  var $nav = $("nav.nav");
- 
-  $('body').click($nav, function(){
-    $("html, body").animate({ scrollTop: 0 }, 600);
-    return false;
- });
-  
-  $(window).scroll(function () {
-    console.log("scrollTop: " + $(window).scrollTop());
-    console.log("headerHeight: " + headerHeight);
+    
+var $window   = $(window),
+    height    = $window.height(),
+    width     = $window.width(),
+    navheight = $('#nav_wrap').height();
 
-    if ($(window).scrollTop() > headerHeight) {
-      $("body").addClass('nav-fixed-top');
-      $nav.addClass('nav-fixed-top');
-    } else {
-      $("body").removeClass('nav-fixed-top');
-      $nav.removeClass('nav-fixed-top');
-    }
-  });
+$(window).resize(function() {
+    height    = $window.height(),
+    width     = $window.width(),
+    navheight = $('#nav_wrap').height();
+});
+
+function sticky(){
+  var scrollTop = $window.scrollTop();
+  if (scrollTop > (height - navheight)) {
+    $('#nav_wrap').addClass('sticky');
+    $('nav').addClass('nav_animate');
+    setTimeout(function(){
+      $('#logo').css({
+        'left': 3 + '%', 
+        'transition':'.5s'
+      });     
+      $('#social').css({
+        'right': 5 + '%', 
+        'transition':'.5s'
+      });
+    }, 200);
+    
+  } else {
+    $('#nav_wrap').removeClass('sticky');
+    $('nav').removeClass('nav_animate');
+    setTimeout(function(){
+      $('#logo').css({
+        'left':-150, 
+        'transition':'.5s'
+      });
+    }, 200);
+  }
+} 
+$window.on('touchmove', sticky);
+$window.on('scroll', sticky);  
+
+//Navigational Menu
+$('nav a').click(function(a){
+  var menuPlace = $(this).index();
+  a.preventDefault();
+  $('html, body').animate({
+    scrollTop : $('section').eq(menuPlace).offset().top - $('nav').height()
+  }, 700);
 });
     
-    </script>
+</script>
 </html>
