@@ -1,19 +1,14 @@
-<style>
-    footer.container > * {
-        padding-top: 20px;
-    }
-    
-    footer.container > * > div {
-        margin-top: 250px;
-        /*        height: 500px;*/
-        /*        background: coral;*/
-        /*        border: 2px solid tomato;*/
-        color: aliceblue;
-    }
-</style>
 <footer class="container">
+    <!--
+   <div class="row">
     <div class="col-lg-4">
-        <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores animi dolor ea itaque, iste, non dignissimos? Aspernatur ducimus ex dolores modi laboriosam officiis minima adipisci nobis fuga ab, incidunt, maxime sed dolorem, tenetur consectetur deleniti alias tempora debitis accusantium. Expedita nam distinctio, perferendis animi consequuntur laboriosam sunt eligendi itaque libero delectus iste iure maxime alias. Eum, sapiente ipsam, nam </div>
+       <ul >
+           <li><a href="">Link1</a></li>
+           <li><a href="">Link2</a></li>
+           <li><a href="">Link3</a></li>
+           <li><a href="">Link4</a></li>
+           <li><a href="">Link5</a></li>
+       </ul>
     </div>
     <div class="col-lg-4">
         <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic voluptate doloremque, ab quidem, dicta laboriosam libero tenetur dolor doloribus unde commodi alias impedit icia adipisci eaque provident dolor dolores voluptates voluptas ut deleniti minima maiores possimus itaque neque ipsam. Illo adipisci suscipit explicabo rem corporis quaerat pariatur voluptatibus repudiandae fugit reiciendis, autem consectetur doloribus iusto soluta quibusdam voluptas numquam eligendi tempore animi, recusandae molestias laborum. Consectetur aliquid consequatur accusantium minima et non amet ipsam nemo corrupti temporibus, tempora esse laboriosam illum facere modi quam molestias, corporis quidem voluptatum.</div>
@@ -21,132 +16,65 @@
     <div class="col-lg-4">
         <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis eum quia, necessitatibus aliquid velit illo nesciunt. Enim unde ducimus eveniet.</div>
     </div>
+    </div>
+-->
+    <div style="padding-top:700px;" class="row">
+        <div class="col-md-4 copyright"><a href=""><i class="fa fa-copyright" aria-hidden="true"></i> Copyright 2016 CasinoVal</a></div>
+        <div class="social-sharing  col-md-8 pull-right" data-permalink="http://HIEROFANIA.pl">
+
+            <!-- https://developers.facebook.com/docs/plugins/share-button/ -->
+            <a target="_blank" href="http://www.facebook.com/sharer.php?u=http://HIEROFANIA.pl" class="share-facebook">
+                <i class="fa fa-facebook" aria-hidden="true"></i>
+                <span class="share-title">Share</span>
+            </a>
+
+            <!-- https://dev.twitter.com/docs/intents -->
+            <a target="_blank" href="http://twitter.com/share?url=http://HIEROFANIA.pl&amp;text=jQuery%20social%20media%20buttons%20on%20GitHub&amp;" class="share-twitter">
+                <i class="fa fa-twitter" aria-hidden="true"></i>
+                <span class="share-title">Tweet</span>
+            </a>
+
+            <!--
+      https://developers.pinterest.com/pin_it/
+      Pinterest get data from the same Open Graph meta tags Facebook uses
+    -->
+            <a target="_blank" href="http://pinterest.com/pin/create/button/?url=http://HIEROFANIA.pl&amp;media=http://photos-c.ak.instagram.com/hphotos-ak-xfp1/10369404_682591538475746_1724734234_n.jpg&amp;description=Tina%20the%20dachsund" class="share-pinterest">
+                <i class="fa fa-pinterest" aria-hidden="true"></i>
+                <span class="share-title">Pin it</span>
+            </a>
+
+            <!-- https://developers.google.com/+/web/share/ -->
+            <a target="_blank" href="http://plus.google.com/share?url=http://HIEROFANIA.pl" class="share-google">
+                <i class="fa fa-google-plus" aria-hidden="true"></i>
+                <span class="share-title">+1</span>
+            </a>
+            <!--
+
+     http://fancy.com/help/button 
+    <a target="_blank" href="http://www.thefancy.com/fancyit?ItemURL=http://HIEROFANIA.pl&amp;Title=Tina%20the%20dachsund&amp;Category=Other&amp;ImageURL=http://distilleryimage3.ak.instagram.com/6477684ac48d11e19ab222000a1e8819_7.jpg" class="share-fancy">
+      <span class="icon icon-fancy" aria-hidden="true"></span>
+      <span class="share-title">Fancy</span>
+    </a>
+-->
+
+            <!-- https://www.reddit.com/buttons -->
+            <a target="_blank" href="http://www.reddit.com/submit?url=http://HIEROFANIA.pl&title=jQuery%20social%20media%20buttons%20on%20GitHub" class="share-reddit">
+                <i class="fa fa-reddit" aria-hidden="true"></i>
+                <span class="share-title">Reddit</span>
+            </a>
+
+            <!-- https://developer.linkedin.com/plugins/share -->
+            <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&url=http://HIEROFANIA.pl&title=jQuery%20social%20media%20buttons%20on%20GitHub" class="share-linkedin">
+                <i class="fa fa-linkedin" aria-hidden="true"></i>
+                <span class="share-title">Share</span>
+            </a>
+
+            <!-- http://blogs.skype.com/2015/11/04/introducing-share-button-effortless-sharing-that-sparks-richer-conversations/ -->
+            <a target="_blank" href="https://web.skype.com/share?url=http://HIEROFANIA.pl&lang=en-us" class="share-skype">
+                <i class="fa fa-skype" aria-hidden="true"></i>
+                <span class="share-title">Share </span>
+            </a>
+
+        </div>
+    </div>
 </footer>
-<script>
-    $("#scroll").click(function() {
-        $('html, body').animate({
-            scrollTop: $("#scroll-to").offset().top
-        }, 2000);
-    });
-</script>
-
-
-
-
-
-
-
-
-
-  <h3>Default Buttons</h3>
-  <div class="social-sharing" data-permalink="http://labs.carsonshold.com/social-sharing-buttons">
-
-    <!-- https://developers.facebook.com/docs/plugins/share-button/ -->
-    <a target="_blank" href="http://www.facebook.com/sharer.php?u=http://labs.carsonshold.com/social-sharing-buttons" class="share-facebook">
-      <span class="icon icon-facebook" aria-hidden="true"></span>
-      <span class="share-title">Share</span>
-    </a>
-
-    <!-- https://dev.twitter.com/docs/intents -->
-    <a target="_blank" href="http://twitter.com/share?url=http://labs.carsonshold.com/social-sharing-buttons&amp;text=jQuery%20social%20media%20buttons%20on%20GitHub&amp;" class="share-twitter">
-      <span class="icon icon-twitter" aria-hidden="true"></span>
-      <span class="share-title">Tweet</span>
-    </a>
-
-    <!--
-      https://developers.pinterest.com/pin_it/
-      Pinterest get data from the same Open Graph meta tags Facebook uses
-    -->
-    <a target="_blank" href="http://pinterest.com/pin/create/button/?url=http://labs.carsonshold.com/social-sharing-buttons&amp;media=http://photos-c.ak.instagram.com/hphotos-ak-xfp1/10369404_682591538475746_1724734234_n.jpg&amp;description=Tina%20the%20dachsund" class="share-pinterest">
-      <span class="icon icon-pinterest" aria-hidden="true"></span>
-      <span class="share-title">Pin it</span>
-    </a>
-
-    <!-- https://developers.google.com/+/web/share/ -->
-    <a target="_blank" href="http://plus.google.com/share?url=http://labs.carsonshold.com/social-sharing-buttons" class="share-google">
-      <span class="icon icon-google" aria-hidden="true"></span>
-      <span class="share-title">+1</span>
-    </a>
-
-    <!-- http://fancy.com/help/button -->
-    <a target="_blank" href="http://www.thefancy.com/fancyit?ItemURL=http://labs.carsonshold.com/social-sharing-buttons&amp;Title=Tina%20the%20dachsund&amp;Category=Other&amp;ImageURL=http://distilleryimage3.ak.instagram.com/6477684ac48d11e19ab222000a1e8819_7.jpg" class="share-fancy">
-      <span class="icon icon-fancy" aria-hidden="true"></span>
-      <span class="share-title">Fancy</span>
-    </a>
-
-    <!-- https://www.reddit.com/buttons -->
-    <a target="_blank" href="http://www.reddit.com/submit?url=http://labs.carsonshold.com/social-sharing-buttons&title=jQuery%20social%20media%20buttons%20on%20GitHub" class="share-reddit">
-      <span class="icon icon-reddit" aria-hidden="true"></span>
-      <span class="share-title">Reddit</span>
-    </a>
-
-    <!-- https://developer.linkedin.com/plugins/share -->
-    <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&url=http://labs.carsonshold.com/social-sharing-buttons&title=jQuery%20social%20media%20buttons%20on%20GitHub" class="share-linkedin">
-      <span class="icon icon-linkedin" aria-hidden="true"></span>
-      <span class="share-title">Share</span>
-    </a>
-
-    <!-- http://blogs.skype.com/2015/11/04/introducing-share-button-effortless-sharing-that-sparks-richer-conversations/ -->
-    <a target="_blank" href="https://web.skype.com/share?url=http://labs.carsonshold.com/social-sharing-buttons&lang=en-us" class="share-skype">
-      <span class="icon icon-skype" aria-hidden="true"></span>
-      <span class="share-title">Share</span>
-    </a>
-
-  </div>
-
-  <h3>Clean Buttons</h3>
-  <div class="social-sharing is-clean" data-permalink="http://labs.carsonshold.com/social-sharing-buttons">
-
-    <!-- https://developers.facebook.com/docs/plugins/share-button/ -->
-    <a target="_blank" href="http://www.facebook.com/sharer.php?u=http://labs.carsonshold.com/social-sharing-buttons" class="share-facebook">
-      <span class="icon icon-facebook" aria-hidden="true"></span>
-      <span class="share-title">Share</span>
-    </a>
-
-    <!-- https://dev.twitter.com/docs/intents -->
-    <a target="_blank" href="http://twitter.com/share?url=http://labs.carsonshold.com/social-sharing-buttons&amp;text=jQuery%20social%20media%20buttons%20on%20GitHub&amp;" class="share-twitter">
-      <span class="icon icon-twitter" aria-hidden="true"></span>
-      <span class="share-title">Tweet</span>
-    </a>
-
-    <!--
-      https://developers.pinterest.com/pin_it/
-      Pinterest get data from the same Open Graph meta tags Facebook uses
-    -->
-    <a target="_blank" href="http://pinterest.com/pin/create/button/?url=http://labs.carsonshold.com/social-sharing-buttons&amp;media=http://photos-c.ak.instagram.com/hphotos-ak-xfp1/10369404_682591538475746_1724734234_n.jpg&amp;description=Tina%20the%20dachsund" class="share-pinterest">
-      <span class="icon icon-pinterest" aria-hidden="true"></span>
-      <span class="share-title">Pin it</span>
-    </a>
-
-    <!-- https://developers.google.com/+/web/share/ -->
-    <a target="_blank" href="http://plus.google.com/share?url=http://labs.carsonshold.com/social-sharing-buttons" class="share-google">
-      <span class="icon icon-google" aria-hidden="true"></span>
-      <span class="share-title">+1</span>
-    </a>
-
-    <!-- http://fancy.com/help/button -->
-    <a target="_blank" href="http://www.thefancy.com/fancyit?ItemURL=http://labs.carsonshold.com/social-sharing-buttons&amp;Title=Tina%20the%20dachsund&amp;Category=Other&amp;ImageURL=http://distilleryimage3.ak.instagram.com/6477684ac48d11e19ab222000a1e8819_7.jpg" class="share-fancy">
-      <span class="icon icon-fancy" aria-hidden="true"></span>
-      <span class="share-title">Fancy</span>
-    </a>
-
-    <!-- https://www.reddit.com/buttons -->
-    <a target="_blank" href="http://www.reddit.com/submit?url=http://labs.carsonshold.com/social-sharing-buttons&title=jQuery%20social%20media%20buttons%20on%20GitHub" class="share-reddit">
-      <span class="icon icon-reddit" aria-hidden="true"></span>
-      <span class="share-title">Reddit</span>
-    </a>
-
-    <!-- https://developer.linkedin.com/plugins/share -->
-    <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&url=http://labs.carsonshold.com/social-sharing-buttons&title=jQuery%20social%20media%20buttons%20on%20GitHub" class="share-linkedin">
-      <span class="icon icon-linkedin" aria-hidden="true"></span>
-      <span class="share-title">Share</span>
-    </a>
-
-    <!-- http://blogs.skype.com/2015/11/04/introducing-share-button-effortless-sharing-that-sparks-richer-conversations/ -->
-    <a target="_blank" href="https://web.skype.com/share?url=http://labs.carsonshold.com/social-sharing-buttons&lang=en-us" class="share-skype">
-      <span class="icon icon-skype" aria-hidden="true"></span>
-      <span class="share-title">Share</span>
-    </a>
-
-  </div>
-

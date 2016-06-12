@@ -54,7 +54,9 @@ $shareBorderColor: #ececec;
 
 .social-sharing {
   font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-
+    i{
+        padding: 0 10px;
+    } 
   * {
     -webkit-box-sizing:border-box;
     -moz-box-sizing:border-box;
@@ -63,6 +65,7 @@ $shareBorderColor: #ececec;
 
   a {
     display: inline-block;
+    float: right;
     color: #fff;
     border-radius: 2px;
     margin: 0 10px 10px 0;

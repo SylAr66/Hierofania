@@ -5,7 +5,13 @@ nav {
     transition: .5s;
     border-width: 0 0 1px 0;
 }
-
+//.nav_wrap__footer nav{
+//    background: transparent !important;
+//    background-color: transparent !important;
+//    &  a {
+//    display: block !important;
+//    }
+//}
 #nav_wrap nav a {
     color: white;
     text-transform: uppercase;
@@ -197,13 +203,19 @@ nav a:hover {
     font: normal 100px/150% "Poiret One", Arial, Helvetica, sans-serif;
     width: 100%;
     text-align: center;
-    font-size: 18vh;
-    line-height: 25vh;
-    &> a:hover{
+        font-size: 4vw;
+    line-height: 2;
+    &> a:hover, a:focus{
         text-decoration: none; 
     }
     & a{
             color: #fff !important;
 
+    }
+    & > small{
+        font-size: 50%;
+    display: block;
+    width: 100%;
+    text-align: right;
     }
 }

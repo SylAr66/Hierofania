@@ -1,14 +1,22 @@
 <div id="nav_wrap">
-    <h1  id="logo" class="logo"><img src="/img/head.png" alt=""></h1>
+    <a href=""></a>
+    <h1 id="logo" class="logo"><img src="/img/head.png" alt=""></h1>
     <nav role='navigation'>
-      <a href="#" id="intro">Hierofania</a>
-      <a href="#" id="first">Artykuły</a>
-      <a href="#" id="second">Komiks</a>
-      <a href="#" id="contact">Kontakt<a>
-    </nav>  
-  </div>  
-  <section id="hero-section" class="hero">
-      <h1 class="hierofania"><a id="scroll-to" href="">Hierofania</a></h1>
-      <img class="logo--large"  src="/img/hierofania2.svg" alt="">  
-  </section>
-  
+        <a href="{{site.base_url}}intro.html#jump">Hierofania</a>
+        <a href="{{site.base_url}}first.html#jump">Artykuły</a>
+        <a href="{{site.base_url}}second.html#jump">Komiks</a>
+        <a href="{{site.base_url}}contact.html">Kontakt</a>
+    </nav>
+</div>
+{% if page.featured_image %}
+<section id="hero-section" class="hero" style="background:url({{ page.featured_image }})">
+    <h1 class="hierofania"><a href="#jump">{{ page.title }}</a></h1>
+    <time class="post-meta small">{{ page.date | date: "%d-%m-%Y" }}</time>
+    <img class="logo--large" src="{{site.base_url}}/img/hierofania2.svg" alt="">
+</section>
+{% else %}
+<section id="hero-section" class="hero" style="">
+    <h1 class="hierofania"><a href="#jump">Hierofania</a></h1>
+    <img class="logo--large" src="{{site.base_url}}/img/hierofania2.svg" alt="">
+</section>
+ {% endif%}

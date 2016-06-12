@@ -2,14 +2,17 @@
 
 ## Technical
 
-email: kontakt@hierofania.pl
-base_url: ""
+email: 'kontakt@hierofania.pl'
+base_url:  'http://localhost:3000'
+url: 'http://HIEROFANIA.pl'
+excerpt_separator: <!--more-->
 
+ 
 ##Authoring
-title: Hierofania Dupa
-name: Hierofania 
+title: 'HIEROFANIA'
+name: 'Hierofania' 
 tagline: 'Coś Się Święci'
-descripton: "Hierofania - objawienie się świętości, każde wtargnięcie sacrum w sferę profanum; kluczowy termin w teorii religii M. Eliadego. Przestrzeń człowieka Eliade podzielił na dwa typy: przestrzeń sacrum i profanum - zaznaczył, że sfery te mogą się pokrywać (gdyż sfera sacrum jest sferą, która jest konstytuowana przez nasz umysł). Prostym przykładem sfery sacrum jest np. kościół, który dla osoby konkretnego wyznania jest miejscem w którym objawia się świętość - dla ateisty zaś jest zwykłym budynkiem (sferą profanum)."
+description: "Hierofania - objawienie się świętości, każde wtargnięcie sacrum w sferę profanum; kluczowy termin w teorii religii M. Eliadego. Przestrzeń człowieka Eliade podzielił na dwa typy: przestrzeń sacrum i profanum - zaznaczył, że sfery te mogą się pokrywać (gdyż sfera sacrum jest sferą, która jest konstytuowana przez nasz umysł). Prostym przykładem sfery sacrum jest np. kościół, który dla osoby konkretnego wyznania jest miejscem w którym objawia się świętość - dla ateisty zaś jest zwykłym budynkiem (sferą profanum)."
 author: Joanna Słonka
 admin: Krystian Okaz
 
@@ -23,5 +26,14 @@ twitter_username: HierofaniaPL
 #Build Settings
 
 markdown: redcarpet
+paginate: 5
+paginate_path: '/blog/page:num/'
 highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"

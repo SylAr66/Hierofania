@@ -5,6 +5,7 @@
 @import "../node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 @import "navbar";
 @import "social-sharing";
+@import "footer";
 
 
 
@@ -16,4 +17,34 @@ body{
 //    padding-top: 50px;
 }
 
- 
+h1, h2, h3, h4, h5, h6{
+    text-transform: uppercase;
+   
+}
+h1{
+    
+}
+h2,h3{
+    margin-top: 0px;
+}
+article{
+    margin-bottom: 40px;
+}
+
+.brand-header {
+    display: inline-block;
+    & > small{
+        display: block;
+        font-size: 50%;
+        width: 100%;
+        text-align: right;
+    }
+}
+
+.featured-article {
+    @extend .col-xs-12;
+    border-bottom: 1px solid #eee; 
+}
+time{
+    color: #ccc;
+}

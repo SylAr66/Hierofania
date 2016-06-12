@@ -19,7 +19,7 @@ CSbuttons.init = function () {
         h = 400;
 
     // Set popup sizes
-    switch (popup) {
+    switch (popup) { 
       case 'share_twitter':
         h = 300;
         break;
@@ -48,4 +48,4 @@ CSbuttons.init = function () {
 
 $(function() {
   window.CSbuttons.init();
-});
+}1
