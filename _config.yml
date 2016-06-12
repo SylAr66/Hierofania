@@ -3,7 +3,7 @@
 ## Technical
 
 email: 'kontakt@hierofania.pl'
-base_url:  'http://localhost:3000'
+base_url:  ''
 url: 'http://HIEROFANIA.pl'
 excerpt_separator: '<!--more-->'
 
