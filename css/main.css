@@ -6151,3 +6151,44 @@ article {
 
 time {
   color: #ccc; }
+
+.pagination {
+  display: block;
+  color: #333; }
+  .pagination > a {
+    display: inline-block;
+    color: inherit; }
+
+.up {
+  display: block;
+  position: fixed;
+  bottom: 0px;
+  right: 20px;
+  z-index: 99;
+  background: black;
+  width: 64px;
+  height: 64px;
+  border-radius: 64px; }
+  .up i {
+    color: #fff;
+    font-size: 40px;
+    line-height: 20px;
+    width: 100%;
+    text-align: center; }
+
+.down {
+  display: block;
+  position: absolute;
+  top: calc(100vh - 64px);
+  right: 20px;
+  z-index: 999;
+  background: black;
+  width: 64px;
+  height: 64px;
+  border-radius: 64px; }
+  .down i {
+    color: #fff;
+    font-size: 40px;
+    line-height: 20px;
+    width: 100%;
+    text-align: center; }

@@ -2,7 +2,7 @@
 layout: default
 ---
 <h2 style="margin:40px 0px;">{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<time class="post-meta small">{{ post.date | date: "%d-%m-%Y"}}</time>
 
 <div class="post">
 {{ content }}

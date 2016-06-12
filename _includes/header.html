@@ -1,11 +1,12 @@
+<a id="top" href=""></a>
 <div id="nav_wrap">
     <a href=""></a>
     <h1 id="logo" class="logo"><img src="/img/head.png" alt=""></h1>
     <nav role='navigation'>
-        <a href="{{site.base_url}}intro.html#jump">Hierofania</a>
-        <a href="{{site.base_url}}first.html#jump">Artykuły</a>
-        <a href="{{site.base_url}}second.html#jump">Komiks</a>
-        <a href="{{site.base_url}}contact.html">Kontakt</a>
+        <a href="{{ site.base_url }}/#">Hierofania</a>
+        <!--        <a href="{{site.base_url}}/first.html#jump">Artykuły</a>-->
+        <a href="{{site.base_url}}/comics.html#jump">Komiks</a>
+        <a href="{{site.base_url}}/contact.html#jump">Kontakt</a>
     </nav>
 </div>
 {% if page.featured_image %}
@@ -19,4 +20,4 @@
     <h1 class="hierofania"><a href="#jump">Hierofania</a></h1>
     <img class="logo--large" src="{{site.base_url}}/img/hierofania2.svg" alt="">
 </section>
- {% endif%}
+{% endif%}

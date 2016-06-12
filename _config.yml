@@ -5,7 +5,7 @@
 email: 'kontakt@hierofania.pl'
 base_url:  'http://localhost:3000'
 url: 'http://HIEROFANIA.pl'
-excerpt_separator: <!--more-->
+excerpt_separator: '<!--more-->'
 
  
 ##Authoring
@@ -26,14 +26,11 @@ twitter_username: HierofaniaPL
 #Build Settings
 
 markdown: redcarpet
-paginate: 5
-paginate_path: '/blog/page:num/'
 highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
+paginate: 4
+paginate_path: "/blog/page:num/"
+#permalink: /blog/:title
+
+
