@@ -25,12 +25,12 @@ twitter_username: HierofaniaPL
 
 #Build Settings
 
-markdown: redcarpet
-highlighter: pygments # or rouge or null
+#markdown: redcarpet
+highlighter:  rouge
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
-paginate: 4
-paginate_path: "/blog/page:num/"
+#paginate: 4
+#paginate_path: "/blog/page:num/"
 #permalink: /blog/:title
 
 
