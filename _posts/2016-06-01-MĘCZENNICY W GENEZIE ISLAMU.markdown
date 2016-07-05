@@ -2,13 +2,11 @@
 layout: post
 title: 'CZĘŚĆ I: MĘCZENNICY W GENEZIE ISLAMU'
 date: {}
-categories:
-  - Islam Muzułmanie Religia Monoteizm Męczeństwo
 published: true
 mathjax: false
 featured: false
 comments: false
-modified: '2016-07-01'
+modified: '2016-06-01'
 ---
 
 
