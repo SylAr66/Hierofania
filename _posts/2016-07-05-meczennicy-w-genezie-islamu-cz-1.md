@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: 'CZĘŚĆ I: MĘCZENNICY W GENEZIE ISLAMU'
 ---
 Koncepcja męczeństwa w islamie jest dość uboga. Prorok Mahomet podczas głoszenia monoteistycznej wiary w jednego Boga Allaha, spotkał się z ostracyzmem, niechęcią i groźbami (mówią o tym sury CVIII, CXI), jednak przed poważniejszymi atakami chroniło go pochodzenie i krewni. Ci, którzy posiadali w Mekce jakąś pozycje i rodzinę, nie musieli obawiać się żadnego prześladowania.
 <!--more-->
