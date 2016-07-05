@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 Poznaj męczenników 
 
