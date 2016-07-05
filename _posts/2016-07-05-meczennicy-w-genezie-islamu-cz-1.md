@@ -2,7 +2,7 @@
 published: true
 ---
 Koncepcja męczeństwa w islamie jest dość uboga. Prorok Mahomet podczas głoszenia monoteistycznej wiary w jednego Boga Allaha, spotkał się z ostracyzmem, niechęcią i groźbami (mówią o tym sury CVIII, CXI), jednak przed poważniejszymi atakami chroniło go pochodzenie i krewni. Ci, którzy posiadali w Mekce jakąś pozycje i rodzinę, nie musieli obawiać się żadnego prześladowania.
-
+<!--more-->
 
 Dla chrześcijan podstawą wiary jest męczeńska śmierć Jezusa na krzyżu. Natomiast w islamie, fizyczne cierpienie Mahometa byłoby niegodne dla posłańca Boga. Chrystus jest uważany za jednego z wybrańców Boga (jak Abraham, Mojżesz, Mahomet) ale odrzucona jest jego męczeńska śmierć. Bycie posłańcem wyklucza możliwość tego, aby człowiek był poniżony czy cierpiał, a tym bardziej, żeby płynęła z tego jakaś pozytywna, zbawcza wartość.
 Koran IV:157-158:> _I za to że [Żydzi] powiedzieli: „zabiliśmy Jezusa, syna Marii, posłańca Boga” - podczas gdy oni ani go nie zabili, ani go nie ukrzyżowali, tylko im się tak zdawało. I zaprawdę ci, którzy się różnią w tej sprawie, są z pewnością w zwątpieniu; oni nie mają o tym żadnej wiedzy, idą tylko za przypuszczeniem; oni go nie zabili z pewnością. Przeciwnie! Wyniósł go Bóg do Siebie!_
