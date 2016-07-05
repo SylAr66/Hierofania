@@ -34,3 +34,7 @@ paginate_path: "/blog/page:num/"
 #permalink: /blog/:title
 
 
+# PROSE Configuration
+prose:
+siteurl: Hierofania.pl
+ignore: ['_config.yml','_includes','_layouts','assets','css','js','.gitignore','.jekyll-metadata','CNAME','README.md','gulpfilie.js','index.html','package.json']]
