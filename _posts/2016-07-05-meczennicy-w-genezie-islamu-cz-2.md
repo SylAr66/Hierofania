@@ -2,6 +2,7 @@
 published: true
 layout: post
 page.title: 'CZĘSĆ II: MĘCZENNICY W GENEZIE ISLAMU'
+title: 'CZĘSĆ II: MĘCZENNICY W GENEZIE ISLAMU'
 ---
 Poznaj męczenników 
 
