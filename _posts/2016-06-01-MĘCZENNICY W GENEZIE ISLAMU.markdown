@@ -2,7 +2,7 @@
 layout: post
 title: 'CZĘŚĆ I: MĘCZENNICY W GENEZIE ISLAMU'
 date: {}
-published: true
+published: false
 mathjax: false
 featured: false
 comments: false
