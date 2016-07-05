@@ -5,7 +5,7 @@ Poznaj męczenników
 
 
 Z grona niewielu męczenników, którzy pojawili się na kartach Koranu, mamy pewnego „człowiek wierzący z rodu Faraona”, który ochronił Mojżesza, kiedy Faraon chciał go zabić za rzucenie mu wyzwania (XL:28-29): I powiedział pewien człowiek wierzący z rodu Faraona, który ukrywał swoją wiarę: „Czy zabijecie człowieka za to, że mówi: Mój Pan – to Bóg! - i przychodzi do was z jasnymi dowodami od waszego Pana? (…) O ludu mój! Do was należy królestwo dzisiaj i wy panujecie na ziemi. Lecz kto obroni nas przed srogością Boga, kiedy ona do nas przyjdzie?
-
+<!--more-->
 Takie oświadczenie mieści się w kategorii dżihadu – rzucenie w twarz tyranowi słów prawdy. Nie wiadomo, czy człowiek został zabity za swoje słowa. Niektórzy uczeni twierdzili, że była to kobieta i została po tych słowach zamęczona na śmierć (sam Koran nic o tym nie mówi).
 
 Drugi przykład, to „Ludzie Rowu” z sury LXXXV 1-9: 
