@@ -34,7 +34,7 @@ paginate_path: "/blog/page:num/"
 
 
 prose:
-  rooturl: '_posts'
+  ignore: ['_config.yml']
   siteurl: 'http://prose.github.io/starter/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
