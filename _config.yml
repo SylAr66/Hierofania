@@ -60,6 +60,7 @@ prose:
       - name: "tags"
         field:
           element: "multiselect"
+          alterable: 1
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
