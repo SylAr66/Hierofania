@@ -9,7 +9,8 @@ tags: ''
 ### Poznaj męczenników 
 
 Z grona niewielu męczenników, którzy pojawili się na kartach Koranu, mamy pewnego „człowieka wierzącego z rodu Faraona”, który ochronił Mojżesza, kiedy Faraon chciał go zabić za rzucenie mu wyzwania (XL:28-29): I powiedział pewien człowiek wierzący z rodu Faraona, który ukrywał swoją wiarę: 
-> „Czy zabijecie człowieka za to, że mówi: Mój Pan – to Bóg! - i przychodzi do was z jasnymi dowodami od waszego Pana? (…) O ludu mój! Do was należy królestwo dzisiaj i wy panujecie na ziemi. Lecz kto obroni nas przed srogością Boga, kiedy ona do nas przyjdzie?    
+
+> „Czy zabijecie człowieka za to, że mówi: Mój Pan – to Bóg! - i przychodzi do was z jasnymi dowodami od waszego Pana? (…) O ludu mój! Do was należy królestwo dzisiaj i wy panujecie na ziemi. Lecz kto obroni nas przed srogością Boga, kiedy ona do nas przyjdzie?       
 
 <!--more-->   
 
@@ -39,10 +40,10 @@ Innym przykład męczennika można odnaleźć w hadisach. Chodzi o historie Chub
 Poniżej wersja historii z hadisów:  
 
 > Posłaniec Boga wysłał dziesięciu szpiegów, a dowództwo nad nimi dał Asimowi b. Sabitowi al-Ansariemu. I znaleźli się na zboczu pomiędzy Usfari a Mekką. Nie uszło to uwadze [ludzi z] klanu Huzajl zwanego Ban Lihjan, którzy wysłali blisko stu strzelców [łuczników] (…), a gdy otoczyli ich [muzułmanów], powiedzieli: „jeśli wyjdziecie i poddacie się, będziecie chronieni traktatem i umową, że nie zabijemy żadnego z was. Asim rzekł: „O ludzie, nie oddamy się pod opiekę niewiernego: Boże – zanieś wieści o nas Twojemu Prorokowi”, a oni wystrzelili strzały i zabili Asima. 
-
 Trzech muzułmanów poddało się zgodnie z traktatem i umową: Chubajba, Zajd i jeszcze jeden człowiek. Kiedy byli bezbronni, oni [wrogowie] zdjęli cięciwy z łuku i związali ich. Trzeci człowiek powiedział: „To wygląda na zdradę, na Boga, nie pójdę z wami, ponieważ mam przykład w postaci tych”, mając na myśli tamtych, którzy zostali zabici. Toteż wlekli go i szamotali się z nim, lecz on odmówił pójścia z nimi, zatem odeszli z Chubajbem i Zajdem, aż sprzedali ich obu po bitwie pod Badr.    
 Banu al-Haris b. Amr b. Nawfal kupili Chubajba, bo to in zabił al-Harisa b. Amra w bitwie pod Badr. Tak więc Chubajb pozostał z nimi jako jeniec, aż postanowili go zabić. Poprosił o brzytwę jedną z córek al-Harisa, aby się ogolić, a ona podała mu ją. Jeden z jej małych synów oddalił się, kiedy nie uważała, i podszedł do niego, i zobaczyła, że siedzi mu na kolanach, a on trzyma w reku brzytwę. Powiedziała: „Byłam przerażona” i Chubajb wiedział o tym, więc rzekł: „Czyżbyś się bała, że go zabije? Nie zrobiłbym czegoś takiego”.   Powiedziała: „Nigdy nie widziałam lepszego jeńca niż Chubajb. Na Boga, pewnego dnia zobaczyłam, że je kiść winogron – chociaż był zakuty w kajdany – mimo że w Mekce nie było żadnych owoców”. Mówiła później, że było to pożywienie, które Chubajb otrzymał od Boga.  
-Kiedy zabrali go z Haramu, aby go zabić na zewnątrz, Chubajb rzekł im: „Pozwólcie mi wykonać dwa rakaty [skłony] modlitwy”, i zostawili go, więc wykonał dwa rakaty i powiedział: „Na Boga, gdyby nie to, że mogliby pomyśleć, iż się lękam, modliłbym się dłużej”. Powiedział: „O Boże! Policz każdego z nich, zabij ich oddzielnie i nie pozostaw żadnego!”. Potem rzekł: „Nie dbam o to, jaki był mój udział w walce dla Boga, gdyż ginę jako muzułmanin, a to jest udział w istocie boskości. Jeśli On zechce, pobłogosławi odcięte członki ciała!”_    
+Kiedy zabrali go z Haramu, aby go zabić na zewnątrz, Chubajb rzekł im: „Pozwólcie mi wykonać dwa rakaty [skłony] modlitwy”, i zostawili go, więc wykonał dwa rakaty i powiedział: „Na Boga, gdyby nie to, że mogliby pomyśleć, iż się lękam, modliłbym się dłużej”. Powiedział: „O Boże! Policz każdego z nich, zabij ich oddzielnie i nie pozostaw żadnego!”. Potem rzekł: „Nie dbam o to, jaki był mój udział w walce dla Boga, gdyż ginę jako muzułmanin, a to jest udział w istocie boskości. Jeśli On zechce, pobłogosławi odcięte członki ciała!”
+
 Abu Saru's Ukba b. al-Haris podszedł do niego i zabił go. Chubajb był wzorem dla każdego muzułmanina, który został zabity, gdy nie mógł się bronić.
 
 #### Klasyczne chwyty historii męczeństwa w islamie:  
@@ -62,7 +63,7 @@ Kolejną ważną postacią jest **Dżafar AT-Tajjar** (młodszy brat zięcia pro
 Potem nie było więcej historii o poległych, „bohaterskich” dowódcach, ponieważ później dowódcy wojskowi nie brali czynnego udziału w starciu, tylko wydawali rozkazy.     
 **Jeśli przeanalizować historie wojowników-męczenników islamu, to są one bardzo podobne do przedislamskich, arabskich poematów gatunku nazywanego „bitewne dni Arabów”.** Charakteryzują się one indywidualnym heroizmem, idealizacją walki, poetycznym ujęciem śmierci wojownika. W okresie wielkich podbojów muzułmańskich, po śmierci proroka, historie tego typu stopniowo zanikały.
 
-####Czasy wielkich podbojów. Kto jest męczennikiem?
+#### Czasy wielkich podbojów. Kto jest męczennikiem?
 
 - **Muzułmanie polegli w bitwie**. Sądzę, że ta kategoria nie wymaga komentarza.
 - **Muzułmanie zmarli na skutek zarazy**.    
