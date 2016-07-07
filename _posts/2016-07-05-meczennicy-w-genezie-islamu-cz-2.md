@@ -3,8 +3,6 @@ layout: post
 category: blog
 published: true
 title: 'CZĘSĆ II: MĘCZENNICY W GENEZIE ISLAMU'
-splash: ''
-tags: ''
 ---
 ### Poznaj męczenników 
 
@@ -32,7 +30,7 @@ Do którego należy królestwo niebios i ziemi.
 A jest Allach świadkiem nad wszystkimi rzeczami.  
 Na tych, którzy prześladują wierzących mężczyzn i wierzące niewiasty,  
 a potem nie okazują skruchy, czeka niechybnie kara Piekła  
-i dla nich przeznaczona męka palenia._     
+i dla nich przeznaczona męka palenia.    
 
 Co ciekawe, pojawiają się sugestie, że ów fragment opowiada o historii chrześcijańskich męczenników z Nadżranu, których zabito z rozkazu żydowskiego władcy Zu an-Nuwasa (VI w. n.e.).  
 
@@ -66,12 +64,15 @@ Potem nie było więcej historii o poległych, „bohaterskich” dowódcach, po
 #### Czasy wielkich podbojów. Kto jest męczennikiem?
 
 - **Muzułmanie polegli w bitwie**. Sądzę, że ta kategoria nie wymaga komentarza.
-- **Muzułmanie zmarli na skutek zarazy**.    
+- **Muzułmanie zmarli na skutek zarazy**.
+
 Pierwsi wyznawcy islamu byli koczownikami/półkoczownikami i nie mieli wiedzy o zarazach, które pojawiły się po 540 r. n.e. Zaraza nazywana „plagą z Emmaus” uśmierciła znaczną część muzułmańskiej armii (637, Syro-Palestyna).     
 Według tradycji: „kto umiera przebity nożem, albo od zarazy jest męczennikiem”. Najprawdopodobniej ta tradycja wykształciła się po to, aby zapobiec ucieczce muzułmanów z zarażonych terenów, ponieważ mogliby w ten sposób rozprzestrzenić zarazę na inne rejony i społeczności.    
 Figurą modelowego męczennika tej kategorii stał się Mu'aza Dżabala, muzułmański asceta i żołnierz. Nawoływał on do pozostania w rejonie ogarniętym zarazę mówiąc, że epidemia jest: "błogosławieństwem od waszego Pana, modlitwą Jego proroka, i sposobem, w jaki zmarli sprawiedliwi przed wami" i modlił się: "O Boże, daj mi i mojej rodzinie najobfitszą porcję tej zarazy, gdyż ty możesz wszystko uczynić". Jego modlitwa była wysłuchana i najpierw zaraził się jego syn, a później on, ponieważ do samego końca czuwał przy łożu syna. W jego przypadku pierwszy raz pojawia się przedśmiertny monolog, który był wystylizowany na kazanie. Sam opis umierania Dżabala pozbawiony jest opisów cierpienia czy brzydoty zarażonego ciała (takie opisy pojawiają się w hagiografiach męczenników chrześcijańskich). W islamie nie ma to znaczenia, a wręcz jest niepożądane.    
 Idea męczenników, którzy zmarli przez zarazę była popularna, ponieważ epidemie pojawiały się kilkukrotnie rejonie wpływów muzułmanów, np. "czarna śmierć". W XIV w. pojawiła się fatwa (opinia prawna) wydana przez as-Subkiego wyjaśniająca, dlaczego śmierć od zarazy jest męczeństwem. Ujęcie zarazy w ramy religijne było dobrym posunięciem, ponieważ wzór Dżabala sprawił, że muzułmanie dobrowolnej poddawali się kwarantannie. Dzięki temu w świecie muzułmańskim śmiertelność z powodu epidemii była o wiele niższa, niż np. w Europie.
-- **Muzułmanie torturowany z powodu wiary, przez niemuzułmanów.**      
+
+- **Muzułmanie torturowany z powodu wiary, przez niemuzułmanów.** 
+
 Jest to bardzo skromna kategoria, ponieważ w opinii prawników, muzułmanie nie powinni mieszkać w regionach, w których władza należy do niemuzułmanów. Władze większości krajów, z którymi sąsiadowali, nie próbowały nawracać muzułmanów. Wyjątek stanowiło chrześcijańskie Bizancjum. Niektóre dzieła dotyczące dżihadu przytaczają historie muzułmanów, którzy w zamian za uwolnienie mieli przejść na chrześcijaństwo. Jednak takich opowieści jest bardzo mało. Najczęściej muzułmańscy jeńcy, albo byli wykupywani przez krewnych, albo trafiali na targi niewolników w Bizancjum lub Europie. Jako niewolnicy zapewne musieli przejść na religię swojego pana.       
 Jedną z popularniejszych opowieści jest historia pewnej grupy muzułmanów, którzy mieli wybór: albo przejdą na chrześcijaństwo, albo zostaną wrzuceni do kotła z wrzącym olejem. Sprawa jednak została załatwiona polubownie. Jeden muzułmanin pocałował chrześcijanina w głowę, a ten wypuścił wszystkich.       
 W innej historii pojawia się fragment, w którym muzułmanie mają wybierać pomiędzy głodem, a spożyciem wieprzowiny.
