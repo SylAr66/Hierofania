@@ -2,10 +2,9 @@
 ## Technical
 
 email: 'kontakt@hierofania.pl'
-base_url:  'http://sylar66.github.io/Hierofania/'
-url: 'http://HIEROFANIA.pl'
+url: 'hierofania.pl'
 excerpt_separator: '<!--more-->'
-
+# base_url:  'http://sylar66.github.io/Hierofania/'
  
 ##Authoring
 title: 'HIEROFANIA'
