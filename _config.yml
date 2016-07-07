@@ -42,7 +42,7 @@ prose:
       - name: "category"
         field:
           element: "hidden"
-          value: "blog"
+          value: "article"
       - name: "layout"
         field:
           element: "hidden"
@@ -114,6 +114,10 @@ prose:
           label: "Permalink"
           value: ""
     _posts/blog:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
       - name: "layout"
         field:
           element: "hidden"
@@ -123,8 +127,8 @@ prose:
           element: "text"
           label: "Title"
           value: ""
-      - name: "permalink"
+      - name: "splash"
         field:
           element: "text"
-          label: "Permalink"
+          label: "Splash image"
           value: ""
