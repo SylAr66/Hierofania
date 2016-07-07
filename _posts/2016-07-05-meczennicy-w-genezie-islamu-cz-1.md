@@ -61,7 +61,7 @@ Z jednej strony „świadek” ma być aktywny, czyli być świadectwem dla inny
 
 Lub w innym wersie (XLVIII:28): 
 
-> On, który wysłał swego proroka z drogą prostą i religią prawdy, aby jej dać wyższość nad wszelką religią! A Bóg wystarczy jako świadek!_  
+> On, który wysłał swego proroka z drogą prostą i religią prawdy, aby jej dać wyższość nad wszelką religią! A Bóg wystarczy jako świadek!
 
 To były przykłady użycia słowa _szahid_ w znaczeniu „świadek”. W Koranie występują jeszcze niejasny fragment, w których słowo to może odzwierciedlać sens męczeński. Ów fragment stał się bardzo ważny w późniejszym islamie, gdy rozwijała się koncepcja męczeńska:   
 III:138-143: 
