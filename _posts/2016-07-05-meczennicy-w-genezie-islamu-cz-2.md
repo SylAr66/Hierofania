@@ -8,11 +8,15 @@ tags: ''
 ---
 ### Poznaj męczenników 
 
-Z grona niewielu męczenników, którzy pojawili się na kartach Koranu, mamy pewnego „człowieka wierzącego z rodu Faraona”, który ochronił Mojżesza, kiedy Faraon chciał go zabić za rzucenie mu wyzwania (XL:28-29): I powiedział pewien człowiek wierzący z rodu Faraona, który ukrywał swoją wiarę: > _„Czy zabijecie człowieka za to, że mówi: Mój Pan – to Bóg! - i przychodzi do was z jasnymi dowodami od waszego Pana? (…) O ludu mój! Do was należy królestwo dzisiaj i wy panujecie na ziemi. Lecz kto obroni nas przed srogością Boga, kiedy ona do nas przyjdzie?_  
-<!--more-->    
+Z grona niewielu męczenników, którzy pojawili się na kartach Koranu, mamy pewnego „człowieka wierzącego z rodu Faraona”, który ochronił Mojżesza, kiedy Faraon chciał go zabić za rzucenie mu wyzwania (XL:28-29): I powiedział pewien człowiek wierzący z rodu Faraona, który ukrywał swoją wiarę: 
+> „Czy zabijecie człowieka za to, że mówi: Mój Pan – to Bóg! - i przychodzi do was z jasnymi dowodami od waszego Pana? (…) O ludu mój! Do was należy królestwo dzisiaj i wy panujecie na ziemi. Lecz kto obroni nas przed srogością Boga, kiedy ona do nas przyjdzie?    
+
+<!--more-->   
+
 **Takie oświadczenie mieści się w kategorii dżihadu** – rzucenie w twarz tyranowi słów prawdy. Nie wiadomo, czy człowiek został zabity za swoje słowa. Niektórzy uczeni twierdzili, że była to kobieta i została po tych słowach zamęczona na śmierć (sam tekst Koranu nic o tym nie wspomina).  
 
-Drugi przykład, to „Ludzie Rowu” z sury LXXXV 1-9:     
+Drugi przykład, to „Ludzie Rowu” z sury LXXXV 1-9:
+
 > W imię Boga, Miłosiernego, Litościwego  
 Na niebo, posiadające budowle z gwiazd,  
 I Obiecany Dzień,  
@@ -27,15 +31,14 @@ Do którego należy królestwo niebios i ziemi.
 A jest Allach świadkiem nad wszystkimi rzeczami.  
 Na tych, którzy prześladują wierzących mężczyzn i wierzące niewiasty,  
 a potem nie okazują skruchy, czeka niechybnie kara Piekła  
-i dla nich przeznaczona męka palenia._  
-
+i dla nich przeznaczona męka palenia._     
 
 Co ciekawe, pojawiają się sugestie, że ów fragment opowiada o historii chrześcijańskich męczenników z Nadżranu, których zabito z rozkazu żydowskiego władcy Zu an-Nuwasa (VI w. n.e.).  
 
 Innym przykład męczennika można odnaleźć w hadisach. Chodzi o historie Chubajba Adiego. W 625 r. Chubajba został pojmany i zgładzony w ramach zemsty za śmierć wojowników w bitwie pod Badr. Nie jest to męczeństwo związane z wyznawaną wiarą, ale łączy się z przynależnością do wspólnoty muzułmańskiej.  
 Poniżej wersja historii z hadisów:  
 
-> Posłaniec Boga wysłał dziesięciu szpiegów, a dowództwo nad nimi dał Asimowi b. Sabitowi al-Ansariemu. I znaleźli się na zboczu pomiędzy Usfari a Mekką. Nie uszło to uwadze [ludzi z] klanu Huzajl zwanego Ban Lihjan, którzy wysłali blisko stu strzelców /[łuczników/] (…), a gdy otoczyli ich /[muzułmanów/], powiedzieli: „jeśli wyjdziecie i poddacie się, będziecie chronieni traktatem i umową, że nie zabijemy żadnego z was. Asim rzekł: „O ludzie, nie oddamy się pod opiekę niewiernego: Boże – zanieś wieści o nas Twojemu Prorokowi”, a oni wystrzelili strzały i zabili Asima. 
+> Posłaniec Boga wysłał dziesięciu szpiegów, a dowództwo nad nimi dał Asimowi b. Sabitowi al-Ansariemu. I znaleźli się na zboczu pomiędzy Usfari a Mekką. Nie uszło to uwadze [ludzi z] klanu Huzajl zwanego Ban Lihjan, którzy wysłali blisko stu strzelców [łuczników] (…), a gdy otoczyli ich [muzułmanów], powiedzieli: „jeśli wyjdziecie i poddacie się, będziecie chronieni traktatem i umową, że nie zabijemy żadnego z was. Asim rzekł: „O ludzie, nie oddamy się pod opiekę niewiernego: Boże – zanieś wieści o nas Twojemu Prorokowi”, a oni wystrzelili strzały i zabili Asima. 
 
 Trzech muzułmanów poddało się zgodnie z traktatem i umową: Chubajba, Zajd i jeszcze jeden człowiek. Kiedy byli bezbronni, oni [wrogowie] zdjęli cięciwy z łuku i związali ich. Trzeci człowiek powiedział: „To wygląda na zdradę, na Boga, nie pójdę z wami, ponieważ mam przykład w postaci tych”, mając na myśli tamtych, którzy zostali zabici. Toteż wlekli go i szamotali się z nim, lecz on odmówił pójścia z nimi, zatem odeszli z Chubajbem i Zajdem, aż sprzedali ich obu po bitwie pod Badr.    
 Banu al-Haris b. Amr b. Nawfal kupili Chubajba, bo to in zabił al-Harisa b. Amra w bitwie pod Badr. Tak więc Chubajb pozostał z nimi jako jeniec, aż postanowili go zabić. Poprosił o brzytwę jedną z córek al-Harisa, aby się ogolić, a ona podała mu ją. Jeden z jej małych synów oddalił się, kiedy nie uważała, i podszedł do niego, i zobaczyła, że siedzi mu na kolanach, a on trzyma w reku brzytwę. Powiedziała: „Byłam przerażona” i Chubajb wiedział o tym, więc rzekł: „Czyżbyś się bała, że go zabije? Nie zrobiłbym czegoś takiego”.   Powiedziała: „Nigdy nie widziałam lepszego jeńca niż Chubajb. Na Boga, pewnego dnia zobaczyłam, że je kiść winogron – chociaż był zakuty w kajdany – mimo że w Mekce nie było żadnych owoców”. Mówiła później, że było to pożywienie, które Chubajb otrzymał od Boga.  
@@ -43,6 +46,7 @@ Kiedy zabrali go z Haramu, aby go zabić na zewnątrz, Chubajb rzekł im: „Poz
 Abu Saru's Ukba b. al-Haris podszedł do niego i zabił go. Chubajb był wzorem dla każdego muzułmanina, który został zabity, gdy nie mógł się bronić.
 
 #### Klasyczne chwyty historii męczeństwa w islamie:  
+
 - Niewinny człowiek – poddał się prawu wojennemu 
 - Postacie, które wolały umrzeć – również wykorzystywane jako wzory męczeństwa
 - Bohater pozostaje „czysty moralnie”, nie przekracza prawa wojennego, któremu się poddał pomimo, że mógł zabić chłopca powołując się na prawo zemsty za zdradę – przykład z brzytwą.    
