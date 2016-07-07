@@ -7,10 +7,12 @@ splash: ''
 tags: ''
 ---
 Koncepcja męczeństwa w islamie jest dość uboga. Prorok Mahomet podczas głoszenia monoteistycznej wiary w jednego Boga Allaha, spotkał się z ostracyzmem, niechęcią i groźbami (mówią o tym sury CVIII, CXI), jednak przed poważniejszymi atakami chroniło go pochodzenie i krewni. Ci, którzy posiadali w Mekce jakąś pozycje i rodzinę, nie musieli obawiać się żadnego prześladowania.
+
 <!--more-->
 
 Dla chrześcijan podstawą wiary jest męczeńska śmierć Jezusa na krzyżu. Natomiast w islamie, fizyczne cierpienie Mahometa byłoby niegodne dla posłańca Boga. Chrystus jest uważany za jednego z wybrańców Boga (jak Abraham, Mojżesz, Mahomet) ale odrzucona jest jego męczeńska śmierć. Bycie posłańcem wyklucza możliwość tego, aby człowiek był poniżony czy cierpiał, a tym bardziej, żeby płynęła z tego jakaś pozytywna, zbawcza wartość.
 Koran IV:157-158:
+
 > I za to że [Żydzi] powiedzieli: „zabiliśmy Jezusa, syna Marii, posłańca Boga” - podczas gdy oni ani go nie zabili, ani go nie ukrzyżowali, tylko im się tak zdawało. I zaprawdę ci, którzy się różnią w tej sprawie, są z pewnością w zwątpieniu; oni nie mają o tym żadnej wiedzy, idą tylko za przypuszczeniem; oni go nie zabili z pewnością. Przeciwnie! Wyniósł go Bóg do Siebie!
 
 ### Niewolnicy – pierwsi męczennicy?
@@ -22,8 +24,13 @@ Jedna z opowieści z okresu działalności Mahometa w Mekce, opowiada historię 
 Pierwszym męczennikiem, który zginął ze względu na swoją wiarę, była niewolnica Sumijja bint Chajjat. Została pobita i dźgnięta nożem przez Abu Dżahla (wroga muzułmanów z dominującego klanu Kurajszytów).
 
 Prześladowania dotyczyły tylko małej grupy muzułmanów, nigdy nie były wymierzone w wyżej postawionych wiernych. Znany jest tylko jeden przypadek morderstwa z tego powodu. Jednak rodząca się wspólnota czuła się uciśniona i odeszła.
-W Koranie pojawia się wzmianka o wczesnomuzułmańskiej wspólnocie, jako ludziach słabych i prześladowanych (IV:76): _> A dlaczego wy nie mielibyście walczyć za sprawę Allacha oraz by ratować słabych mężczyzn, niewiasty i dzieci, którzy powiadają: „Panie nasz, wyprowadź nas z tego miasta, którego ludem są ciemiężcy i daj nam od Siebie przyjaciela i pomocnika"._
-Oraz (VIII:27): _> Przypomnijcie sobie, kiedy było was niewielu i w kraju uważano was za słabych i kiedy baliście się, żeby lud was nie oderwał, a On dał wam schronienie i wzmocnił was swoją pomocą i dał wam dobre rzeczy, byście byli wdzięczni._
+W Koranie pojawia się wzmianka o wczesnomuzułmańskiej wspólnocie, jako ludziach słabych i prześladowanych (IV:76): 
+
+> A dlaczego wy nie mielibyście walczyć za sprawę Allacha oraz by ratować słabych mężczyzn, niewiasty i dzieci, którzy powiadają: „Panie nasz, wyprowadź nas z tego miasta, którego ludem są ciemiężcy i daj nam od Siebie przyjaciela i pomocnika".
+
+Oraz (VIII:27): 
+
+> Przypomnijcie sobie, kiedy było was niewielu i w kraju uważano was za słabych i kiedy baliście się, żeby lud was nie oderwał, a On dał wam schronienie i wzmocnił was swoją pomocą i dał wam dobre rzeczy, byście byli wdzięczni.
 
 *dwie najważniejsze boginie w Mekce przed nastaniem islamu. 
 
@@ -31,7 +38,10 @@ Oraz (VIII:27): _> Przypomnijcie sobie, kiedy było was niewielu i w kraju uważ
 W 622 r. Mahomet i jego wyznawcy wyemigrowali z Mekki i udali się do Medyny ("Wielka Emigracja" czyli Hidżra), której większość mieszkańców wcześniej nawróciła się na islam. I tutaj właśnie pojawia się najważniejsza różnica pomiędzy męczeństwem w islamie, a np. w chrześcijaństwie. Historia islamu nie była pozbawiona doczesnych sukcesów w pierwszych latach istnienia. 
 
 Muzułmanie zdominowali Medynę i mogli stworzyć w niej swoją gminę. Byli na tyle wpływowi i liczni, że Mahomet zdecydował się podjąć walkę z rodzinną Mekką. Usankcjonowane zostało to ową Hidżrą. 
-Koran ujmuje to tak (XXII:39-40):_> Wolno walczyć tym, którzy doznają krzywdy – Zaprawdę, Bóg jest wszechwładny, by udzielić im pomocy! - i tym, którzy zostali wypędzeni bezprawnie ze swoich domostw, jedynie za to, iż powiedzieli: „Pan nasz – to Bóg!”. I jeśliby Bóg nie odepchnął ludzi, jednych przy pomocy drugich, to zostałyby zniszczone klasztory i kościoły, miejsca modlitwy i meczety, gdzie często wspomina się imię Boga._ 
+Koran ujmuje to tak (XXII:39-40):
+
+> Wolno walczyć tym, którzy doznają krzywdy – Zaprawdę, Bóg jest wszechwładny, by udzielić im pomocy! - i tym, którzy zostali wypędzeni bezprawnie ze swoich domostw, jedynie za to, iż powiedzieli: „Pan nasz – to Bóg!”. I jeśliby Bóg nie odepchnął ludzi, jednych przy pomocy drugich, to zostałyby zniszczone klasztory i kościoły, miejsca modlitwy i meczety, gdzie często wspomina się imię Boga.
+
 Kwestią dyskusyjną jest, czy Hidżra jest „wypędzeniem”, ponieważ muzułmanie sami zdecydowali się odejść z Mekki. Nie zostali z niej usunięci siłą. Jednak według tradycji nie mieli ze sobą swoich majątków, gdyż nie pozwolono im ich zabrać. Okradziono ich.
 Ten werset jest bardzo ważny, gdyż on właśnie przedstawia męczennika w wersji islamskiej. **Męczennik w islamie to człowiek poszukujący sprawiedliwości i walczący**. W chrześcijaństwie natomiast męczennik był bierny i poddany.
 
@@ -44,12 +54,20 @@ Taka ilość zwycięstw nie była materiałem do stworzenia koncepcji męczeńst
 
 ### Szahid – geneza
 Słowo _szahid_ (_szuhada_ w l.mn.) w Koranie pojawia się przede wszystkim w znaczeniu „świadek”, czyli muzułmanin jest „świadkiem” przeciwko/wobec/dla innych grup:  
-(XXII:78) > _I bądźcie gorliwi w walce za sprawę Boga gorliwością, na jaką On zasługuje! On was wybrał i nie uczynił żadnej trudności w waszej religii, religii waszego ojca Abrahama. On nawał was muzułmanami, niegdyś i obecnie, aby Posłaniec był świadkiem dla was i abyście wy byli świadkami dla ludzi. Odprawiajcie więc modlitwę! Dawajcie jałmużnę! I trzymajcie się mocno Boga!
-Z jednej strony „świadek” ma być aktywny, czyli być świadectwem dla innych, ale i ma być również świadkiem przeciw innym na Sądzie, jak w wersie (II:143): W ten sposób My uczyniliśmy was narodem znajdującym się pośrodku, abyście byli świadkami dla ludzi i aby Posłaniec [Mahomet] był świadkiem dla was_,    
-Lub w innym wersie (XLVIII:28): _> On, który wysłał swego proroka z drogą prostą i religią prawdy, aby jej dać wyższość nad wszelką religią! A Bóg wystarczy jako świadek!_  
+(XXII:78) 
+
+> I bądźcie gorliwi w walce za sprawę Boga gorliwością, na jaką On zasługuje! On was wybrał i nie uczynił żadnej trudności w waszej religii, religii waszego ojca Abrahama. On nawał was muzułmanami, niegdyś i obecnie, aby Posłaniec był świadkiem dla was i abyście wy byli świadkami dla ludzi. Odprawiajcie więc modlitwę! Dawajcie jałmużnę! I trzymajcie się mocno Boga!
+Z jednej strony „świadek” ma być aktywny, czyli być świadectwem dla innych, ale i ma być również świadkiem przeciw innym na Sądzie, jak w wersie (II:143): W ten sposób My uczyniliśmy was narodem znajdującym się pośrodku, abyście byli świadkami dla ludzi i aby Posłaniec [Mahomet] był świadkiem dla was,  
+
+Lub w innym wersie (XLVIII:28): 
+
+_> On, który wysłał swego proroka z drogą prostą i religią prawdy, aby jej dać wyższość nad wszelką religią! A Bóg wystarczy jako świadek!_  
 
 To były przykłady użycia słowa _szahid_ w znaczeniu „świadek”. W Koranie występują jeszcze niejasny fragment, w których słowo to może odzwierciedlać sens męczeński. Ów fragment stał się bardzo ważny w późniejszym islamie, gdy rozwijała się koncepcja męczeńska:   
-III:138-143: > _To jest wyjaśnienie dla ludzi, droga prosta i napomnienie dla bogobojnych. I nie słabnijcie, i nie smućcie się; wy będziecie górą, jeśli jesteście wierzącymi! Jeśli boli was jakaś rana, to podobna rana boli innych ludzi. Takie dni zmieniamy kolejno wśród ludzi, żeby Bóg poznał tych, którzy wierzą, i wziąć spośród was światków [szuhada] – a Bóg nie kocha ludzi niesprawiedliwych – i aby oczyścił tych, którzy wierzą, i unicestwił niewiernych. Czy sądzicie, że wejdziecie do Ogrodu, zanim jeszcze Bóg uzna tych spośród was, którzy się zmagali w walce, i pozna tych, którzy są wytrwali? Wy życzyliście sobie śmierci, zanim ją spotkaliście. Teraz już ją ujrzeliście i będziecie na nią patrzeć._
+III:138-143: 
+
+> To jest wyjaśnienie dla ludzi, droga prosta i napomnienie dla bogobojnych. I nie słabnijcie, i nie smućcie się; wy będziecie górą, jeśli jesteście wierzącymi! Jeśli boli was jakaś rana, to podobna rana boli innych ludzi. Takie dni zmieniamy kolejno wśród ludzi, żeby Bóg poznał tych, którzy wierzą, i wziąć spośród was światków [szuhada] – a Bóg nie kocha ludzi niesprawiedliwych – i aby oczyścił tych, którzy wierzą, i unicestwił niewiernych. Czy sądzicie, że wejdziecie do Ogrodu, zanim jeszcze Bóg uzna tych spośród was, którzy się zmagali w walce, i pozna tych, którzy są wytrwali? Wy życzyliście sobie śmierci, zanim ją spotkaliście. Teraz już ją ujrzeliście i będziecie na nią patrzeć.
+
 Według tradycji, fragment ten pochodzi z czasów przegranej bitwy pod Uhud. Pojawia się tam odniesienie do raju i życzenie śmierci, które kieruje nas w stronę męczeństwa. Jednak jeśli podążać za tradycją, to celem tego ustępu było podniesienie na duchu przegranych muzułmanów, a nie promowanie męczeństwa. Jest to jedynie ukazanie poległych, jak zasłużonych dla islamu. 
 
 ### Gdzie szukać dżihadu?
