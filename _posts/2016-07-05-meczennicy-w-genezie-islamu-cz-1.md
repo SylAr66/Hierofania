@@ -79,7 +79,7 @@ Pierwsze zdanie: "I nie uważajcie tych, którzy zostali zabici na drodze Boga, 
 Sura VIII miała powstać po bitwie pod Badr i miała pokazać, że Allah sam bierze udział w walce. Bóg pozwolił muzułmanom wygrać: _tak, żeby utwierdzić prawdę, a zniweczyć fałsz, chociażby to było nienawistne dla grzeszników, albo: to nie wy ich zabijaliście, lecz Bóg ich zabijał. To nie ty rzuciłeś, kiedy rzuciłeś, lecz to Bóg rzucił; aby doświadczyć wiernych doświadczeniem pięknym, pochodzącym od Niego_. W innym fragmencie pojawia się wzmianka, iż muzułmanie dzięki wsparciu Boga mogą pokonać nawet o wiele liczniejszy oddział (VIII:65-66): _> O proroku, Allah jest dla ciebie Wystarczający oraz dla tych, którzy spośród wiernych idą za tobą. O proroku, ponaglaj wiernych do walki. Jeśli będzie was dwudziestu wytrwałych, pokonają dwie setki, a jeśli będzie was stu, pokonają tysiąc tych, którzy nie wierzą, albowiem są ludem, który nie rozumie._
 Fundament pojęcia dżihadu pojawia się w surze IX:111:_> Zaprawdę, Bóg kupił u wiernych ich dusze i ich majątki, w zamian za co otrzymają Ogród. Oni walczą na drodze Boga i zabijają i są zabijani, zgodnie z Jego prawdziwą obietnicą w Torze, Ewangelii i Koranie. A kto wierniej wypełnia swoje przymierze aniżeli Bóg? Cieszcie się więc z handlu, jaki z Nim zrobiliście! To jest osiągnięcie ogromne!_
 Dalsze części sury IX mówi o tym, z jakimi ludami można walczyć, jakie są ku temu podstawy, albo w jaki sposób muzułmanie powinni traktować swoich krewnych, którzy nie są przychylni islamowi.
-
+ 
 
 Na podstawie:        
 David Cook, _Męczeństwo w islamie_, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2009.
