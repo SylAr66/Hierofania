@@ -61,7 +61,7 @@ Z jednej strony „świadek” ma być aktywny, czyli być świadectwem dla inny
 
 Lub w innym wersie (XLVIII:28): 
 
-_> On, który wysłał swego proroka z drogą prostą i religią prawdy, aby jej dać wyższość nad wszelką religią! A Bóg wystarczy jako świadek!_  
+> On, który wysłał swego proroka z drogą prostą i religią prawdy, aby jej dać wyższość nad wszelką religią! A Bóg wystarczy jako świadek!_  
 
 To były przykłady użycia słowa _szahid_ w znaczeniu „świadek”. W Koranie występują jeszcze niejasny fragment, w których słowo to może odzwierciedlać sens męczeński. Ów fragment stał się bardzo ważny w późniejszym islamie, gdy rozwijała się koncepcja męczeńska:   
 III:138-143: 
@@ -71,8 +71,11 @@ III:138-143:
 Według tradycji, fragment ten pochodzi z czasów przegranej bitwy pod Uhud. Pojawia się tam odniesienie do raju i życzenie śmierci, które kieruje nas w stronę męczeństwa. Jednak jeśli podążać za tradycją, to celem tego ustępu było podniesienie na duchu przegranych muzułmanów, a nie promowanie męczeństwa. Jest to jedynie ukazanie poległych, jak zasłużonych dla islamu. 
 
 ### Gdzie szukać dżihadu?
-Kolejny werset (również związany z bitwą pod Uhud) jest istotny dla całej późniejszej koncepcji męczeństwa (III:169-170): _> I nie uważajcie tych, którzy zostali zabici na drodze Boga, za umarłych. Przeciwnie, oni są żyjący! Oni u swego Pana otrzymują zaopatrzenie, radując się tym, co im dał Bóg za Swojej łaski. I oni radują się na myśl o tych, którzy z nimi nie połączyli się i pozostawali w tyle, ponieważ oni nie doznają żadnego strachu i nie będą zasmuceni._   
-Pierwsze zdanie: _I nie uważajcie tych, którzy zostali zabici na drodze Boga, za umarłych,_ na stałe związało się z późniejszym pojęciem **dżihadu** (święta wojna podejmowana w obronie islamu). **Koraniczna wykładnia dżihadu pojawia się w surach VIII i IX**. We wczesnym islamie dżihad jako taki, nie funkcjonował.  
+Kolejny werset (również związany z bitwą pod Uhud) jest istotny dla całej późniejszej koncepcji męczeństwa (III:169-170): 
+
+> I nie uważajcie tych, którzy zostali zabici na drodze Boga, za umarłych. Przeciwnie, oni są żyjący! Oni u swego Pana otrzymują zaopatrzenie, radując się tym, co im dał Bóg za Swojej łaski. I oni radują się na myśl o tych, którzy z nimi nie połączyli się i pozostawali w tyle, ponieważ oni nie doznają żadnego strachu i nie będą zasmuceni.
+
+Pierwsze zdanie: "I nie uważajcie tych, którzy zostali zabici na drodze Boga, za umarłych," na stałe związało się z późniejszym pojęciem **dżihadu** (święta wojna podejmowana w obronie islamu). **Koraniczna wykładnia dżihadu pojawia się w surach VIII i IX**. We wczesnym islamie dżihad jako taki, nie funkcjonował.  
 Sura VIII miała powstać po bitwie pod Badr i miała pokazać, że Allah sam bierze udział w walce. Bóg pozwolił muzułmanom wygrać: _tak, żeby utwierdzić prawdę, a zniweczyć fałsz, chociażby to było nienawistne dla grzeszników, albo: to nie wy ich zabijaliście, lecz Bóg ich zabijał. To nie ty rzuciłeś, kiedy rzuciłeś, lecz to Bóg rzucił; aby doświadczyć wiernych doświadczeniem pięknym, pochodzącym od Niego_. W innym fragmencie pojawia się wzmianka, iż muzułmanie dzięki wsparciu Boga mogą pokonać nawet o wiele liczniejszy oddział (VIII:65-66): _> O proroku, Allah jest dla ciebie Wystarczający oraz dla tych, którzy spośród wiernych idą za tobą. O proroku, ponaglaj wiernych do walki. Jeśli będzie was dwudziestu wytrwałych, pokonają dwie setki, a jeśli będzie was stu, pokonają tysiąc tych, którzy nie wierzą, albowiem są ludem, który nie rozumie._
 Fundament pojęcia dżihadu pojawia się w surze IX:111:_> Zaprawdę, Bóg kupił u wiernych ich dusze i ich majątki, w zamian za co otrzymają Ogród. Oni walczą na drodze Boga i zabijają i są zabijani, zgodnie z Jego prawdziwą obietnicą w Torze, Ewangelii i Koranie. A kto wierniej wypełnia swoje przymierze aniżeli Bóg? Cieszcie się więc z handlu, jaki z Nim zrobiliście! To jest osiągnięcie ogromne!_
 Dalsze części sury IX mówi o tym, z jakimi ludami można walczyć, jakie są ku temu podstawy, albo w jaki sposób muzułmanie powinni traktować swoich krewnych, którzy nie są przychylni islamowi.
