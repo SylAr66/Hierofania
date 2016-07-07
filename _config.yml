@@ -23,7 +23,7 @@ twitter_username: HierofaniaPL
 
 
 #Build Settings
-markdown: kramdown
+
 highlighter:  rouge
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
