@@ -37,13 +37,13 @@ Kolejny portal, który napisał o wydarzeniu to **niezależna.pl** opierając si
 
 ![tweety1.jpg]({{site.baseurl}}/img/tweety1.jpg)
 
-Jednak nie jest to raczej „pomyłka” mająca na celu oczernić kościół katolicki, ponieważ taka informacja pojawia się w tekstach, które czytałam. Jest to również wiedza dość powszechna. 
+Jednak nie jest to raczej „pomyłka” mająca na celu oczernić kościół katolicki, ponieważ taka informacja pojawia się w tekstach, które czytałam. Jest to również wiedza dość powszechna (choćby wzmianka o niej na wikipedii). 
 > Trina naprawdę nazywała się Katarzyna (Kathrin) Zimmermann. Trina - jest skrótem o zabarwieniu negatywnym, pogardliwym, używanym do wyszydzenia danej osoby. To samo dotyczy rzekomego nazwiska Papistin, które oznacza pogardliwie - wyznania katolickiego.         
 Więcej imormacji o słupskiej Baszcie Czarownic znajdziesz: http://odkryjpomorze.pl/pokaz_obiekt-4018-Trina_Papistin_8211_kobieta_ktora_splonela_na_stosie.html
  
 > Naprawdę nazywała się Katarzyna Zimmerman, była żoną rzeźnika i znała się na ludowej medycynie. Trina Papisten, jak jest dziś powszechnie nazywana, była pogardliwym określeniem. Wskazywało, że kobieta jest wyznania katolickiego. A w pruskim Słupsku większość mieszkańców stanowili wówczas luteranie. Wyznania protestanckiego były także władze.
 (http://wyborcza.pl/1,75398,20327853,biedron-przywraca-dobre-imie-spalonej-w-slupsku-czarownicy.html)
 
-Podobno na stronie Słupska był błąd przypisujący zbrodnie inkwizycji (tak twierdzi autor artykułu, racjonalista.pl). Nie jestem w stanie tego sprawdzić. Jeśli taki był, został poprawiony.  
+Podobno na stronie Słupska był błąd przypisujący zbrodnie inkwizycji (tak twierdzi autor artykułu, racjonalista.pl). Nie jestem w stanie tego sprawdzić. Jeśli taki był, został już poprawiony.  
 
 Wydaje się, że samo nazwanie ronda imieniem zielarki, nie jest tak kontrowersyjne, jak osoba prezydenta miasta, Roberta Biedronia, który niektórym osobą kojarzy się wyjątkowo negatywnie. 
