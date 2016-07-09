@@ -28,6 +28,9 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 paginate: 4
 paginate_path: "/blog/page:num/"
+
+sass:
+    sass_dir: _sass
 #permalink: /blog/:title
 
   #relativeLinks: 'http://prose.github.io/starter/links.jsonp'
