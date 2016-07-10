@@ -3,19 +3,18 @@ layout: post
 category: blog
 published: true
 title: Rondo Triny Papisten w Slupsku. Nie wszystkim się to podoba
-splash: ''
 ---
 Dość niecodziennym wydarzeniem była decyzja władz i mieszkańców Słupska dotycząca uhonorowania ostatniej, spalonej na terenie miasta "czarownicy".  Imię Tiny Papisten będzie nosić jedno z rond w mieście.     
 <!--more-->   
 
 > „Mamy rondo Triny Papisten. Legendarna słupska czarownica zrehabilitowana. Tego jeszcze w Polsce nie było!” – Robert Biedroń (twitter)
  
-**Trina Papisten**, a właściwie Katarzyna Zimmermann, zginęła w 1701 roku. Zajmowała się ziołolecznictwem i popadła w spór z miejscowym aptekarzem. W akcie oskarżenia pojawiło się 68 zarzutów. Była torturowana, a potem spalona na stosie. Była jedną z osiemnastu kobiet spalonych na terenie Słupska.       
+**Trina Papisten**, a właściwie Katarzyna Zimmermann, zginęła w 1701 roku. Zajmowała się ziołolecznictwem i popadła w spór z miejscowym aptekarzem. W akcie oskarżenia pojawiło się aż 68 zarzutów. Była torturowana, a potem spalona na stosie. Była jedną z osiemnastu kobiet spalonych na terenie Słupska.       
 Skróconą historię „czarownicy” można przeczytać na stronie internetowej miasta (slupsk.pl)     
 Historia "czarownicy" opisana jest również na portalu Odkryjpomorze.pl     
 Poblikacja dotycząca tej historii: Jolanta Nitkowska-Węglarz, "Słupsk - miasto niezwykłe".
 
-Nie wszyscy jednak są pozytywnie nastawieni do inicjatywy prezydenta, Roberta Biedronia. Katolicki portal **„Fronda”** krytycznie odniósł się do pomysłu: 
+Nie wszyscy jednak są pozytywnie nastawieni do inicjatywy prezydenta Roberta Biedronia. Katolicki portal **„Fronda”** krytycznie odniósł się do pomysłu: 
 
 > Prezydent Słupska, zadeklarowany homoseksualista, piewca lewicowej inżynierii społecznej kolejny raz zafundował mieszkańcom Słupska prawdziwe chory pomysł. Miasto właśnie uczciło pamięć jednej z zamordowanych za "czary" kobiet nazwaniem ulicy jej imieniem (…) Ciekawe kogo jeszcze Biedroń uczci za swych rządów? Może jakiegoś homoseksualistę, może abortera, może marksistę bądź  stalinistę? Czekamy!(http://www.fronda.pl/a/na-stos-z-biedroniem-rehabilituje-czarownice,74239.html dostęp. 09.07.2016)
 
@@ -49,4 +48,4 @@ Więcej imormacji o słupskiej Baszcie Czarownic znajdziesz: http://odkryjpomorz
 
 Podobno na stronie Słupska był błąd przypisujący zbrodnie inkwizycji (tak twierdzi autor artykułu, racjonalista.pl). Nie jestem w stanie tego sprawdzić. Jeśli taki był, został już poprawiony.  
 
-Wydaje się, że samo nazwanie ronda imieniem zielarki, nie jest tak kontrowersyjne, jak osoba prezydenta miasta, Roberta Biedronia, który niektórym osobą kojarzy się wyjątkowo negatywnie. 
+Wydaje się, że samo nazwanie ronda imieniem zielarki, nie jest tak kontrowersyjne, jak osoba prezydenta miasta, Roberta Biedronia, który niektórym osobą kojarzy się wyjątkowo negatywnie.
