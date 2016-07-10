@@ -49,4 +49,4 @@ Więcej imormacji o słupskiej Baszcie Czarownic znajdziesz: http://odkryjpomorz
 
 Podobno na stronie Słupska był błąd przypisujący zbrodnie inkwizycji (tak twierdzi autor artykułu, racjonalista.pl). Nie jestem w stanie tego sprawdzić. Jeśli taki był, został już poprawiony.  
 
-Wydaje się, że samo nazwanie ronda imieniem zielarki, nie jest tak kontrowersyjne, jak osoba prezydenta miasta, Roberta Biedronia, który niektórym osobą kojarzy się wyjątkowo negatywnie.
+Wydaje się, że samo nazwanie ronda imieniem zielarki, nie jest tak kontrowersyjne, jak osoba prezydenta miasta Roberta Biedronia, który niektórym osobą kojarzy się wyjątkowo negatywnie.
