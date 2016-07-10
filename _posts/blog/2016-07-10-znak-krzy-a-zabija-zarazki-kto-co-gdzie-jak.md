@@ -1,9 +1,8 @@
 ---
 layout: post
 category: blog
-published: false
+published: true
 title: Znak krzyża zabija zarazki? Kto? Co? Gdzie? Jak?
-splash: ''
 ---
 Pewna rosyjska uczona, inżynier Angelina Małachowska, ogłosiła, że jej wieloletnie badania potwierdziły, iż znak krzyża i modlitwa zabijają zarazki, a dodatkowo zmieniają właściwości wody.   
 <!--more--> 
@@ -28,8 +27,4 @@ Naukowcy zmierzyli gęstość optyczną wody przed i po wykonaniu nad nią znaku
 (https://gloria.tv/article/HaLyWfJd7o522dCZnVMC6xo5s dostęp 10.07.2016)
 
 Przykładowe źródło rosyjskie (jest ich całkiem sporo):      
-http://www.rusfront.ru/812-krestnoe-znamenie.html 
-  
-  
-
-
+http://www.rusfront.ru/812-krestnoe-znamenie.html
