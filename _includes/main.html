@@ -1,6 +1,7 @@
     <header role="banner" class="page-header" id="top">
         <h1 class="brand-header">{{site.title}} <small>{{site.tagline}}</small></h1>
     </header>
+<!--
     <main class="featured-article">
         <article>
             {% for post in paginator.posts limit:1 %}
@@ -13,18 +14,20 @@
             {% endfor %}
         </article>
     </main>
-    <section class="blog col-md-9">
-        {% for post in site.posts offset:1 limit:4 %}
+-->
+    <main class="blog col-md-8">
+        {% for post in site.categories.article limit:4 %}
         <article>
             <time itempprop="dateCreated" datetime="{{post.date}}" class="post-meta small">{{ post.date | date: "%d-%m-%Y"}}</time>
             <h3><a href="{{ site.base_url }}{{ post.url }}" title="Stały Link do Posta '{{ post.title }}'">{{ post.title }}</a></h3>
             <div> 
-                {{post.excerpt | strip_html}}
+                <p>{{post.excerpt | strip_html}}</p>
                 <a href="{{ site.base_url }}{{ post.url }}" title="Czytaj Dalej post ''">Czytaj Dalej...</a>
             </div>
         </article>
         {% endfor %}
         
+<!--
         <nav class="pagination">
            {% if paginator/previous_page %}
            {% if paginator/previous_page == 1 %}
@@ -37,28 +40,21 @@
             <a class="prev" href="{{site.base_url}}/blog/page{{paginator.next_page}}">Starsze</a>
             {% endif %}
         </nav>
+-->
         
-    </section>
+    </main>
 
     <aside class="col-xs-12 col-md-4">
-        <div class="large">
-            <!--
-            <p style="font-family:Comfortaa;">Comfortaa</p>
-            <p style="font-family:Open Sans;">Open Sans</p>
-            <p style="font-family:Roboto;">Roboto</p>
-            <p style="font-family:Oswald;">OswaldOswald</p>
-            <p style="font-family:Raleway;">Raleway</p>
-            <p style="font-family:Poiret One;">Poiret One</p>
-            <p style="font-family:Lobster;">Lobster</p>
-            <p style="font-family:Nunito;">Nunito</p>
-            <p style="font-family:Muli;">Muli</p>
-            <p style="font-family:Pacifico;">Pacifico</p>
-            <p style="font-family:Varela Round;">Varela Round</p>
-            <p style="font-family:Lobster Two;">Lobster Two</p>
-            <p style="font-family:Philosopher;">Philosopher</p>
-            <p style="font-family:Varela;">Varela</p>
-            <p style="font-family:Hammersmith One;">Hammersmith One</p>
-            <p style="font-family:Paytone One;">Paytone One</p>
--->
-        </div>
+     <h2>Blog</h2>
+      {% for post in site.categories.blog limit:3 %}
+        <article class="col-md-12 col-sm-6 col-xs-12">
+            <time itempprop="dateCreated" datetime="{{post.date}}" class="post-meta small">{{ post.date | date: "%d-%m-%Y"}}</time>
+            <h4><a href="{{ site.base_url }}{{ post.url }}" title="Stały Link do Posta '{{ post.title }}'">{{ post.title }}</a></h4>
+            <div> 
+               <p>{{post.excerpt | strip_html}}</p>
+                <a href="{{ site.base_url }}{{ post.url }}" title="Czytaj Dalej post ''">Czytaj Dalej...</a> 
+            </div>
+        </article>
+        {% endfor %}
+     
     </aside>

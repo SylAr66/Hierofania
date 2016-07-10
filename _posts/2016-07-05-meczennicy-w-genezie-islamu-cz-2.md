@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: article
 published: true
 title: 'CZĘSĆ II: MĘCZENNICY W GENEZIE ISLAMU'
 ---

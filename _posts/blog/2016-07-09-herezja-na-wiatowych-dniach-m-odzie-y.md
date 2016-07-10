@@ -1,11 +1,12 @@
 ---
-layout: blog
+layout: post
 category: blog
-published: false
+published: true
 title: Herezja na Światowych Dniach Młodzieży?
 splash: ''
 ---
 Światowe Dni Młodzieży wywołują wiele emocji, zarówno tych pozytywnych, jak i negatywnych. Szeroko komentowane są kwestie dotyczące bezpieczeństwa, zaplecza sanitarnego czy zakwaterowania. Jednak poza tymi prozaicznymi problemami pojawiają się również te duchowe.        
+<!--more-->   
 Portal  internetowy „Wolna Polska” ogłosił na swoje stronie: "_bojkot tzw. „światowych dni młodzieży” i przyjazdu heretyka i masona Jorge Bergoglio na ziemie polskie”_. Tekst został skopiowany ze strony http://tenetetraditiones.blogspot.com/          
 Autor tekstu, Michał Mikłaszewski, nazwał papieża Franciszka „heretykiem” oraz „promotorem wszelkich dewiacji i zboczeń”. Według autora teksty papież jest satanistą i masonem oraz ma on być zapowiedzią przybycia Antychrysta. 
 
