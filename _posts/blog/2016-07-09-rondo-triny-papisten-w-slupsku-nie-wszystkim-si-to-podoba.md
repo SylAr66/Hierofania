@@ -26,10 +26,11 @@ Z tym, że w XVIII wieku Słupsk nie był Polską, lecz Prusami. I nie był kato
 ![czarownica.png]({{site.baseurl}}/img/czarownica.png)
 
 Mogę jedynie zaznaczyć, że w artykułach dotyczących tego projektu pojawia się informacja, że na terenach Słupska dominowali luteranie. 
-Emocje wywołał ten fragment:  
+Emocje wywołał ten fragment: 
 
-> - To swoisty rodzaj rehabilitacji rzekomej czarownicy - mówi Robert Biedroń, prezydent Słupska. - Słupsk jest pierwszy miastem w Polsce, które uhonorowało czarownice, kobietę, która została skazana na tortury i spalenie za rzekome czary i pakt z diabłem. Niektóre państwa, na przykład Niemcy, Szwajcaria, Szwecja, USA rehabilitują czarownice. Ulicom w wybranych miastach nadawane są ich imiona. My też chcemy, aby "nasza" czarownica nie została zapomniana i aby głośno mówić o tym, jak traktowano kobiety, także w naszym kraju.           
-Cały tekst:       http://trojmiasto.wyborcza.pl/trojmiasto/1,35636,20334886,prezydent-slupska-robert-biedron-rehabilituje-skazana-za-czary.html#ixzz4Dv5WtAht  (dostęp 09.07.2016)
+> - To swoisty rodzaj rehabilitacji rzekomej czarownicy - mówi Robert Biedroń, prezydent Słupska. - Słupsk jest pierwszy miastem w Polsce, które uhonorowało czarownice, kobietę, która została skazana na tortury i spalenie za rzekome czary i pakt z diabłem. Niektóre państwa, na przykład Niemcy, Szwajcaria, Szwecja, USA rehabilitują czarownice. Ulicom w wybranych miastach nadawane są ich imiona. My też chcemy, aby "nasza" czarownica nie została zapomniana i aby głośno mówić o tym, jak traktowano kobiety, także w naszym kraju.         
+Cały tekst:        
+http://trojmiasto.wyborcza.pl/trojmiasto/1,35636,20334886,prezydent-slupska-robert-biedron-rehabilituje-skazana-za-czary.html#ixzz4Dv5WtAht  (dostęp 09.07.2016)
 
 Kolejny portal, który napisał o wydarzeniu to **niezależna.pl** opierając się na artykule zamieszczonym na portalu **racjonalista.pl**:
 
@@ -38,7 +39,7 @@ Kolejny portal, który napisał o wydarzeniu to **niezależna.pl** opierając si
 
 ![tweety1.jpg]({{site.baseurl}}/img/tweety1.jpg)
 
-Jednak nie jest to raczej „pomyłka” mająca na celu oczernić kościół katolicki, ponieważ taka informacja pojawia się w tekstach, które czytałam. Jest to również wiedza dość powszechna (choćby wzmianka o niej na wikipedii). 
+Jednak nie jest to raczej „pomyłka” mająca na celu oczernić Kościół Katolicki, ponieważ taka informacja pojawia się w tekstach, które czytałam. Jest to również wiedza dość powszechna (choćby wzmianka o niej na wikipedii). 
 
 > Trina naprawdę nazywała się Katarzyna (Kathrin) Zimmermann. Trina - jest skrótem o zabarwieniu negatywnym, pogardliwym, używanym do wyszydzenia danej osoby. To samo dotyczy rzekomego nazwiska Papistin, które oznacza pogardliwie - wyznania katolickiego.         
 Więcej imormacji o słupskiej Baszcie Czarownic znajdziesz: http://odkryjpomorze.pl/pokaz_obiekt-4018-Trina_Papistin_8211_kobieta_ktora_splonela_na_stosie.html
