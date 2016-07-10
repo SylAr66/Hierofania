@@ -10,6 +10,7 @@ Portal  internetowy „Wolna Polska” ogłosił na swoje stronie: "_bojkot tzw.
 Autor tekstu, Michał Mikłaszewski, nazwał papieża Franciszka „heretykiem” oraz „promotorem wszelkich dewiacji i zboczeń”. Według autora teksty papież jest satanistą i masonem oraz ma on być zapowiedzią przybycia Antychrysta. 
 
 Jeśli chodzi o same Światowe Dni Młodzieży to autor napisał: 
+
 > Impreza ta, przepełniona duchem fałszywego modernizmu, ekumenizmu, czy wręcz satanizmu (co możemy jasno wyczytać z logo tego heretyckiego spędu), jest zlotem anty-katolickim, który obraża majestat Trójjedynego Boga, Świętą Wiarę naszą i Święty Kościół Rzymsko-Katolicki.      
 
 Logo Światowych Dni Młodzieży ma odzwierciedlać odwrócony krzyż „anakh” (być może autorowi chodziło o „ankh”) oraz liczbę 6 z jajem feniksa.   
