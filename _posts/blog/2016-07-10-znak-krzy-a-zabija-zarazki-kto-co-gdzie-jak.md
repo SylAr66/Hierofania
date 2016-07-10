@@ -7,7 +7,7 @@ title: Znak krzyża zabija zarazki? Kto? Co? Gdzie? Jak?
 Pewna rosyjska uczona, inżynier Angelina Małachowska, ogłosiła, że jej wieloletnie badania potwierdziły, iż znak krzyża i modlitwa zabijają zarazki, a dodatkowo zmieniają właściwości wody.   
 <!--more--> 
 
-Jest to informacja ciężkiego kalibru, którą trudno mi skomentować. Ograniczę się do cytatów. Informacja krąży w sieci już od kilku lat. Co jakiś czas ktoś wyciąga ją na z czeluści Internetu i albo wyśmiewa, albo gloryfikuje. Całkiem niedawno, bo na początku lipca, wynika badań Małachowskiej (albo Małachowskaja/Malakhovskaya) opublikował portal „Fronda”:       
+Jest to informacja ciężkiego kalibru, którą trudno mi skomentować. Ograniczę się do cytatów. Informacja krąży w sieci już od kilku lat. Co jakiś czas ktoś wyciąga ją na z czeluści Internetu i albo wyśmiewa, albo gloryfikuje. Całkiem niedawno, bo na początku lipca, wyniki badań Małachowskiej (albo Małachowskaja/Malakhovskaya) opublikował portal „Fronda”:       
 
 > „Potwierdziliśmy, że stary zwyczaj czynienia znaku Krzyża nad jedzeniem i piciem przed posiłkiem ma głęboki mistyczny sens” – mówi fizyk Angelina Małachowskaja. – Ukryta jest za nim również korzyść praktyczna: „Żywność oczyszcza się dosłownie w ciągu chwili. Jest to wielki cud, który dokonuje się praktycznie każdego dnia”.
 Swoje badania siły znaku Krzyża Angelina Małachowskaja z błogosławieństwa Cerkwi prowadziła prawie przez dziesięć lat. Przeprowadzono wielką serię eksperymentów, które wielokrotnie sprawdzano przed opublikowaniem.       
