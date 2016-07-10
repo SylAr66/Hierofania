@@ -3,7 +3,6 @@ layout: post
 category: blog
 published: true
 title: Herezja na Światowych Dniach Młodzieży?
-splash: ''
 ---
 Światowe Dni Młodzieży wywołują wiele emocji, zarówno tych pozytywnych, jak i negatywnych. Szeroko komentowane są kwestie dotyczące bezpieczeństwa, zaplecza sanitarnego czy zakwaterowania. Jednak poza tymi prozaicznymi problemami pojawiają się również te duchowe.        
 <!--more-->   
@@ -22,7 +21,5 @@ I dalej autor napisał:
 Precz z herezją!
 
 Tekst oryginału do przeczytania na:
-http://tenetetraditiones.blogspot.com/2016/07/bojkot-tzw-swiatowych-dni-modziezy-i.html (dostęp 09.07.2016)
+http://tenetetraditiones.blogspot.com/2016/07/bojkot-tzw-swiatowych-dni-modziezy-i.html (dostęp 09.07.2016)     
 http://wolna-polska.pl/wiadomosci/bojkot-tzw-swiatowych-dni-mlodziezy-i-przyjazdu-heretyka-i-masona-jorge-bergoglio-na-ziemie-polskie-2016-07 (dostęp 09.07.2016)
-
-
