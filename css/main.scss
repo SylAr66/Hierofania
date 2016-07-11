@@ -164,3 +164,21 @@ blockquote{
     width:100%;
 }
  
+
+.contact-form {
+        @extend .row;
+    background: #aaa;
+    padding: 50px;
+    margin: 30px;
+    & input[type = "text"]{ 
+        width: 100%;
+        min-height: 500px;
+    }
+    & input[type = "email"], input[type = "submit"]{ 
+        width: 50%;
+        margin: 10px 0px;
+        display: inline-block; 
+        padding: 10px;
+        float: left;
+    }
+}
