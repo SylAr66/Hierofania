@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-published: false
+published: true
 title: 'Religijne gadżety XXI wieku '
 ---
 ![Koszulka-Medalik-sw-Benedykta.jpg]({{site.baseurl}}/img/Koszulka-Medalik-sw-Benedykta.jpg)
@@ -14,4 +14,4 @@ Być może nie chodzi o treść, a o formę. Wcześniej nikt nie protestował pr
 Litery oznaczają: **V**ade **R**etro **S**atana, **N**umquam **S**uade **M**ihi **V**ana, **S**unt **M**ala **Q**uae **L**ibas, **I**pse **V**enena **B**ibas, czyli "idź precz, szatanie, nie kuś mnie do próżności, złe jest to, co podsuwasz, sam pij truciznę". 
 ![torba-biala-z-modlitwa-o-egzorcyzm.jpg]({{site.baseurl}}/img/torba-biala-z-modlitwa-o-egzorcyzm.jpg)
   
-Wszystkie zdjęcia pochodzą ze strony: tyniec.com.pl 
+Wszystkie zdjęcia pochodzą ze strony: tyniec.com.pl
