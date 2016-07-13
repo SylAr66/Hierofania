@@ -47,7 +47,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "article"
+          value: "post"
       - name: "title"
         field:
           element: "text"
