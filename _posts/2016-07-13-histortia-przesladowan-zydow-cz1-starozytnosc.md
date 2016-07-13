@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 category: article
 published: true
 title: 'Historia prześladowań Żydów. Część I: Starożytność'
