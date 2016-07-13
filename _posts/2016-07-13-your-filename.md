@@ -5,6 +5,7 @@ published: false
 title: 'Historia prześladowań Żydów. Część I: Starożytność'
 ---
 W źródłach starożytnych aż do III w. p.n.e. nie natkniemy się na szczególne napięcia między Żydami, a ludnością zhellenizowaną. Wiele ośrodków Żydowskich uległo wpływom kultury greckiej, choć nie były one tak silne, jak w przypadku innych grup etnicznych. Najsilniej narażone na hellenizacje były diaspory (gr. „rozproszenie”). Obok upowszechniania się w nich języka greckiego, Żydzi często przyjmowali greckie imiona, oraz wielokrotnie używali greckich gatunków literackich.        
+<!--more-->   
 Między innymi Demetriusz, żydowski autor dzieła chronograficznego w końcu III w. p.n.e. naśladował wzorzec stworzony przez Eratostenesa, chcąc wykazać, że historia Żydów i ich mądrość są starsze i wobec tego czcigodniejsze od historii i filozofii greckiej.     
 Pierwsze podania autorów greckojęzycznych dotyczące sekty Mojżeszowej są im przychylne. **Hekatajos z Abdery przedstawiał ich jako filozofów znających bezosobowego Boga**, uznających władzę kapłanów – strażników prawa.    
 
