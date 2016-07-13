@@ -1,10 +1,8 @@
 ---
 layout: article
 category: article
-published: false
+published: true
 title: Skandynawski Heavy Metal na mszy?
-splash: ''
-tags: ''
 ---
 
 Czy zastanawialiście jak wyglądają nabożeństwa w innych krajach? Ta sama religia wcale nie oznacza tego samego celebrowania mszy.         
