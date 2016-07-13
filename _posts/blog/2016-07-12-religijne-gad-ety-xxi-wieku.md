@@ -7,6 +7,7 @@ title: 'Religijne gadżety XXI wieku '
 ![Koszulka-Medalik-sw-Benedykta.jpg]({{site.baseurl}}/img/Koszulka-Medalik-sw-Benedykta.jpg)
 
 Sądzę, że każdy z nas przynajmniej raz w życiu natknął się na jakiś religijny gadżet, który sprzedawano np. przy okazji różnych katolickich świąt. W większości takie przedmioty możemy zaliczyć do działu religijnego kiczu. 
+<!--more--> 
 Obecnie raczej nie wywołują one już tak silnych emocji, jak kiedyś, gdy uważano lampy z Jezusem czy podstawki z Maryją, za bluźnierstwo. Religijny przemysł pamiątkowy kwitnie. Czy odbiera to powagę świętym, których wizerunki pojawiają się na różnych gadżetach? Myślę, że zdania są podzielone.       
 Na niekonwencjonalny pomysł wpadli Benedyktyni z klasztoru w Tyńcu. Na stronie ich sklepu możemy znaleźć bransoletki, materiałowe torby czy koszulki z… modlitwą o egzorcyzm. Pojawiło się wiele negatywnych komentarzy dotyczących umieszczenia jej na takich gadżetach. Czy słusznie?             
 Być może nie chodzi o treść, a o formę. Wcześniej nikt nie protestował przeciw umieszczaniu modlitwy na tanich, metalowych medalikach, ale w przypadku materiałowej torby czy gumowej bransoletki jest już inaczej.
