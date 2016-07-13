@@ -1,7 +1,7 @@
 ---
 layout: article
 category: article
-published: false
+published: true
 title: 'Historia prześladowań Żydów. Część I: Starożytność'
 ---
 W źródłach starożytnych aż do III w. p.n.e. nie natkniemy się na szczególne napięcia między Żydami, a ludnością zhellenizowaną. Wiele ośrodków Żydowskich uległo wpływom kultury greckiej, choć nie były one tak silne, jak w przypadku innych grup etnicznych. Najsilniej narażone na hellenizacje były diaspory (gr. „rozproszenie”). Obok upowszechniania się w nich języka greckiego, Żydzi często przyjmowali greckie imiona, oraz wielokrotnie używali greckich gatunków literackich.        
@@ -34,8 +34,3 @@ Przykład:
 > Dz 18,12-17 (...) Kiedy Gallio został prokonsulem Achai, Żydzi jednomyślnie wystąpili przeciw Pawłowi i przyprowadzili go przed sąd. Powiedzieli: Ten namawia ludzi, aby czcili Boga niezgodnie z Prawem. Gdy Paweł miał już usta otworzyć, Gallio przemówił do Żydów: Gdyby tu chodziło o jakieś przestępstwo albo zły czyn, zająłbym się wami, Żydzi, jak należy, ale gdy spór toczy się o słowa i nazwy, i o wasze Prawo, rozpatrzcie to sami. Ja nie chcę być sędzią w tych sprawach. I wypędził ich z sądu. A wszyscy /Grecy/, schwyciwszy przewodniczącego synagogi, Sostenesa, bili go przed sądem, lecz Galliona nic to nie obchodziło.      
 
 Cytaty: Biblia Tysiąclecia (dostepna online: http://biblia-online.pl/)
-
-
-
-
-
