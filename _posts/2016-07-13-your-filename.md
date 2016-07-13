@@ -34,3 +34,9 @@ Przykład:
 > Dz 18,12-17 (...) Kiedy Gallio został prokonsulem Achai, Żydzi jednomyślnie wystąpili przeciw Pawłowi i przyprowadzili go przed sąd. Powiedzieli: Ten namawia ludzi, aby czcili Boga niezgodnie z Prawem. Gdy Paweł miał już usta otworzyć, Gallio przemówił do Żydów: Gdyby tu chodziło o jakieś przestępstwo albo zły czyn, zająłbym się wami, Żydzi, jak należy, ale gdy spór toczy się o słowa i nazwy, i o wasze Prawo, rozpatrzcie to sami. Ja nie chcę być sędzią w tych sprawach. I wypędził ich z sądu. A wszyscy /Grecy/, schwyciwszy przewodniczącego synagogi, Sostenesa, bili go przed sądem, lecz Galliona nic to nie obchodziło.      
 
 Cytaty: Biblia Tysiąclecia (dostepna online: http://biblia-online.pl/)
+       
+Bibliografia:     
+_Słownik wiedzy biblijnej_, red. B. Metzger, M. Coogan,  Warszawa 1997.     
+E. Wipszycka, _O starożytności polemicznie_, Warszawa 1994.      
+F. Fontette, _Historia antysemityzmu_, Wydawnictwo Siedmiogród 1992.      
+L. Poliakov, _Historia antysemityzmu. t. I, Epoka wiary_, Kraków 2008.     
