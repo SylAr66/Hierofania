@@ -24,6 +24,17 @@ Sam kult władców nie był obowiązkowy, przedstawiciele różnych grup społec
 Pomijając teren Egiptu, **niechęć względem Żydów przejawiała się tylko w czasie powstań**, jak buntu Cyrenejczyków. W 38 r. wybuchły krwawe zamieszki w Aleksandrii skierowane przeciw Żydom. Jednak prefekt Flakkus, sprzyjający prześladowaniom, został wygnany przez cesarza. **W Liście do Aleksandryjczyków cesarz Klaudiusz nawołuje do tolerancji między poganami, a Żydami, choć również nakazał ich wygnać z Rzymu.** Cezar ograniczając możliwości zrzeszana się zrobił wyjątek względem synagogi. W Milecie w ruinach teatru w pierwszym rzędzie widniał napis: „zarezerwowane dla bardzo lojalnych Żydów Cezara Augusta”. Fakt ten nie dziwi biorąc pod uwagę, iż w hierarchii cesarskiej znajdowali się żydowscy senatorowie, legaci, pretorianie, ekwici. Wyjątek stanowi antyżydowski edykt wydany przez Hadriana po powstaniu Bar-Kochby, odnowiony później przez Antoniusza, który ostatecznie jednak przywrócił swobodę wyznania mojżeszowego.
 
 ## ŻYDZI A CHRZEŚCIJANIE
-Z listów Tacyta i Pliniusza Młodszego wiemy, że w II w. Rzymianie potrafili już odróżnić chrześcijan od Żydów. Zawdzięczać to należy chrześcijańskim apologetom, którzy starali się zerwać wszelkie więzi z Żydami. Chcieli uchodzić za prawowitych obywateli cesarstwa, zwłaszcza po powstaniu Bar-Kochby, które przyniosło wiele negatywnych konsekwencji dla Żydów. Przykłady tego zabiegu można odnaleźć już w _Ewangelii Łukasza_, jak i _Dziejach Apostolskich_.        
+Z listów Tacyta i Pliniusza Młodszego wiemy, że w II w. Rzymianie potrafili już odróżnić chrześcijan od Żydów. Zawdzięczać to należy chrześcijańskim apologetom, którzy starali się zerwać wszelkie więzi z Żydami. Chcieli uchodzić za prawowitych obywateli cesarstwa, zwłaszcza po powstaniu Bar-Kochby, które przyniosło wiele negatywnych konsekwencji dla Żydów. Przede wszysykim Żydzi byli postrzegani jako wichrzyciele wszczynający rozruchy.     Przykłady tego zabiegu można odnaleźć już w _Ewangelii Łukasza_, jak i _Dziejach Apostolskich_.      
+Przykład:       
+> Dz 17,4-10 (…) A także pokaźna liczba pobożnych Greków oraz niemało znamienitych kobiet, uwierzyli i przyłączyli się do Pawła i Sylasa. Wtedy zazdrośni Żydzi, dobrawszy sobie jakieś szumowiny z rynku, wywołali zbiegowisko, podburzyli miasto, naszli na dom Jazona i szukali ich, aby stawić przed ludem. Nie znaleźli ich jednak. Wlekli więc Jazona i niektórych braci przed politarchów, krzycząc: Ludzie, którzy podburzają cały świat, przyszli też tutaj, a Jazon ich przyjął. Oni wszyscy występują przeciwko rozkazom Cezara, głosząc, że jest inny król, Jezus. Podburzyli tłum i politarcha, którzy tego słuchali, ale po wzięciu poręki od Jazona i innych, zwolnili ich.
+
+> Dz 17,13 (...) Gdy Żydzi z Tesaloniki dowiedzieli się, że również w Berei Paweł głosi słowo Boże, przyszli tam, podburzając tłumy i wzniecając rozruchy.
+
+> Dz 18,12-17 (...) Kiedy Gallio został prokonsulem Achai, Żydzi jednomyślnie wystąpili przeciw Pawłowi i przyprowadzili go przed sąd. Powiedzieli: Ten namawia ludzi, aby czcili Boga niezgodnie z Prawem. Gdy Paweł miał już usta otworzyć, Gallio przemówił do Żydów: Gdyby tu chodziło o jakieś przestępstwo albo zły czyn, zająłbym się wami, Żydzi, jak należy, ale gdy spór toczy się o słowa i nazwy, i o wasze Prawo, rozpatrzcie to sami. Ja nie chcę być sędzią w tych sprawach. I wypędził ich z sądu. A wszyscy /Grecy/, schwyciwszy przewodniczącego synagogi, Sostenesa, bili go przed sądem, lecz Galliona nic to nie obchodziło.      
+
+Cytaty: Biblia Tysiąclecia (dostepna online: http://biblia-online.pl/)
+
+
+
 
 
