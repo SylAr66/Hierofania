@@ -26,7 +26,8 @@ Pomijając teren Egiptu, **niechęć względem Żydów przejawiała się tylko w
 
 ## ŻYDZI A CHRZEŚCIJANIE
 Z listów Tacyta i Pliniusza Młodszego wiemy, że w II w. Rzymianie potrafili już odróżnić chrześcijan od Żydów. Zawdzięczać to należy chrześcijańskim apologetom, którzy starali się zerwać wszelkie więzi z Żydami. Chcieli uchodzić za prawowitych obywateli cesarstwa, zwłaszcza po powstaniu Bar-Kochby, które przyniosło wiele negatywnych konsekwencji dla Żydów. Przede wszysykim Żydzi byli postrzegani jako wichrzyciele wszczynający rozruchy.     Przykłady tego zabiegu można odnaleźć już w _Ewangelii Łukasza_, jak i _Dziejach Apostolskich_.      
-Przykład:       
+Przykład:
+
 > Dz 17,4-10 (…) A także pokaźna liczba pobożnych Greków oraz niemało znamienitych kobiet, uwierzyli i przyłączyli się do Pawła i Sylasa. Wtedy zazdrośni Żydzi, dobrawszy sobie jakieś szumowiny z rynku, wywołali zbiegowisko, podburzyli miasto, naszli na dom Jazona i szukali ich, aby stawić przed ludem. Nie znaleźli ich jednak. Wlekli więc Jazona i niektórych braci przed politarchów, krzycząc: Ludzie, którzy podburzają cały świat, przyszli też tutaj, a Jazon ich przyjął. Oni wszyscy występują przeciwko rozkazom Cezara, głosząc, że jest inny król, Jezus. Podburzyli tłum i politarcha, którzy tego słuchali, ale po wzięciu poręki od Jazona i innych, zwolnili ich.
 
 > Dz 17,13 (...) Gdy Żydzi z Tesaloniki dowiedzieli się, że również w Berei Paweł głosi słowo Boże, przyszli tam, podburzając tłumy i wzniecając rozruchy.
