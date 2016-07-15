@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-published: false
+published: true
 title: W Chinach stanął olbrzymi posąg boga wojny
 ---
 W miejscowości Jingzhou, w parku poświęconym Guan Yu, stanęła statua reprezentująca owego boga wojny. Posąg jest imponujący. Posąg ma 58 metrów wysokości i waży ponad tysiąc trzysta ton. Posąg wykonany został z brązu.        
