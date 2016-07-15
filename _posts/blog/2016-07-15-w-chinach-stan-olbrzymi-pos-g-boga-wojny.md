@@ -13,3 +13,5 @@ Dla porównania: statua wolności ma „zaledwie” 46,5 metra (93 m z cokołem)
 Chiński bóg wojny, Guan Yu był realnie istniejąca postacią, dowódcą wojsk chińskich (zmarł w 219 roku). Z biegiem lat został uznany za bóstwo chroniące Cesarstwo Chińskie. I tak jest do dziś. 
 ![800px-Mask_of_Guan_Yu.jpg]({{site.baseurl}}/img/800px-Mask_of_Guan_Yu.jpg)
 *Muzeum w Szanghaju*
+
+Zdjęcia:boredpanda.com
