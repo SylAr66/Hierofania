@@ -2,9 +2,10 @@
 layout: post
 category: blog
 published: true
-title: W Chinach stanął olbrzymi posąg boga wojny
+title: Olbrzymi posąg boga wojny zbudowany w Chinach
 ---
-W miejscowości Jingzhou, w parku poświęconym Guan Yu, stanęła statua reprezentująca owego boga wojny. Posąg jest imponujący. Posąg ma 58 metrów wysokości i waży ponad tysiąc trzysta ton. Posąg wykonany został z brązu.        
+W miejscowości Jingzhou, w parku poświęconym Guan Yu, stanęła statua reprezentująca owego boga wojny. Posąg jest imponujący. Posąg ma 58 metrów wysokości i waży ponad tysiąc trzysta ton. Posąg wykonany został z brązu. 
+<!--more--> 
 ![giant-war-god-statue-general-guan-yu-sculpture-china-6.jpg]({{site.baseurl}}/img/giant-war-god-statue-general-guan-yu-sculpture-china-6.jpg)
 
 Dla porównania: statua wolności ma „zaledwie” 46,5 metra (93 m z cokołem) i waży 229 ton. Natomiast Matka Ojczyzna Wzywa! z Rosji ma 52 metry.        
