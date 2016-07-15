@@ -16,7 +16,7 @@ Gra wywołała zachwyt wśród wielu graczy, ale też pojawiły się głosy kryt
 
 Dodatkową kontrowersje wywołało zdjęcie Koffinga obok audytorium Heleny Rubinstein (Koffing jest pokemonem używającym zabójczych gazów).       
 Podobnego zdania, co władze muzeum są administratorzy cmentarza Arlington National, choć na cmentarzu nie doszło jeszcze do żadnych niestosownego zachowania.         
-![85078159.png]({{site.baseurl}}/img/85078159.png)
+![85078159.png]({{site.baseurl}}/img/85078159.png)        
 *Zastanawiam się, czy to przypadkiem nie był photoshop*
 
 Jedną z rzeczy, która wydaje się mocno kontrowersyjna jest wykorzystanie kościołów jako _gymów_ (poza tym są to również biblioteki, muzea, uniwersytety, ratusze). _Gymy_ to miejsca, w których gracze mogą stoczyć walkę. 
