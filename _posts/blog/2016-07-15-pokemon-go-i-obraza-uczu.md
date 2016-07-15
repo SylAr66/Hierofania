@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-published: false
+published: true
 title: Pokemon go i obraza uczuć?
 ---
 Gra _Pokemon go_ odniosła olbrzymi, międzynarodowy sukces. Również w naszym kraju. Jednak są z nią pewne problemy…       
