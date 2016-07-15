@@ -20,7 +20,9 @@ Podobnego zdania, co władze muzeum są administratorzy cmentarza Arlington Nati
 *Zastanawiam się, czy to przypadkiem nie był photoshop*
 
 Jedną z rzeczy, która wydaje się mocno kontrowersyjna jest wykorzystanie kościołów jako _gymów_ (poza tym są to również biblioteki, muzea, uniwersytety, ratusze). _Gymy_ to miejsca, w których gracze mogą stoczyć walkę. 
-Swoją teorie dotyczącą tego, dlaczego kościoły zostały wciągnięte w zabawę wyraził pewien amerykański pastor.         
+Swoją teorie dotyczącą tego, dlaczego kościoły zostały wciągnięte w zabawę wyraził pewien amerykański pastor, Rick Wiles
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4pIZOpwJL9o" frameborder="0" allowfullscreen></iframe>
 
 Źródła:        
 washingtonpost.com      
