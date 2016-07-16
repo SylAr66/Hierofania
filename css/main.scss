@@ -170,6 +170,9 @@ blockquote{
     background: #aaa;
     padding: 50px;
     margin: 30px;
+    &>*{
+        margin-bottom:10px;
+    }
     & input[type = "text"]{ 
         width: 100%;
         // min-height: 500px;
