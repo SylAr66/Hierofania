@@ -1,0 +1,17 @@
+    <header role="banner" class="page-header" id="top">
+        <h1 class="brand-header">{{site.title}} <small>{{site.tagline}}</small></h1>
+    </header>
+    <main class="col-xs-12">
+     <h2>Blog</h2>
+      {% for post in site.categories.blog limit:3 %}
+        <article class="col-md-12 col-sm-6 col-xs-12">
+            <time itempprop="dateCreated" datetime="{{post.date}}" class="post-meta small">{{ post.date | date: "%d-%m-%Y"}}</time>
+            <h4><a href="{{ site.base_url }}{{ post.url }}" title="Stały Link do Posta '{{ post.title }}'">{{ post.title }}</a></h4>
+            <div> 
+               <p>{{post.excerpt | strip_html}}</p>
+                <a href="{{ site.base_url }}{{ post.url }}" title="Czytaj Dalej post ''">Czytaj Dalej...</a> 
+            </div>
+        </article>
+        {% endfor %}
+     
+    </main>
