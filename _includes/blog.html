@@ -4,7 +4,7 @@
     <main class="col-xs-12">
      <h2>Blog</h2>
       {% for post in site.categories.blog limit:3 %}
-        <article class="col-md-12 col-sm-6 col-xs-12">
+        <article class="col-xs-12">
             <time itempprop="dateCreated" datetime="{{post.date}}" class="post-meta small">{{ post.date | date: "%d-%m-%Y"}}</time>
             <h4><a href="{{ site.base_url }}{{ post.url }}" title="Stały Link do Posta '{{ post.title }}'">{{ post.title }}</a></h4>
             <div> 
