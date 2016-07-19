@@ -6,7 +6,7 @@ title: Honorowe morderstwa w Pakistanie
 ---
 Qandeel Baloch, pakistańska celebrytka padła ofiarą **„honorowego zabójstwa”** w lipcu. Morderstwa dokonał jej brat. Pomimo, ze oficjalnie w kraju „honorowe zabójstwo” zostało zdelegalizowane w 2004 roku, to i tak większość sprawców nie musi obawiać się kary.         
 <!--more-->        
-Furtką dla morderców jest tzw. **„klauzura przebaczenia”**. Jeśli inny mężczyzna, spokrewniony z ofiara morderstwa przebaczy przestępcy, ten może zostać uwolniony. Mężczyzna może zabić kobietę, jeśli stwierdzi, że ta w jakiś sposób „zhańbiła” rodzinę (np. poprzez sprzeciwienie się zaaranżowanemu małżeństwu, pokazanie się w nieodpowiednim stroju, zbyt długie przyglądanie się innemu mężczyźnie, czy gdy zostanie zgwałcona).      
+Furtką dla morderców jest tzw. **„klauzula przebaczenia”**. Jeśli inny mężczyzna, spokrewniony z ofiara morderstwa przebaczy przestępcy, ten może zostać uwolniony. Mężczyzna może zabić kobietę, jeśli stwierdzi, że ta w jakiś sposób „zhańbiła” rodzinę (np. poprzez sprzeciwienie się zaaranżowanemu małżeństwu, pokazanie się w nieodpowiednim stroju, zbyt długie przyglądanie się innemu mężczyźnie, czy gdy zostanie zgwałcona).      
 Pomimo prób zniesienia prawa „przebaczenia”, żadna z liczących się pakistańskich partii nie poparła projektu. Grupy pakistańskich feministek i innych działaczek oraz działaczy na rzecz równouprawnienia nie są w stanie przebić się do opinii publicznej.         
 
 ![160716174419-qandeel-baloch-4-exlarge-169.jpg]({{site.baseurl}}/img/160716174419-qandeel-baloch-4-exlarge-169.jpg)          
