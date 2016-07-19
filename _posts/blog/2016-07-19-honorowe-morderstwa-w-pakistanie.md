@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-published: false
+published: true
 title: Honorowe morderstwa w Pakistanie
 ---
 Qandeel Baloch, pakistańska celebrytka padła ofiarą **„honorowego zabójstwa”** w lipcu. Morderstwa dokonał jej brat. Pomimo, ze oficjalnie w kraju „honorowe zabójstwo” zostało zdelegalizowane w 2004 roku, to i tak większość sprawców nie musi obawiać się kary.         
