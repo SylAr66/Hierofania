@@ -13,7 +13,7 @@ Pomimo prób zniesienia prawa „przebaczenia”, żadna z liczących się pakis
 *Qandeel Baloch*       
 
 **Qandeel Baloch** była celebrytką, która zdobyła wielką popularność na facebook. Zamieszczała tam swoje zdjęcia oraz filmy, na których opowiadała o różnych rzeczach. Nigdy nie wspominała żadnych szczegółów dotyczących tego, gdzie mieszkała. Przed śmiercią celebrytka mówiła o sobie, jako o feministce.        
-Według oficera policji, brat ofiary udusił ją w ich rodzinnym domu, po tym, kiedy wyraził dezaprobatę dotyczącą zdjęć, które kobieta zamieszczała w sieci. Ojciec kobiety, Muhammad Azeem zawiadomił o śmierci córki policję. 
+Według oficera policji, brat ofiary udusił ją w ich rodzinnym domu, po tym, jak wyraził dezaprobatę dotyczącą zdjęć, które kobieta zamieszczała w sieci. Ojciec kobiety, Muhammad Azeem zawiadomił o śmierci córki policję. 
 
 Niestety, Qandeel Baloch jest jedną z setek kobiet, które każdego roku padają ofiarami „honorowego zabójstwa”. Innym przykładem jest młoda, osiemnastoletnia dziewczyna,**Zeenat Rafique**, która została przywiązana do łóżka i podpalona przez matkę i brata. Nie przeżyła. Zdarzenia miało miejsce w czerwcu. Dziewczyna została wydana za mąż wbrew swojej woli.        Uciekła od męża do swojego wieloletniego chłopaka (z którym spotykała się w sekrecie) i poślubiła go. Wróciła do domu, żeby pogodzić się z krewnymi.        
 
