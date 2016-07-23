@@ -34,10 +34,16 @@ Przykład:
 
 > Dz 18,12-17 (...) Kiedy Gallio został prokonsulem Achai, Żydzi jednomyślnie wystąpili przeciw Pawłowi i przyprowadzili go przed sąd. Powiedzieli: Ten namawia ludzi, aby czcili Boga niezgodnie z Prawem. Gdy Paweł miał już usta otworzyć, Gallio przemówił do Żydów: Gdyby tu chodziło o jakieś przestępstwo albo zły czyn, zająłbym się wami, Żydzi, jak należy, ale gdy spór toczy się o słowa i nazwy, i o wasze Prawo, rozpatrzcie to sami. Ja nie chcę być sędzią w tych sprawach. I wypędził ich z sądu. A wszyscy /Grecy/, schwyciwszy przewodniczącego synagogi, Sostenesa, bili go przed sądem, lecz Galliona nic to nie obchodziło.      
 
-Cytaty: Biblia Tysiąclecia (dostepna online: http://biblia-online.pl/)
+Chrześcijańskie przekonanie o wyłączności i niezaprzeczalnej prawdziwości swojej nauki miało poważne konsekwencje dla Żydów. Za przekonaniem tym stało przeświadczenie, iż sami Żydzi wiedzą o prawdziwości doktryny chrześcijańskiej, tylko tego nie dostrzegają lub zaprzeczają. Jednym z propagatorów tego poglądu był **św. Hieronim**, który zarzucał nauczycielom żydowskich świadome przekręcanie tekstu Biblii. **Justynian** posunął się nawet do zażądania w sądzie nakazu czytania Tory w synagogach w języku zrozumiałym dla słuchaczy oraz zakazu objaśnień tekstu po czytaniach: „dzięki temu nie będzie okazji, ażeby ich interpretatorzy, posługujący się tylko językiem hebrajskim, przekręcali tekst jak tylko im się spodoba, ponieważ ignorancja słuchaczy skrywa ich nieprawość” .          
+
+> **Augustyn** w _Państwie Bożym_ stwierdza, że Żydzi: skazali go na śmierć [Jezusa] i nie chcieli w Niego uwierzyć, gdyż trzeba było, aby umarł i zmartwychwstał, to okrutnie wyniszczeni przez Rzymian i do cna wyplenieni ze swego królestwa, gdzie panowali już obcy, zostali rozproszeni po wszystkich krajach i Pismami swymi dają świadectwo, żeśmy bynajmniej nie zmyślili proroctw o Chrystusie.          
+
+Cytaty: Biblia Tysiąclecia (dostepna online: http://biblia-online.pl/)       
+       Św. Augustyn, _O państwie Bożym: przeciw poganom, ksiąg  XXII_, Warszawa 1977.       
        
 Bibliografia:     
 _Słownik wiedzy biblijnej_, red. B. Metzger, M. Coogan,  Warszawa 1997.     
 E. Wipszycka, _O starożytności polemicznie_, Warszawa 1994.      
 F. Fontette, _Historia antysemityzmu_, Wydawnictwo Siedmiogród 1992.      
-L. Poliakov, _Historia antysemityzmu. t. I, Epoka wiary_, Kraków 2008.
+L. Poliakov, _Historia antysemityzmu. t. I, Epoka wiary_, Kraków 2008.       
+J. Trachtenberg, _Diabeł i Żydzi. Średniowieczna koncepcja Żyda a współczesny antysemityzm_, Kraków 2011.
