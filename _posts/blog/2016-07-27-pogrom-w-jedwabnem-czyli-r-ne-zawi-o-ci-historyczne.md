@@ -9,7 +9,7 @@ Do tej pory wydawało się, że wydarzenia takie jak pogrom w Jedwabnem z 1941 r
 Niedawno spore kontrowersje wywołała obecna minister edukacji **Anna Zalewska**, która gościła w programie Moniki Olejnik, „Kropka nad i”.       
 Dziennikarka zapytała minister, kto odpowiada za zbrodnie na ludności żydowskiej w Jedwabnem oraz za zbrodnie w Kielcach. Minister nie potrafiła dać jasnej odpowiedzi na to pytanie zasłaniając się historykami i „zawiłościami historycznymi”. W końcu minister stwierdziła, że za zbrodnie odpowiadają „antysemici”. Wydaje się, że pytanie było dla niej zbyt kontrowersyjne.       
 
-Fragment:      
+> Fragment:      
 M.O.: A Jedwabne to jaki jest fakt dla pani?       
 A.Z.: To jest fakt historyczny, w którym doszło do wielu nieporozumień, do wielu tendencyjnych opinii.      
 M.O.: Nie. Polacy spalili Żydów w stodole.      
