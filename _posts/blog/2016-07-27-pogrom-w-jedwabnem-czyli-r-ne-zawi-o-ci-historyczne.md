@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-published: false
+published: true
 title: Pogrom w Jedwabnem czyli różne zawiłości historyczne
 ---
 Do tej pory wydawało się, że wydarzenia takie jak pogrom w Jedwabnem z 1941 roku czy pogrom Kielecki z roku 1946 są faktami historycznymi, co do których nie ma żadnych zastrzeżeń. Jednak okazało się, że nie dla wszystkich. 
@@ -56,6 +56,3 @@ http://wiadomosci.dziennik.pl/swiat/artykuly/526941,prezes-swiatowego-kongresu-z
 
 Artykuł na stronie Światowego Kongresu Żydów, źródło angielskojęzyczne:           
 http://www.worldjewishcongress.org/en/news/world-jewish-congress-president-polish-officials-must-immediately-apologize-for-remarks-questioning-poles-involvement-in-murder-of-jews-during-wwii-7-3-2016 (dostęp 26.07.2016)
-
-
-
