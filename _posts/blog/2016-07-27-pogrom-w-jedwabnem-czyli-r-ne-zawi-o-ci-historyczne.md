@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: Pogrom w Jedwabnem czyli różne zawiłości historyczne
+title: Pogrom w Jedwabnem czyli "różne zawiłości historyczne"
 ---
 Do tej pory wydawało się, że wydarzenia takie jak pogrom w Jedwabnem z 1941 roku czy pogrom Kielecki z roku 1946 są faktami historycznymi, co do których nie ma żadnych zastrzeżeń. Jednak okazało się, że nie dla wszystkich. 
 <!--more-->         
