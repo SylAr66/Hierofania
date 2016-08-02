@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-published: false
+published: true
 title: Komentarze po przemówieniach papieża na ŚDM. Uchodźcy i makaron
 ---
 Światowe Dni Młodzieży minęły bez większych problemów. Papież miał okazje odwiedzić wiele ważnych miejsce oraz kilkukrotnie wypowiedzieć się na ważne tematy. Wcale mnie nie zdziwiło, że jednym z tych tematów był konflikt w Syrii oraz uchodźcy, który napływają do Europy.     
@@ -35,9 +35,3 @@ Te słowa Jezusa wychodzą naprzeciw pytaniu, które często rozbrzmiewa w naszy
 Umierając na krzyżu, powierza się On w ręce Ojca i niesie na sobie i w sobie, z ofiarną miłością, rany fizyczne, moralne i duchowe całej ludzkości. Obejmując drzewo krzyża, Jezus obejmuje nagość i głód, pragnienie i samotność, cierpienie i śmierć mężczyzn i kobiet wszystkich czasów. **Tego wieczoru Jezus i my wraz z nim, obejmujemy ze szczególną miłością naszych syryjskich braci, którzy uciekli przed wojną.** Witamy ich z braterską miłością i sympatią.       
 
 Całość dostępna w pliku PDF: http://laboratorium.wiez.pl/2016/08/01/przemowienia-franciszka-z-sdm-w-jednym-pdf-ie-pobierz/
-   
-
-
-
-
-
