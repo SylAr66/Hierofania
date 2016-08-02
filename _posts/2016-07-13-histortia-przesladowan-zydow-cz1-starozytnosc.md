@@ -38,6 +38,11 @@ Chrześcijańskie przekonanie o wyłączności i niezaprzeczalnej prawdziwości 
 
 > **Augustyn** w _Państwie Bożym_ stwierdza, że Żydzi: skazali go na śmierć [Jezusa] i nie chcieli w Niego uwierzyć, gdyż trzeba było, aby umarł i zmartwychwstał, to okrutnie wyniszczeni przez Rzymian i do cna wyplenieni ze swego królestwa, gdzie panowali już obcy, zostali rozproszeni po wszystkich krajach i Pismami swymi dają świadectwo, żeśmy bynajmniej nie zmyślili proroctw o Chrystusie.          
 
+Na zakończenie przywołam jeszcze postać **cesarza Konstantyna Wielkiego**, który miał znaczący wpływ na losy chrześcijaństwa. W IV wieku imperium było podzielone między czterech władców (Konstantyn sprawował władzę nad Galią, Brytanią i Hiszpanią). W 312 r. pokonał Maksencjusza (władcę Italii) nad Tybrem. To wydarzenie całkowicie zmieniło status chrześcijaństwa. Od tego momentu stało się religią zwycięskiego władcy.         
+Rzekome zakończenie przez Konstantyna prześladowań chrześcijan, przez wydany rok później edykt mediolański nie jest prawdą. Takie rozporządzenie w 311 r. wydał Galeriusz. Konstantyn jedynie odnowił ten edykt i uzupełnił.               
+Cesarz nigdy otwarcie nie walczył z innymi religiami w obrębie imperium (za czym najpewniej przemawiał strach przed wojną domową), ale nie powstrzymywał się przed próbami chrystianizacji oraz faworyzacji chrześcijaństwa, jako naczelnej religii, związanej z pomyślnością całego imperium. W stosunku do pozostałych wyznań, Konstantyn stwierdzał: „niech i ci, którzy uwikłani są w błędy, tak samo jak wierzący, w radości przyjmą dar pokoju i spokojnego bytu”.            
+Samych Żydów władca nazywał „złowrogą sektą”. Jednak pomimo niechęci Konstantyna, wyznanie mojżeszowe wciąż było dozwolone, choć nie mogło się cieszyć opieką władcy. Żydzi, którzy próbowali powstrzymać współwyznawców przed konwersją na chrześcijaństwo byli surowo karani (innych religii to nie dotyczyło).  W odniesieniu do synagog Konstantyn używał słowa, które w żargonie rzymskim znaczyło „burdel”.        
+
 Cytaty: Biblia Tysiąclecia (dostepna online: http://biblia-online.pl/)       
        Św. Augustyn, _O państwie Bożym: przeciw poganom, ksiąg  XXII_, Warszawa 1977.       
        
@@ -46,4 +51,5 @@ _Słownik wiedzy biblijnej_, red. B. Metzger, M. Coogan,  Warszawa 1997.
 E. Wipszycka, _O starożytności polemicznie_, Warszawa 1994.      
 F. Fontette, _Historia antysemityzmu_, Wydawnictwo Siedmiogród 1992.      
 L. Poliakov, _Historia antysemityzmu. t. I, Epoka wiary_, Kraków 2008.       
-J. Trachtenberg, _Diabeł i Żydzi. Średniowieczna koncepcja Żyda a współczesny antysemityzm_, Kraków 2011.
+J. Trachtenberg, _Diabeł i Żydzi. Średniowieczna koncepcja Żyda a współczesny antysemityzm_, Kraków 2011.      
+P. Veyne, _Początki chrześcijańskiego świata (312-394)_, Warszawa 2009.       
