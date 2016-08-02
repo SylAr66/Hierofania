@@ -4,8 +4,8 @@ category: blog
 published: false
 title: Komentarze po przemówieniach papieża na ŚDM. Uchodźcy i makaron
 ---
-Światowe Dni Młodzieży minęły bez większych problemów. Papież miał okazje odwiedzić wiele ważnych miejsce oraz kilkukrotnie wypowiedzieć się na ważne tematy. Wcale mnie nie zdziwiło, że jednym z tych tematów był konflikt w Syrii oraz uchodźcy, który napływają do Europy.
-<!--more-->        
+Światowe Dni Młodzieży minęły bez większych problemów. Papież miał okazje odwiedzić wiele ważnych miejsce oraz kilkukrotnie wypowiedzieć się na ważne tematy. Wcale mnie nie zdziwiło, że jednym z tych tematów był konflikt w Syrii oraz uchodźcy, który napływają do Europy.     
+<!--more-->              
 Stanowiska papieża w sprawie kryzysu migracyjnego jest powszechnie znane. Uważa on, że należy uchodźców przyjmować i opiekować się nimi. To nie spodobało się wszystkim.      
 
 Dolnośląski poseł nacjonalistów **Robert Winnicki** skomentował poglądy papieża na swoim profilu na facebooku:          
@@ -26,13 +26,13 @@ Nagranie do odsłuchania: https://www.radiokrakow.pl/rozmowy/beata-szydlo-mysle-
 
 Poniżej fragmenty obrazujące postawę papieża (wybrane przeze mnie z dwóch przemówień).
   
-**28 lipca 2016, Błonia Kraków, „Nie odrzucajcie ręcznika przed walką”:**            
+> **28 lipca 2016, Błonia Kraków, „Nie odrzucajcie ręcznika przed walką”:**            
 Znając żarliwość, z jaką podejmujecie misję, śmiem powiedzieć: miłosierdzie ma zawsze młode oblicze. Serce miłosierne ma bowiem odwagę, by porzucić wygodę; serce miłosierne potrafi wychodzić na spotkanie innych, potrafi objąć wszystkich. S**erce miłosierne potrafi być schronieniem dla tych, którzy nigdy nie mieli domu albo go stracili, potrafi stworzyć atmosferę domu i rodziny dla tych, którzy musieli emigrować, jest zdolne do czułości i współczucia.** Serce miłosierne potrafi dzielić swój chleb z głodnym, serce miłosierne otwiera się, aby przyjmować uchodźców oraz imigrantów. (…) Kiedy serce jest otwarte, jest zdolne do marzeń, bo jest w nim miejsce na miłosierdzie. Jest miejsce na czułość wobec tych, którzy cierpią. Jest miejsce, by stanąć obok tych, którzy w sercu nie mają pokoju albo którym brakuje tego, co potrzebne do życia, lub którym brakuje najpiękniejszej rzeczy – wiary, miłosierdzia. Razem to powiedzmy, wszyscy: miłosierdzie! (…) **Naucz nas jak Marię z Betanii słuchania tych, których nie rozumiemy, tych, którzy pochodzą z innych kultur, innych narodów, a także tych, których się boimy, sądząc, że mogą nam wyrządzić zło.**
 
-**29 lipca 2016, Błonia Kraków, „Stawką jest nasza wiarygodność”:**       
+> **29 lipca 2016, Błonia Kraków, „Stawką jest nasza wiarygodność”:**       
 „Byłem głodny, a daliście Mi jeść; Byłem spragniony, a daliście Mi pić; Byłem przybyszem, a przyjęliście Mnie; Byłem nagi, a przyodzialiście Mnie; Byłem chory, a odwiedziliście Mnie, Byłem w więzieniu, a przyszliście do Mnie” (Mt 25, 35-36).             
 Te słowa Jezusa wychodzą naprzeciw pytaniu, które często rozbrzmiewa w naszych umysłach i sercach: „Gdzie jest Bóg?”.**Gdzie jest Bóg, jeśli na świecie istnieje zło, jeśli są ludzie głodni, spragnieni, bezdomni, wygnańcy, uchodźcy?** Gdzie jest Bóg, gdy niewinni ludzie umierają z powodu przemocy, terroryzmu, wojen? Gdzie jest Bóg, kiedy bezlitosne choroby zrywają więzy życia i miłości? Albo, gdy dzieci są wyzyskiwane, poniżane i kiedy także one cierpią z powodu poważnych patologii? Gdzie jest Bóg w obliczu niepokoju wątpiących i dusz strapionych? Istnieją takie pytania, na które nie ma żadnych ludzkich odpowiedzi. Możemy tylko spojrzeć na Jezusa i Jego pytać. A odpowiedź Jezusa jest następująca: „Bóg jest w nich”, Jezus jest w nich, cierpi w nich, głęboko utożsamiony z każdym z nich. Jest On tak zjednoczony z nimi, że tworzy niemal „jedno ciało”. Sam Jezus postanowił utożsamić się z tymi naszymi braćmi i siostrami doświadczanymi bólem i niepokojem, godząc się przejść drogą cierpienia ku Kalwarii.        
-Umierając na krzyżu, powierza się On w ręce Ojca i niesie na sobie i w sobie, z ofiarną miłością, rany fizyczne, moralne i duchowe całej ludzkości. Obejmując drzewo krzyża, Jezus obejmuje nagość i głód, pragnienie i samotność, cierpienie i śmierć mężczyzn i kobiet wszystkich czasów. **Tego wieczoru Jezus i my wraz z nim, obejmujemy ze szczególną miłością naszych syryjskich braci, którzy uciekli przed wojną.** Witamy ich z braterską miłością i sympatią.           
+Umierając na krzyżu, powierza się On w ręce Ojca i niesie na sobie i w sobie, z ofiarną miłością, rany fizyczne, moralne i duchowe całej ludzkości. Obejmując drzewo krzyża, Jezus obejmuje nagość i głód, pragnienie i samotność, cierpienie i śmierć mężczyzn i kobiet wszystkich czasów. **Tego wieczoru Jezus i my wraz z nim, obejmujemy ze szczególną miłością naszych syryjskich braci, którzy uciekli przed wojną.** Witamy ich z braterską miłością i sympatią.       
 
 Całość dostępna w pliku PDF: http://laboratorium.wiez.pl/2016/08/01/przemowienia-franciszka-z-sdm-w-jednym-pdf-ie-pobierz/
    
