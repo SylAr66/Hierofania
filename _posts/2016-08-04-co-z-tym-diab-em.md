@@ -66,12 +66,17 @@ Pogląd ten rozwinął **Orygenes** (185-253) twierdząc, że szatan musiał uzy
 W _Didascalia Apostolorum_, jednym z najstarszych zachowanych dokumentów kościelnych widnieje zarządzenie, by podczas obchodów świąt Wielkanocnych w modlitwie uwzględniać Żydów: „pościć będziecie za naszych braci, którzy okazali nieposłuszeństwo (…). Trzeba nam pościć i płakać nad nimi i nad sądem i nad zniszczeniem kraju (…), ponieważ kiedy Pan nasz przyszedł do ludu Żydowskiego, nie uwierzyli mu kiedy ich nauczał” . Modlitwy za pogan i Żydów była praktykowana aż do IX w.                       
 W średniowiecznej sztuce synagoga była przeciwstawiana kościołowi. Kolebkę tego poglądu odnajdziemy w dawnych dziełach kaznodziejów Wschodu. **Jan Chryzostom** o synagodze pisał w ten sposób: „nie tylko domem nierządu i teatrem jest, lecz także jaskinią łotrów i legowiskiem dzikich bestii (…) żyją dla swego brzucha, a pragną tylko rzeczy doczesnych. Rozpusta i bezgraniczna pożądliwość stawia ich pośród wieprzy i capów”.
 
+![Katedra w Strasburgu. Ecclesja i Synagoga.JPG]({{site.baseurl}}/img/Katedra w Strasburgu. Ecclesja i Synagoga.JPG) Katedra Najświętszej Marii Panny w Strasburgu          
+
+
 Cytaty:       
 Biblia Tysiąclecia (wersja online)        
 Orygenes, _Przeciw Celsusowi_, Warszawa 1977.       
 Źródło:         
 K. Zalewska, Książę Ciemności: o średniowiecznych wyobrażeniach szatana, Warszawa 1996.     
-
+_Słownik wiedzy biblijnej_, red. B. Metzger, M. Coogan, Warszawa 1997.                   
+L. Poliakov, _Historia antysemityzmu. t. I, Epoka wiary_, Kraków 2008.        
+J. Trachtenberg, _Diabeł i Żydzi. Średniowieczna koncepcja Żyda a współczesny antysemityzm_, Kraków 2011.           
 
 
 
