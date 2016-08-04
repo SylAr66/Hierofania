@@ -8,7 +8,8 @@ title: 'Co z tym diabłem? '
 
 ### Stary Testament
 
-W księgach _Starego Testamentu_ nie odnajdziemy wizerunku „szatana” jako przeciwnika Boga. Raczej zdaje się on być częścią jego świty. Bóg tak, jak ziemski władca otoczony miał być „niebiańskim dworem”.        
+W księgach _Starego Testamentu_ nie odnajdziemy wizerunku „szatana” jako przeciwnika Boga. Raczej zdaje się on być częścią jego świty. Bóg tak, jak ziemski władca otoczony miał być „niebiańskim dworem”.  
+<!--more-->
 W Biblii hebrajskiej "szatan" może oznaczać:         
 * każdego człowieka, który odgrywał rolę oskarżyciela lub przeciwnika (1 Sm 29,4; 2 Sm 19,22; 1 Krl 5,4; 11,14)          
 * Anioła Bożego (Lb 22,32)           
