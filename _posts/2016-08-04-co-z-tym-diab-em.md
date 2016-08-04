@@ -1,7 +1,7 @@
 ---
 layout: post
 category: article
-published: false
+published: true
 title: 'Co z tym diabłem? '
 ---
 ## Rozwój wizerunku szatana w chrześcijaństwie. 
@@ -77,8 +77,4 @@ Orygenes, _Przeciw Celsusowi_, Warszawa 1977.
 K. Zalewska, Książę Ciemności: o średniowiecznych wyobrażeniach szatana, Warszawa 1996.     
 _Słownik wiedzy biblijnej_, red. B. Metzger, M. Coogan, Warszawa 1997.                   
 L. Poliakov, _Historia antysemityzmu. t. I, Epoka wiary_, Kraków 2008.        
-J. Trachtenberg, _Diabeł i Żydzi. Średniowieczna koncepcja Żyda a współczesny antysemityzm_, Kraków 2011.           
-
-
-
-
+J. Trachtenberg, _Diabeł i Żydzi. Średniowieczna koncepcja Żyda a współczesny antysemityzm_, Kraków 2011.
