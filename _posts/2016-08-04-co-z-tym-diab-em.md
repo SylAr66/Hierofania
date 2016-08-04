@@ -60,6 +60,18 @@ Bardzo ważnym punktem w tych rozważaniach jest myśl jednego z Ojców Kościo�
 
 > Kol 2, 11-14): „I w nim też otrzymaliście obrzezanie, nie z ręki ludzkiej, lecz Chrystusowe obrzezanie, polegające na całkowitym wyzbyciu się grzesznego ciała, jako razem z Nim pogrzebani w chrzcie, w którym też razem zostaliście wskrzeszeni przez wiarę w moc Boga, który Go wskrzesił (…) Darował nam wszystkie występki, skreślił zapis dłużny, przygniatający nas nakazami. To właśnie, co było naszym przeciwnikiem, usunął z drogi, przygwoździwszy do krzyża”.
 
+Cytat ten został przytoczony ze względu na ważne sformułowanie - „zapis dłużny obciążający nas nakazami” - które przez ówczesnych teologów miał być podkreśleniem, iż przez grzech pierworodny szatan otrzymał prawo do człowieka.          
+Ireneusz z Lyonu przeniósł dogmatykę na grunt prawny stwierdzając, iż człowiek dobrowolnie przeciwstawiając się Bogu oddał się w posiadanie szatanowi. Ofiara bezgrzesznego Chrystusa miała rozciągnąć nad wszystkimi łaskę, ponieważ w myśl prawa szatan zabijając Jezusa przekroczył swoje kompetencje, dlatego możliwe było odebranie mu władzy.Tego typu jurystyczne podejście będzie żywe w średniowieczu. Wymowne w tej kwestii są XIV-wieczne odpisy tzw. _ksiąg procesu szatana_ (być może stworzone stulecie wcześniej).          
+Pogląd ten rozwinął **Orygenes** (185-253) twierdząc, że szatan musiał uzyskać ekwiwalent za to, co traci – krew Chrystusa, dlatego ludzie, którzy go uśmiercili byli jego narzędziami (czyli Żydzi). Dlatego stwierdził, że Żydzi: „nigdy już nie powrócą do dawnej świetności. Dopuścili się bowiem najcięższej zbrodni knując spisek przeciwko Zbawicielowi ludzkości”.       
+W _Didascalia Apostolorum_, jednym z najstarszych zachowanych dokumentów kościelnych widnieje zarządzenie, by podczas obchodów świąt Wielkanocnych w modlitwie uwzględniać Żydów: „pościć będziecie za naszych braci, którzy okazali nieposłuszeństwo (…). Trzeba nam pościć i płakać nad nimi i nad sądem i nad zniszczeniem kraju (…), ponieważ kiedy Pan nasz przyszedł do ludu Żydowskiego, nie uwierzyli mu kiedy ich nauczał” . Modlitwy za pogan i Żydów była praktykowana aż do IX w.                       
+W średniowiecznej sztuce synagoga była przeciwstawiana kościołowi. Kolebkę tego poglądu odnajdziemy w dawnych dziełach kaznodziejów Wschodu. **Jan Chryzostom** o synagodze pisał w ten sposób: „nie tylko domem nierządu i teatrem jest, lecz także jaskinią łotrów i legowiskiem dzikich bestii (…) żyją dla swego brzucha, a pragną tylko rzeczy doczesnych. Rozpusta i bezgraniczna pożądliwość stawia ich pośród wieprzy i capów”.
+
+Cytaty:       
+Biblia Tysiąclecia (wersja online)        
+Orygenes, _Przeciw Celsusowi_, Warszawa 1977.       
+Źródło:         
+K. Zalewska, Książę Ciemności: o średniowiecznych wyobrażeniach szatana, Warszawa 1996.     
+
 
 
 
