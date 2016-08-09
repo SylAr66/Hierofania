@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-published: false
+published: true
 title: Biblia na wojnie z Daesh
 ---
 Przedstawiciele szwedzkiej grupy religijnej „Słowo Życia” chcą zrzucić na tereny kontrolowane przez Daesh tysiące elektronicznych egzemplarzy Biblii.          
@@ -21,4 +21,4 @@ Artykuły:
 https://www.rt.com/news/354849-swedish-church-bibles-isis/ (dostęp 08.08.2016)      
 http://www.breitbart.com/london/2016/08/09/swedish-church-wants-use-drones-drop-thousands-bibles-islamic-state/ (dostęp 08.08.2016)        
 Artykuł "Rzeczpospolita":        
-http://www.rp.pl/Spoleczenstwo/160809403-Szwedzka-organizacja-religijna-chce-zrzucac-Biblie-na-terytorium-opanowane-przez-Daesh-w-Iraku.html#ap-2 (dostęp 08.08.2016)       
+http://www.rp.pl/Spoleczenstwo/160809403-Szwedzka-organizacja-religijna-chce-zrzucac-Biblie-na-terytorium-opanowane-przez-Daesh-w-Iraku.html#ap-2 (dostęp 08.08.2016)
