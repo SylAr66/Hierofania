@@ -32,10 +32,13 @@ Zaprawdę, bogobojni będą przebywać w miejscu bezpieczny wśród ogrodów i �
 **Dopiero w tekstach hadisów status męczenników zostaje wywyższony, a ich nagrody różnią się od nagród "zwykłych" wiernych.**
 
 ## TRADYCJA PÓŹNIEJSZA
-Dużo większe przywiązanie do nagród męczeńskich pojawia się dopiero w literaturze dżihadu. Najczęściej cytowana tradycja mówi o tym, że:
+Dużo większe przywiązanie do nagród męczeńskich pojawia się dopiero w literaturze dżihadu. Najczęściej cytowana tradycja mówi o tym, że męczennicy dostąpią możliwości znajdowania się blisko Boga i podziwiania piekna raju:
 
 > Kiedy wasi bracia zostali powaleni [w bitwie] pod Uhud, Bóg umieścił ich dusze w ciałach zielonych ptaków, które lecą nad rzeki płynące w raju, spożywają jego owoce, a potem przysiadają na świecach ze złota w cieniu Tronu. Gdy [męczennicy] dostrzegają wspaniałość napojów i jadła oraz piękno, na którym spoczywają, mówią: „Gdybyż nasi bracia wiedzieli, co Bóg nam uczynił, oni również poświęciliby się dżihadowi i nie stronili od walki”. A Bóg najwyższy mówi: „Ja powiem im o was”.
 
+Fragmenty dotyczące uciech seksualnych pojawiają się w hadisach. Tam możemy znaleźć wzmianki o rajskich kobietach (hurysach), ale barwne i obrazowe opisy uciech cielesnych spotkamy dopiero wraz z rozbudowaniem literatury dżihadu.          
+W zbiorze tradycji at-Tirmiziego pojawia się taki opis przywilejów męczenników:      
 
+W obliczu Boga męczennik ma sześć [wyjątkowych] przywilejów: [Bóg] wybacza mu przy pierwszej sposobności i wskazuje miejsce w raju, oszczędzona mu zostaje udręka grobu, wolny jest od wszelkiego strachu [zmartwychwstania], na jego skroniach złożona zostaje zaszczytna korona – z której jeden tylko rubin więcej wart niż cały świat ze wszystkimi dobrami – jest poślubiony 72 hurysom i zyskuje prawo do wstawienia się za 70 krewnymi.
 
 
