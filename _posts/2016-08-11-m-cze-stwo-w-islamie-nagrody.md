@@ -36,9 +36,27 @@ Dużo większe przywiązanie do nagród męczeńskich pojawia się dopiero w lit
 
 > Kiedy wasi bracia zostali powaleni [w bitwie] pod Uhud, Bóg umieścił ich dusze w ciałach zielonych ptaków, które lecą nad rzeki płynące w raju, spożywają jego owoce, a potem przysiadają na świecach ze złota w cieniu Tronu. Gdy [męczennicy] dostrzegają wspaniałość napojów i jadła oraz piękno, na którym spoczywają, mówią: „Gdybyż nasi bracia wiedzieli, co Bóg nam uczynił, oni również poświęciliby się dżihadowi i nie stronili od walki”. A Bóg najwyższy mówi: „Ja powiem im o was”.
 
-Fragmenty dotyczące uciech seksualnych pojawiają się w hadisach. Tam możemy znaleźć wzmianki o rajskich kobietach (hurysach), ale barwne i obrazowe opisy uciech cielesnych spotkamy dopiero wraz z rozbudowaniem literatury dżihadu.          
-W zbiorze tradycji at-Tirmiziego pojawia się taki opis przywilejów męczenników:      
+Fragmenty dotyczące uciech seksualnych pojawiają się w hadisach. Tam możemy znaleźć wzmianki o rajskich kobietach (hurysach), ale barwne i obrazowe opisy uciech cielesnych spotkamy dopiero wraz z rozbudowaniem literatury dżihadu oraz epoką podpojów.          
+W zbiorze **tradycji at-Tirmiziego** pojawia się taki opis przywilejów męczenników:      
 
-W obliczu Boga męczennik ma sześć [wyjątkowych] przywilejów: [Bóg] wybacza mu przy pierwszej sposobności i wskazuje miejsce w raju, oszczędzona mu zostaje udręka grobu, wolny jest od wszelkiego strachu [zmartwychwstania], na jego skroniach złożona zostaje zaszczytna korona – z której jeden tylko rubin więcej wart niż cały świat ze wszystkimi dobrami – jest poślubiony 72 hurysom i zyskuje prawo do wstawienia się za 70 krewnymi.
+> W obliczu Boga męczennik ma sześć [wyjątkowych] przywilejów: [Bóg] wybacza mu przy pierwszej sposobności i wskazuje miejsce w raju, oszczędzona mu zostaje udręka grobu, wolny jest od wszelkiego strachu [zmartwychwstania], na jego skroniach złożona zostaje zaszczytna korona – z której jeden tylko rubin więcej wart niż cały świat ze wszystkimi dobrami – **jest poślubiony 72 hurysom** i zyskuje prawo do wstawienia się za 70 krewnymi.  
+
+Wyolbrzymiony potencjach seksualny ukazany poprzez liczbę żon-hurys, w innych tekstach jest porównany do uzyskania siły 70/100 mężczyzn. Jest to dość klasyczny chwyt mający na celu ukazanie potęgi mężczyzn-wojowników/królów. W starych tradycjach potęga mężczyzny często była łączona z liczbą posiadanych kobiet – utrzymanie/porwanie wielu kobiet oznaczało bogactwo oraz dużą liczbę dzieci, czyli potencjał rodowy. Ilość branek wojennych oznaczała wysoki status wojskowy (nasuwa się skojarzenie z biblijną _I Księgą Królewską_, 11,3, gdzie pojawia się liczba siedmiuset żon i trzystu kochanek Salomona).         
+
+W księdze dżihadu uczonego i wojownika Ibna al-Mubaraka **(VIII wiek) pojawiają się opisy ślubów z hurysami na polu bitwy**. Autor przytacza mowę Jazida b. Szadżary, dowódcy armii kalifa (VII wiek), gdzie opowiada on o zstąpieniu z nieba hurys, które zachęcały wojowników do walki. **Do tych wojowników, którzy zginęli podchodziły dwie z nich i poślubiały go** (przypomnę, że wedle Koranu można poślubić tylko jedną hurysę, ale tu mamy już dwie).       
+Ibn al-Mubarak przytacza jeszcze historie bizantyjskiego wojownika-konwertyty. Jeden z wojowników wroga wyszedł z obleganej fortecy i tak powiedział:
+
+> Tego ranka jadłem wieprzowinę, piłem wino i obcowałem z moją żoną, a kiedy spałem, przyszło dwóch mężczyzn, umyli mi łono i poślubili dwóm kobietom, z których żadna nie była zazdrosna o drugą. Powiedzieli mi: „Nawróć się na islam!” A zatem jestem muzułmaninem. Ledwie wypowiedział słowa, gdy zostaliśmy zaatakowani (…) został ugodzony w głowę (…) Fadala zawołał: „Allahu Akbar! Uczynił niewiele, lecz otrzymał wielką nagrodę, więc módlcie się za waszego brata” i modliliśmy się za niego.
+
+W innych tradycjach pojawiają się historie wojowników, którzy tuż przed bitwą widzieli hurysy, które czekały na poległych. W książce as-Sarradża (XI wiek) znajdziemy przykłady mężczyzn, którzy zakochali się w hurysach, które pojawiały się w ich snach.      
+W innym tekście (Ibn Abi Zaminajn) występuje wojownik Nudżajh, który został ranny odłamkiem skały podczas oblężenia fortecy na Sycylii. Zemdlał, po czym najpierw śmiał się, a potem płakał. Kiedy się ocknął opowiedział innym, że został zabrany do pomieszczenia wykonanego z rubinu, gdzie stała kobieta.  Opowiedziała mu o szykowanym dla niego miejscu i kobietach, które będą mu towarzyszyć. Umarł wieczorem tego samego dnia.           
+Warto odnotować, że zarówno Nudżajh, jak i Bizantyjczyk-konwertyta nie umarli bezpośrednio w boju. Byli ofiarami przypadku. Nie zrobili prawie nic podczas walki. Jednak to wystarczyło, aby stali się męczennikami.        
+Inna tradycyjna historyjka mówi o człowieku okrążającym Kaabę w Mekce, który wołał „Mój Boże! Mój Boże!” Spytany o powód wołania odpowiedział:        
+
+> Było nas siedmiu, pochodziliśmy z różnych miejsc, lecz połączyliśmy siły, aby najeżdżać ziemie nieprzyjaciół. Trafiliśmy do niewoli, wszyscy, i zabrali nas na stronę, przy drodze, do miejsca, w którym mogli nas zabić. Spojrzałem w niebo i coś ujrzałem! Było tam siedem bram otwartych, a przy każdej jedna z siedmiu dziewiczych hurys. Jednego z nas poprowadzili do przodu i ścięli mu głowę, a ja zobaczyłem dziewicę zstępującą na ziemię z całunem w dłoni. Wreszcie ścięto wszystkich sześciu i tylko ja zostałem. Pozostała jeszcze jedna brama, a mnie prowadzono już na ścięcie, kiedy jeden z ludzi [nieprzyjaciół] poprosił o mnie, więc oddali mnie jemu. Usłyszałem, jak ona mówi: „Cóż tracisz, o chroniony!” i brama się zamknęła, a ja, mój bracie, jestem zdruzgotany z powodu tego, co straciłem.
+
+
+
+
 
 
