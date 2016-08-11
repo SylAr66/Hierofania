@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-published: false
+published: true
 title: 'Irańscy mężczyźni w burkach? '
 ---
 
