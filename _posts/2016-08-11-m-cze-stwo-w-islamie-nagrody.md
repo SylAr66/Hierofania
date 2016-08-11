@@ -1,7 +1,7 @@
 ---
 layout: post
 category: article
-published: false
+published: true
 title: MĘCZEŃSTWO W ISLAMIE. NAGRODY
 ---
 Sugeruję, aby najpierw zapoznać się z dwoma artykułami zatytułowanymi **"Męczeństwo w genezie Islamu"**. Inaczej nie wsyzstkie fragmenty artykułu będą zrozumiałe.
@@ -72,4 +72,3 @@ Ubrania bliższe ciału powinny pozostać w grobie (było na nich najwięcej krw
 
 Na podstawie:           
 David Cook, _Męczeństwo w islamie_, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2009.
-
