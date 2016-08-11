@@ -29,5 +29,13 @@ W raju pojawią się również **hurysy**, czyli rajskie kobiety, którym zadani
 Zaprawdę, bogobojni będą przebywać w miejscu bezpieczny wśród ogrodów i źródeł, ubrani w atłas i brokat, zwróceni do siebie twarzami. Tak będzie! I połączymy ich w pary z hurysami o wielkich oczach. Oni tam będą wołać o wszelkiego rodzaju owoce, bezpieczni.           
 (można porównać z LII18-27)        
 
+**Dopiero w tekstach hadisów status męczenników zostaje wywyższony, a ich nagrody różnią się od nagród "zwykłych" wiernych.**
+
+## TRADYCJA PÓŹNIEJSZA
+Dużo większe przywiązanie do nagród męczeńskich pojawia się dopiero w literaturze dżihadu. Najczęściej cytowana tradycja mówi o tym, że:
+
+> Kiedy wasi bracia zostali powaleni [w bitwie] pod Uhud, Bóg umieścił ich dusze w ciałach zielonych ptaków, które lecą nad rzeki płynące w raju, spożywają jego owoce, a potem przysiadają na świecach ze złota w cieniu Tronu. Gdy [męczennicy] dostrzegają wspaniałość napojów i jadła oraz piękno, na którym spoczywają, mówią: „Gdybyż nasi bracia wiedzieli, co Bóg nam uczynił, oni również poświęciliby się dżihadowi i nie stronili od walki”. A Bóg najwyższy mówi: „Ja powiem im o was”.
+
+
 
 
