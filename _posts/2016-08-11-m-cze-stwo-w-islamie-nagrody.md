@@ -4,10 +4,12 @@ category: article
 published: true
 title: MĘCZEŃSTWO W ISLAMIE. NAGRODY
 ---
-Sugeruję, aby najpierw zapoznać się z dwoma artykułami zatytułowanymi **"Męczeństwo w genezie Islamu"**. Inaczej nie wsyzstkie fragmenty artykułu będą zrozumiałe.
 
 W Koranie nie pojawia się definicja męczeństwa, ani nie ma jasnych wzmianek dotyczących nagród pośmiertnych dla męczenników. Koncepcja męczeństwa rozwinęła się dużo później. 
+<!--more-->
 Problem stanowiło rozróżnienie pomiędzy „męczennikiem”, a „świadkiem”. Słowo _szuhada_ może oznaczać oba terminy. Przypuszcza się, że w Koranie częściej występuje słowo oznaczające świadka.      
+
+Sugeruję, aby najpierw zapoznać się z dwoma artykułami zatytułowanymi **"Męczeństwo w genezie Islamu"**. Inaczej nie wsyzstkie fragmenty artykułu będą zrozumiałe.
 
 ## KORAN
 Cytat zawarty w Koranie, który porusza kwestię pośmiertnej nagrody brzmi następująco: 
