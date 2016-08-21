@@ -2,7 +2,7 @@
 ## Technical
 
 email: 'kontakt@hierofania.pl'
-url: 'hierofania.pl'
+url: 'http://hierofania.pl'
 excerpt_separator: '<!--more-->'
 # base_url:  'http://sylar66.github.io/Hierofania/'
  
@@ -40,7 +40,7 @@ sass:
   #relativeLinks: 'http://prose.github.io/starter/links.jsonp'
 prose:
   ignore: ['_includes','_layouts','_sass','_scss','css','js','_config.yml','.gulpfile.js',]
-  siteurl: 'hierofania.pl'
+  siteurl: 'http://hierofania.pl'
   media: 'img'
   metadata:
     _posts:
