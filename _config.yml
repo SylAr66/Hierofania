@@ -15,6 +15,10 @@ author: Joanna Słonka
 admin: Krystian Okaz
 
 
+##Gems
+gems:
+  - jekyll-sitemap
+
 
 #Social Media
 
@@ -133,3 +137,5 @@ prose:
           element: "text"
           label: "Splash image"
           value: ""
+
+
