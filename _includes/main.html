@@ -1,7 +1,6 @@
     <header role="banner" class="page-header" id="top">
         <h1 class="brand-header">{{site.title}} <small>{{site.tagline}}</small></h1>
     </header>
-<!--
     <main class="featured-article">
         <article>
             {% for post in paginator.posts limit:1 %}
@@ -14,7 +13,6 @@
             {% endfor %}
         </article>
     </main>
--->
     <main class="blog col-md-8">
         {% for post in site.categories.article limit:4 %}
         <article>
@@ -22,25 +20,23 @@
             <h3><a href="{{ site.base_url }}{{ post.url }}" title="Stały Link do Posta '{{ post.title }}'">{{ post.title }}</a></h3>
             <div> 
                 <p>{{post.excerpt | strip_html}}</p>
-                <a href="{{ site.base_url }}{{ post.url }}" title="Czytaj Dalej post ''">Czytaj Dalej...</a>
+                <a href="{{ site.base_url }}{{ post.url }}" title="Czytaj Dalej post ''">Czytaj Dalej...</a> 
             </div>
         </article>
         {% endfor %}
         
-<!--
         <nav class="pagination">
-           {% if paginator/previous_page %}
-           {% if paginator/previous_page == 1 %}
+           {% if paginator.previous_page %}
+           {% if paginator.previous_page == 1 %}
                <a class="prev" href="{{site.base_url}}">Nowsze</a>
             {% else%}
-            <a class="prev" href="{{site.base_url}}/blog/page{{paginator.previous_page}}">Nowsze</a>
+            <a class="prev" href="{{site.base_url}}/blog/page{{paginator.previous_page}}/#jump">Nowsze</a>
             {% endif %}
             {% endif %}
             {% if paginator.next_page %}
-            <a class="prev" href="{{site.base_url}}/blog/page{{paginator.next_page}}">Starsze</a>
+            <a class="prev" href="{{site.base_url}}/blog/page{{paginator.next_page}}#jump">Starsze</a>
             {% endif %}
         </nav>
--->
         
     </main>
 
@@ -58,3 +54,12 @@
         {% endfor %}
      
     </aside>
+    
+   
+<ul class="social-nav model-0">
+<!--  <li><a href="https://twitter.com/vineethtrv" class="twitter"><i class="fa fa-twitter"></i></a></li>-->
+  <li><a  target="_blank" href="https://www.facebook.com/hierofaniapl" class="facebook"> <i class="fa fa-facebook"></i></a></li>
+<!--  <li><a href="https://plus.google.com/u/0/109987289949504261649/posts" class="google-plus"><i class="fa fa-google-plus"></i></a></li>-->
+<!--  <li><a class="linkedin"><i class="fa fa-linkedin"></i></a></li>-->
+<!--  <li><a class="pinterest"><i class="fa fa-pinterest-p"></i></a></li>-->
+</ul><br/>

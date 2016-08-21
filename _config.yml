@@ -26,11 +26,11 @@ twitter_username: HierofaniaPL
 
 
 #Build Settings
-
+##Backend
 highlighter:  rouge
 exclude: ["node_modules", "gulpfile.js", "package.json"]
-
-paginate: 4
+##Frontend
+paginate: 5
 paginate_path: "/blog/page:num/"
 
 sass:
