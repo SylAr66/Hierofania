@@ -19,3 +19,28 @@ footer.container{
  width: 100%;
  padding-top:60vw;
 }
+
+
+
+.dmca {
+  font-family:"PT Sans Regular","PT Sans","Gill Sans","Gill Sans MT",Calibri,sans-serif;
+  display: block;
+  text-transform: uppercase;
+  color: #fff;
+    &:hover{
+        text-decoration: none;
+        color: #fff;
+    }
+   & > strong {
+    background: #8DC642;
+    border: 2px solid #fff;
+    padding: 2px;
+  }
+  & > span {
+    background: #005000;
+    border: 1px solid #fff;
+    background: #000;
+    padding: 3px;
+    font-weight:400; 
+  }
+}
