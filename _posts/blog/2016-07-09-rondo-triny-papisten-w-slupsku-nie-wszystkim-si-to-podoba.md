@@ -3,6 +3,7 @@ layout: post
 category: blog
 published: true
 title: Rondo Triny Papisten w Slupsku. Nie wszystkim się to podoba
+hidden: true
 ---
 Dość niecodziennym wydarzeniem była decyzja władz i mieszkańców Słupska dotycząca uhonorowania ostatniej, spalonej na terenie miasta "czarownicy".  Imię Tiny Papisten będzie nosić jedno z rond w mieście.     
 <!--more-->   

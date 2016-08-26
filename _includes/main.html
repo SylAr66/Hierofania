@@ -1,6 +1,7 @@
     <header role="banner" class="page-header" id="top">
         <h1 class="brand-header">{{site.title}} <small>{{site.tagline}}</small></h1>
     </header>
+<!--
     <main class="featured-article">
         <article>
             {% for post in paginator.posts limit:1 %}
@@ -13,8 +14,9 @@
             {% endfor %}
         </article>
     </main>
+-->
     <main class="blog col-md-8">
-        {% for post in site.categories.article limit:4 %}
+        {% for post in paginator.posts %}
         <article>
             <time itempprop="dateCreated" datetime="{{post.date}}" class="post-meta small">{{ post.date | date: "%d-%m-%Y"}}</time>
             <h3><a href="{{ site.base_url }}{{ post.url }}" title="Stały Link do Posta '{{ post.title }}'">{{ post.title }}</a></h3>
@@ -25,17 +27,34 @@
         </article>
         {% endfor %}
         
+<!-- 
         <nav class="pagination">
            {% if paginator.previous_page %}
            {% if paginator.previous_page == 1 %}
                <a class="prev" href="{{site.base_url}}">Nowsze</a>
             {% else%}
-            <a class="prev" href="{{site.base_url}}/blog/page{{paginator.previous_page}}/#jump">Nowsze</a>
+            <a class="prev" href="{{site.base_url}}/strona{{paginator.previous_page}}/#jump">Nowsze</a>
             {% endif %}
             {% endif %}
             {% if paginator.next_page %}
-            <a class="prev" href="{{site.base_url}}/blog/page{{paginator.next_page}}#jump">Starsze</a>
+            <a class="prev" href="{{site.base_url}}/strona{{paginator.next_page}}#jump">Starsze</a>
             {% endif %}
+        </nav>
+-->
+        
+        
+        <nav class="pagination">
+          {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}#jump" class="previous">Nowsze</a>
+          {% else %}
+            <span class="previous">Nowsze</span>
+          {% endif %}
+<!--          <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>-->
+          {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}#jump" class="next">Starsze</a>
+          {% else %}
+            <span class="next ">Starsze</span>
+          {% endif %}
         </nav>
         
     </main>

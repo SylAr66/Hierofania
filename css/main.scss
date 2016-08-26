@@ -106,9 +106,14 @@ time{
 .pagination {
     display: block;
     color: #333;
-    & > a{
+    & > *{
         display: inline-block;
         color: inherit;
+        font-size: 20px;
+         
+    }
+    & > span{
+        color: #999;
     }
 }
 

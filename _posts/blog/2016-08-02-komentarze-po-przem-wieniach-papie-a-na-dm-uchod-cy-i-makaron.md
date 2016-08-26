@@ -3,6 +3,7 @@ layout: post
 category: blog
 published: true
 title: Komentarze po przemówieniach papieża na ŚDM. Uchodźcy i makaron
+hidden: true
 ---
 Światowe Dni Młodzieży minęły bez większych problemów. Papież miał okazje odwiedzić wiele ważnych miejsce oraz kilkukrotnie wypowiedzieć się na ważne tematy. Wcale mnie nie zdziwiło, że jednym z tych tematów był konflikt w Syrii oraz uchodźcy, który napływają do Europy.     
 <!--more-->              

@@ -1,8 +1,10 @@
 ---
+hidden: true
 layout: post
 category: blog
 published: true
 title: Biblia na wojnie z Daesh
+
 ---
 Przedstawiciele szwedzkiej grupy religijnej „Słowo Życia” chcą zrzucić na tereny kontrolowane przez Daesh tysiące elektronicznych egzemplarzy Biblii.          
 <!--more-->       

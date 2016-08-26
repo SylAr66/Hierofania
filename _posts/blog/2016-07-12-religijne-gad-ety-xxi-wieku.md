@@ -3,6 +3,7 @@ layout: post
 category: blog
 published: true
 title: 'Religijne gadżety XXI wieku '
+hidden: true
 ---
 ![Koszulka-Medalik-sw-Benedykta.jpg]({{site.baseurl}}/img/Koszulka-Medalik-sw-Benedykta.jpg)
 

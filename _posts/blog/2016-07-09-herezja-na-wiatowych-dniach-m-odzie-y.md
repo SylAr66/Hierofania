@@ -1,8 +1,10 @@
 ---
+hidden: true
 layout: post
 category: blog
 published: true
 title: Herezja na Światowych Dniach Młodzieży?
+
 ---
 Światowe Dni Młodzieży wywołują wiele emocji, zarówno tych pozytywnych, jak i negatywnych. Szeroko komentowane są kwestie dotyczące bezpieczeństwa, zaplecza sanitarnego czy zakwaterowania. Jednak poza tymi prozaicznymi problemami pojawiają się również te duchowe.        
 <!--more-->   
