@@ -16,8 +16,7 @@ admin: Krystian Okaz
 
 
 ##Gems
-gems:
-  - jekyll-sitemap
+gems: [ jekyll-sitemap , jekyll-minifier ]
 
 
 #Social Media
