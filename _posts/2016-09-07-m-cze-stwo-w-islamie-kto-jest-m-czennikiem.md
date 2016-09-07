@@ -9,6 +9,7 @@ title: 'MĘCZEŃSTWO W ISLAMIE. KTO JEST MĘCZENNIKIEM? '
 <!--more-->
 
 Męczeństwo w Koranie potraktowane jest marginalnie. Zmienia się to dopiero w hadisach, dlatego mam zamiar od razu przejść do tego zagadnienia (polecam wcześniejsze artykuły dotyczące męczenników muzułmańskich).
+
 ## HADISY
 Główny nacisk w hadisach został położony na to, iż **tylko Bóg może orzec, czy dana osoba została męczennikiem**, choć pojawiają się pewne elementy, które mogą pomóc w sprawdzeniu czy dana osoba zginęła jako męczennik.         
 Z tekstów hadisów wynika, że każdy mógł zostać męczennikiem. Każdy, kto poniósł godną śmierć (nie ważne czy w boju czy we własnym łóżku). Śmierć w bitwie, która wydaje się głównym wyznacznikiem męczeństwa w Islamie, dość szybko spadła na drugi plan. Jeden z XV-wiecznych uczonych zebrał wszystkie tradycje z hadisów i zapisał:
