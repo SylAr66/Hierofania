@@ -5,7 +5,8 @@ published: true
 title: 'MĘCZEŃSTWO W ISLAMIE. KTO JEST MĘCZENNIKIEM? '
 ---
 
-"Kto jest męczennikiem"? Wbrew pozorom nie jest to tak oczywiste, jak się wielu osobom wydaje. Otóż męczennikiem może zostać każdy. I wcale nie potrzebuje do tego śmierci w boju.       
+"Kto jest męczennikiem"? Wbrew pozorom nie jest to tak oczywiste, jak się wielu osobom wydaje. Otóż męczennikiem może zostać każdy. I wcale nie potrzebuje do tego śmierci w boju.
+<!--more-->
 
 Męczeństwo w Koranie potraktowane jest marginalnie. Zmienia się to dopiero w hadisach, dlatego mam zamiar od razu przejść do tego zagadnienia (polecam wcześniejsze artykuły dotyczące męczenników muzułmańskich).
 ## HADISY
