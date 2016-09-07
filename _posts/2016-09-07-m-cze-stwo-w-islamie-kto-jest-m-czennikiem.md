@@ -1,7 +1,7 @@
 ---
 layout: post
 category: article
-published: false
+published: true
 title: 'MĘCZEŃSTWO W ISLAMIE. KTO JEST MĘCZENNIKIEM? '
 ---
 
@@ -36,10 +36,3 @@ Następnie wierzący popełniający występki i grzechy wobec siebie samego, kt�
 
 Na podstawie:          
 David Cook, _Męczeństwo w islamie_, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2009.
-
-
-
-
-
-
-
