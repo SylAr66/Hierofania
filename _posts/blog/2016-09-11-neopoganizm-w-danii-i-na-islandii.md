@@ -18,9 +18,11 @@ Chrześcijaństwo stało się oficjalną religią Islandii około X wieku (choć
 Natomiast w Danii pierwsza świątynia bogów nordyckich została otwarta w 2016 roku. Chrystianizacja terenów Dani przebiegała pomiędzy VIII a XII wiekiem. Za datę „pełnej” chrystianizacji uważa się rok 1188, kiedy to patronem kraju stał się święty Kanut (król i męczennik).        
 W świątynie również odbywają się rytuały wzorowane na starych nordyckich obrzędach. Również te dotyczące ofiar ze zwierząt.        
 
-![świątynia w Danii.jpg]({{site.baseurl}}/img/świątynia w Danii.jpg)
+![świątynia w Danii.jpg]({{site.baseurl}}/img/świątynia w Danii.jpg)         
+*Świątynia ma wysokość 12 metrów*       
 
-![Ofiara z kurczaka.jpg]({{site.baseurl}}/img/Ofiara z kurczaka.jpg)
+![Ofiara z kurczaka.jpg]({{site.baseurl}}/img/Ofiara z kurczaka.jpg)      
+*Ofiara z dziewięciu kogutów dla Odyna*      
 
 ![Tron Odyna oraz jego dwa wilki.jpg]({{site.baseurl}}/img/Tron Odyna oraz jego dwa wilki.jpg)
 
@@ -34,7 +36,9 @@ W świątynie również odbywają się rytuały wzorowane na starych nordyckich 
 
 Źródło:     
 http://www.history.com/news/first-viking-temple-in-1000-years-coming-to-iceland      
-http://timewheel.net/Tome-Iceland-Is-Building-The-First-Temple-To-Norse-Gods-Since-Viking/      
+http://timewheel.net/Tome-Iceland-Is-Building-The-First-Temple-To-Norse-Gods-Since-Viking/ 
+http://spangenhelm.com/valheim-hof-denmark-dedicated-odin-gods/     
+
 
 
 
