@@ -11,7 +11,8 @@ Jako ciekawostkę napisze, że neopoganizm jest jednym z najszybciej rozwijając
 Chrześcijaństwo stało się oficjalną religią Islandii około X wieku (choć przez długi czas dalej odbywały się tradycyjne rytuały, tylko przeprowadzano je w ukryciu). Mitologia nordycka została spisana w XIII wieku przez uczonego, Snorriego Sturlusona. Nazywana jest „Eddą młodszą” (obok tego dzieła istnieje również „Edda starsza”, spisana dużo wcześniej).        
 Świątynia znajduje się niedaleko miasta Reykjavík i opiekuje się nią pięciu kapłanów i cztery kapłanki. Zajmują się oni udzielaniem ślubów, organizacją pogrzebów czy uroczystościami nadania imienia. Starają się przeprowadzać rytuały według tradycji. 
 
-![Islandzka świątynia nordyckich bogów.jpg]({{site.baseurl}}/img/Islandzka świątynia nordyckich bogów.jpg)
+![Islandzka świątynia nordyckich bogów.jpg]({{site.baseurl}}/img/Islandzka świątynia nordyckich bogów.jpg)          
+
 
 ![Hilmar Orn Hilmarsson najwyższy kapłan.jpg]({{site.baseurl}}/img/Hilmar Orn Hilmarsson najwyższy kapłan.jpg)
 
@@ -22,16 +23,13 @@ W świątynie również odbywają się rytuały wzorowane na starych nordyckich 
 *Świątynia ma wysokość 12 metrów*       
 
 ![Ofiara z kurczaka.jpg]({{site.baseurl}}/img/Ofiara z kurczaka.jpg)      
-*Ofiara z dziewięciu kogutów dla Odyna*      
+*Ofiara z dziewięciu kogutów dla Odyna*  
 
-![Tron Odyna oraz jego dwa wilki.jpg]({{site.baseurl}}/img/Tron Odyna oraz jego dwa wilki.jpg)
+![Składanie ofiary z ptactwa.jpg]({{site.baseurl}}/img/Składanie ofiary z ptactwa.jpg)     
 
-![Obrzędy wykonywane przez kobiety.jpg]({{site.baseurl}}/img/Obrzędy wykonywane przez kobiety.jpg)
+![Tron Odyna oraz jego dwa wilki.jpg]({{site.baseurl}}/img/Tron Odyna oraz jego dwa wilki.jpg)      
 
-
-
-
-
+![Obrzędy wykonywane przez kobiety.jpg]({{site.baseurl}}/img/Obrzędy wykonywane przez kobiety.jpg)         
 
 
 Źródło:     
