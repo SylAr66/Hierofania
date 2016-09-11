@@ -15,6 +15,19 @@ Chrześcijaństwo stało się oficjalną religią Islandii około X wieku (choć
 
 ![Hilmar Orn Hilmarsson najwyższy kapłan.jpg]({{site.baseurl}}/img/Hilmar Orn Hilmarsson najwyższy kapłan.jpg)
 
+Natomiast w Danii pierwsza świątynia bogów nordyckich została otwarta w 2016 roku. Chrystianizacja terenów Dani przebiegała pomiędzy VIII a XII wiekiem. Za datę „pełnej” chrystianizacji uważa się rok 1188, kiedy to patronem kraju stał się święty Kanut (król i męczennik).        
+W świątynie również odbywają się rytuały wzorowane na starych nordyckich obrzędach. Również te dotyczące ofiar ze zwierząt.        
+
+![świątynia w Danii.jpg]({{site.baseurl}}/img/świątynia w Danii.jpg)
+
+![Ofiara z kurczaka.jpg]({{site.baseurl}}/img/Ofiara z kurczaka.jpg)
+
+![Tron Odyna oraz jego dwa wilki.jpg]({{site.baseurl}}/img/Tron Odyna oraz jego dwa wilki.jpg)
+
+![Obrzędy wykonywane przez kobiety.jpg]({{site.baseurl}}/img/Obrzędy wykonywane przez kobiety.jpg)
+
+
+
 
 
 
