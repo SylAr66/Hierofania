@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-published: false
+published: true
 title: Neopoganizm w Danii i na Islandii
 ---
 Neopoganizm ma się całkiem dobrze w Europie. Choć w wielu przypadkach jest to jedynie zabawa, to pojawiają się również prawdziwi wyznawcy. W dwóch krajach skandynawskich zbudowano świątynie poświęcone Odynowi oraz innym bogom skandynawskim. 
