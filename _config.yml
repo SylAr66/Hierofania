@@ -118,6 +118,10 @@ prose:
           label: "Permalink"
           value: ""
     _posts/blog:
+      - name: "hidden"
+        field:
+          element: "hidden"
+          value: "true"
       - name: "category"
         field:
           element: "hidden"
