@@ -2,7 +2,7 @@
 layout: post
 category: blog
 hidden: 'true'
-published: false
+published: true
 title: Kardynał Dziwisz o akcji "Przekażmy sobie znak pokoju"
 ---
 Kardynał Stanisław Dziwisz skrytykował akcję „Przekażmy sobie znak pokoju”, której plakaty oraz bilbordy można zobaczyć w wielu polskich miastach. Zdaniem kardynała akcja ma na celu promowanie legalizacji związków jednopłciowych oraz „służy zamazaniu pamięci o wielkim dobru Światowych Dni Młodzieży”.        
@@ -30,7 +30,4 @@ O akcji „Przekażmy sobie znak pokoju”:
 Źródło:        
 http://www.diecezja.pl/archidiecezja/aktualnosci/stanowisko-metropolity-krakowskiego-w-sprawie-kampanii-przekazmy-sobie-znak-pokoju-.html       
 http://www.kurierlubelski.pl/       
-http://www.wiara-tecza.pl/       
-
-
-
+http://www.wiara-tecza.pl/
