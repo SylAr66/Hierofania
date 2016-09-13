@@ -1,7 +1,7 @@
 ---
 layout: post
 category: article
-published: false
+published: true
 title: Obrzędy pogrzebowe w Indonezji
 ---
 
@@ -44,8 +44,8 @@ Warto zwrócić uwagę na to, jak traktowane są kości zmarłych po zakończeni
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xfOgqFlOyZw" frameborder="0" allowfullscreen></iframe>
 
 Źródło:      
-Kurowski Edward, _Taniec z duchami przodków_, Wrocław 1973.
-Film dokumetalny: _Ghosts of Sulawesi_
+Kurowski Edward, _Taniec z duchami przodków_, Wrocław 1973.       
+Film dokumetalny: _Ghosts of Sulawesi_      
 Materiały z wykładów na Uniwersytecie Jagiellońskim, prowadzone przez 
-prof. dr hab. Halinę Grzymałe-Moszczyńską w ramach kursu "Psychospołeczne wymiary religijności"
+prof. dr hab. Halinę Grzymałe-Moszczyńską w ramach kursu "Psychospołeczne wymiary religijności"          
 
