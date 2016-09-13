@@ -1,0 +1,17 @@
+---
+layout: post
+category: article
+published: false
+title: Obrzędy pogrzebowe w Indonezji
+---
+
+Region Tana Toradża znajduje się na indonezyjskiej wyspie Celebes (Sulwesi). Miejsce to słynie przede wszystkim z niezwykłych i bardzo kosztownych obrzędów pogrzebowych, w których mogą uczestniczyć również turyści. Oficjalną religią wyznawaną przez mieszkańców regionu jest chrześcijaństwo (wyznawanie chrześcijaństwa jest uważane za oznakę wysokiego statusu), ale to nie przeszkadza im praktykować starych obrzędów oraz oddawać cześć miejscowym bogom. Poza zaleceniami doktrynalnymi chrześcijaństwa mieszkańcy przestrzegają również 7777 reguł podanych przez _Aluk to dolo_ ("Droga przodków").        
+Społeczeństwo regionu Tana Toradża zachowało trzy-kastowy podział. Najniższą kastę stanowi biedota – _kaunan_ („niewolnicy”), klasę średnią – _makaka_ („ludzie wolni”), a najwyższą krewni rodziny królewskiej – _kesu_. Na co dzień podziały nie są widoczne, ujawniają się dopiero podczas obrzędów pogrzebowych.
+**Najkosztowniejszym elementem są zwierzęta ofiarne – bawoły. Kosz jednego takiego zwierzęcia waha się miedzy 25-300 mln rupii (10-120 tyś zł).** Białe bawoły są najdroższe i jednocześnie najbardziej pożądane. Biedota nie może sobie pozwolić na taki wydatek, klasa średnia składa w ofierze trzy/cztery, natomiast ofiary pogrzebowe przedstawicieli klasy najwyższej zaczynają się od dwunastu zwierząt.           
+Już za czasów kolonialnych władze nałożyły na mieszkańców dodatkowy podatek od każdej zabitej sztuki, aby zmusić ludzi do ograniczenia obciążającego ekonomicznie rytuały, jednak to nie przyniosło skutków.  Zamiast tego ludzie popadają w coraz większe długi.               
+**W związku z problemami ekonomicznymi, naturalnym staje się długi okres oczekiwania na właściwy pochówek zmarłego.** Może on czekać na ostateczny spoczynek nawet kilka lat. W tym czasie osoba nie jest traktowana jako zmarła.         
+**Dawniejsze zwyczaje przewidywały dwa pochówki.** Pierwszy polegał na zakopaniu zmarłego na skraju wsi w płytkim grobie, aż do czasu właściwego pogrzebu, który powinien się odbywać w czasie pory suchej. **Zamożni mieszkańcy pozostawiali swoich zmarłych w domach z rozprutym brzuchem, by wnętrzności ściekły do ziemi.** W przeddzień właściwego pogrzebu oczyszczano kości. **Według wierzeń Toradżan dusza znajdowała się w kościach, dlatego się nie psuły.**  Właściwy pogrzeb uwalniał ją. Obecnie podczas oczekiwania na pochówek zmarły jest myty i balsamowany za pomocą formaliny.         
+Wielkie obciążenie finansowe nie towarzyszy jedynie bliskiej rodzinie zmarłego, ale również gościom, którzy mają się pojawić na uroczystości. **Zwyczajowym podarunkiem jest świnia, która kosztuje około 3 mln rupii (około 1200 zł). Turyści, którzy wyrazili chęć uczestniczenia w rytuale zwyczajowo ofiarują karton papierosów.**                
+Tradycyjna pieśń _badong_, lament kobiet oraz transowe tańce poprzedzają dzień pogrzebu i mają pomóc zmarłemu odbyć pośmiertną podróż do _Puja_ (miejsce spoczynku dusz). Zabalsamowane ciało zmarłego trafia do specjalnego pomieszczenia – _along_, które wygląda jak miniaturowa wersja miejscowych domów. Tradycyjne domy Toradżan kształtem przypominają stojące na palach łodzie i są zwrócone frontem ku północy, by wskazać kierunek, z którego przypłynęli przodkowie. Obok _along_ składa się dary pogrzebowe.         
+
+
