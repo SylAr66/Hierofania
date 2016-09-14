@@ -5,7 +5,8 @@ hidden: 'true'
 published: true
 title: Grób Jezusa Chrystusa w Japonii?
 ---
-**Shingō** to niewielka wioska leżąca w regionie Tohoku w Japonii. Mieszka w niej zaledwie 2 800 osób. Mieszkańcy utrzymują się z rolnictwa oraz z turystyki. A co przyciąga podróżników do tej małej wioski? Grób Jezusa Chrystusa.       
+**Shingō** to niewielka wioska leżąca w regionie Tohoku w Japonii. Mieszka w niej zaledwie 2 800 osób. Mieszkańcy utrzymują się z rolnictwa oraz z turystyki. A co przyciąga podróżników do tej małej wioski? Grób Jezusa Chrystusa.    
+<!--more-->
 Na terenie wioski znajduje się dwa groby. Dwa kopce są oznaczone dużymi, drewnianymi krzyżami. **Jeden z grobów zawiera ucho brata Chrystusa, Isukiri oraz kosmyk włosów Maryi. W drugim zaś spoczywać mają kości samego Chrystusa.**         
 
 ![Rising-Son-Japan-Jesus-520.jpg__600x0_q85_upscale.jpg]({{site.baseurl}}/img/Rising-Son-Japan-Jesus-520.jpg__600x0_q85_upscale.jpg)
