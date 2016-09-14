@@ -2,7 +2,7 @@
 layout: post
 category: blog
 hidden: 'true'
-published: false
+published: true
 title: Grób Jezusa Chrystusa w Japonii?
 ---
 **Shingō** to niewielka wioska leżąca w regionie Tohoku w Japonii. Mieszka w niej zaledwie 2 800 osób. Mieszkańcy utrzymują się z rolnictwa oraz z turystyki. A co przyciąga podróżników do tej małej wioski? Grób Jezusa Chrystusa.       
@@ -29,10 +29,4 @@ Oczywiście, „Dokumenty Takenouchi” są oszustwem, jak stwierdzili już dawn
 Źródło:       
 http://www.takenouchi-documents.com/ja/author.html       
 http://www.japantimes.co.jp/life/2011/12/25/travel/behold-christs-grave-in-shingo-aomori-prefecture/#.V9kQQU2LSUm      
-http://www.ancient-origins.net/human-origins-folklore/takenouchi-manuscripts-and-story-humanity-never-told-001860       
-
-
-
-
-
-
+http://www.ancient-origins.net/human-origins-folklore/takenouchi-manuscripts-and-story-humanity-never-told-001860
