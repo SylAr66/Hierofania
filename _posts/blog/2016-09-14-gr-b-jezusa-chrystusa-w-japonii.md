@@ -19,10 +19,17 @@ W muzealnej broszurze znajduje się informacja, że **Jezus przebywał w Japonii
 Zaś w samych „Dokumentach Takenouchi” zawarta jest również historia ludzkości. Pierwotnie dokument miał być spisany w dziwnych, boskim języku, ale został przetłumaczony przez Takenouchino Matori.         
 „Starożytny świat” rozwijał się w czterech okresach: Siedem pokoleń „bogów niebiańskich” (Tenjin), era Joko z 25 pokoleniami, dynastia Fukiage zawierajaca 73 pokolenia, dynastia Kanyamato związana z 123 pokoleniami, która rozpoczęła się w 660 przed Chrystusem i trwa do teraz.          
 **Wszystko zaczęło się w 1935 roku, od Kiyomaro Takenouchi, który przybył do miasteczka, znalazł dwa groby i ogłosił, że jest to grób Jezusa oraz jego brata.**Założył religię, która oparta była na  „Dokumetach Takenouchi” oraz zawierała elementy szintoizmu.          
-Nad dokumentami pracował „kosmoarcheolog” (tak sam się określił) **Wado Kosaka**. Znany głównie z tego, że w programie telewizyjnym miał się skontaktować z kosmitami (w programie z lat 70).        
+Nad dokumentami pracował „kosmoarcheolog” (tak sam się określił) **Wado Kosaka**. Znany głównie z tego, że w programie telewizyjnym miał się skontaktować z kosmitami (w programie z lat 70).       
+Oczywiście, „Dokumenty Takenouchi” są oszustwem, jak stwierdzili już dawno naukowcy z Uniwersytetu w Kyoto. Jednak to nie przeszkadza kwitnąc tradycji ludowej.        
 
 ![drogowskaz do grobu Chrystusa.jpg]({{site.baseurl}}/img/drogowskaz do grobu Chrystusa.jpg)     
-*Jeden z drogowskazów do grobu*
+*Jeden z drogowskazów do grobu*        
+
+
+Źródło:       
+http://www.takenouchi-documents.com/ja/author.html       
+http://www.japantimes.co.jp/life/2011/12/25/travel/behold-christs-grave-in-shingo-aomori-prefecture/#.V9kQQU2LSUm      
+http://www.ancient-origins.net/human-origins-folklore/takenouchi-manuscripts-and-story-humanity-never-told-001860       
 
 
 
