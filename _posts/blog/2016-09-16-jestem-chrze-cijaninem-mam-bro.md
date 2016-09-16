@@ -2,7 +2,7 @@
 layout: post
 category: blog
 hidden: 'true'
-published: false
+published: true
 title: 'Jestem chrześcijaninem, mam broń'
 ---
 Niedawno w sieci pojawiło się kilkanaście zdjęć ludzi pozujących z bronią i kartką z napisem „jestem chrześcijaninem”/”I am a christian”, którzy oznaczają swoje zdjęcia #jestemchrzescijaninem. Jest to akcja, która została zapoczątkowana przez Kościół Nowego Przymierza z Lublina i rozpropagowana w mediach społecznościowych.       
@@ -25,6 +25,4 @@ Sądzę, że nie będzie zaskoczeniem, że inicjator akcji jest również zwolen
 *facebook.com/IamAChristianPL/*      
 
 Źródło:      
-http://knp.lublin.pl/pl/oswiadczenia/1185-akcja-jestemchrzescijaninem-wlacz-sie.html     
-
-
+http://knp.lublin.pl/pl/oswiadczenia/1185-akcja-jestemchrzescijaninem-wlacz-sie.html
