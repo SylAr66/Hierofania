@@ -28,6 +28,6 @@ Oczywiście, „Dokumenty Takenouchi” są oszustwem, jak stwierdzili już dawn
 
 
 Źródło:       
-http://www.takenouchi-documents.com/ja/author.html       
-http://www.japantimes.co.jp/life/2011/12/25/travel/behold-christs-grave-in-shingo-aomori-prefecture/#.V9kQQU2LSUm      
-http://www.ancient-origins.net/human-origins-folklore/takenouchi-manuscripts-and-story-humanity-never-told-001860
+http://www.takenouchi-documents.com/ja/author.html (dostęp 14.09.2016)              
+http://www.japantimes.co.jp/life/2011/12/25/travel/behold-christs-grave-in-shingo-aomori-prefecture/#.V9kQQU2LSUm (dostęp 14.09.2016)             
+http://www.ancient-origins.net/human-origins-folklore/takenouchi-manuscripts-and-story-humanity-never-told-001860 (dostęp 14.09.2016)        
