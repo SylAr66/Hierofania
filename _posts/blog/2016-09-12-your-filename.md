@@ -28,6 +28,6 @@ O akcji „Przekażmy sobie znak pokoju”:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gah3f0n7ZQg" frameborder="0" allowfullscreen></iframe>
 
 Źródło:        
-http://www.diecezja.pl/archidiecezja/aktualnosci/stanowisko-metropolity-krakowskiego-w-sprawie-kampanii-przekazmy-sobie-znak-pokoju-.html       
-http://www.kurierlubelski.pl/       
-http://www.wiara-tecza.pl/
+http://www.diecezja.pl/archidiecezja/aktualnosci/stanowisko-metropolity-krakowskiego-w-sprawie-kampanii-przekazmy-sobie-znak-pokoju-.html (dostęp 12.09.2016)          
+http://www.kurierlubelski.pl/  (dostęp 12.09.2016)             
+http://www.wiara-tecza.pl/ (dostęp 12.09.2016)       
