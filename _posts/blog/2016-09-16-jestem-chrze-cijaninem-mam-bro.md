@@ -29,4 +29,4 @@ Sądzę, że nie będzie zaskoczeniem, że inicjator akcji jest również zwolen
 *facebook.com/IamAChristianPL/*      
 
 Źródło:      
-http://knp.lublin.pl/pl/oswiadczenia/1185-akcja-jestemchrzescijaninem-wlacz-sie.html
+http://knp.lublin.pl/pl/oswiadczenia/1185-akcja-jestemchrzescijaninem-wlacz-sie.html (dostęp 16.09.2016)
