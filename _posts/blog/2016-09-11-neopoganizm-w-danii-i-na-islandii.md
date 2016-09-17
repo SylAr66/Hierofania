@@ -1,7 +1,7 @@
 ---
-hidden: true
 layout: post
 category: blog
+hidden: true
 published: true
 title: Neopoganizm w Danii i na Islandii
 ---
@@ -34,10 +34,6 @@ W świątynie również odbywają się rytuały wzorowane na starych nordyckich 
 
 
 Źródło:     
-http://www.history.com/news/first-viking-temple-in-1000-years-coming-to-iceland      
+http://www.history.com/news/first-viking-temple-in-1000-years-coming-to-iceland (dostęp 11.09.2016)           
 http://timewheel.net/Tome-Iceland-Is-Building-The-First-Temple-To-Norse-Gods-Since-Viking/ 
-http://spangenhelm.com/valheim-hof-denmark-dedicated-odin-gods/     
-
-
-
-
+http://spangenhelm.com/valheim-hof-denmark-dedicated-odin-gods/ (dostęp 11.09.2016)        
