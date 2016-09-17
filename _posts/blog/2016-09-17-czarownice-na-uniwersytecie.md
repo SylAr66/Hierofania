@@ -2,7 +2,7 @@
 layout: post
 category: blog
 hidden: 'true'
-published: false
+published: true
 title: 'Czarownice na uniwersytecie? '
 ---
 **W 2018 na wszystkich uniwersytetach w Republice Południowej Afryki ma zostać powołany do życia kurs z czarownictwa. Po zdaniu wszystkich egzaminach student otrzyma stosowny dyplom w stopniu „Bachelor of Science”.**              
@@ -23,6 +23,4 @@ Wciąż nie jestem pewna czy to prawda czy może kaczka dziennikarska, jednak wi
 
 Źródło:      
 http://www.nigerianeye.com/2016/09/universities-to-offer-bsc-in-witchcraft.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Nigerianeye+%28NigerianEye%29 (dostęp 17.09.2016)      
-http://livemonitor.co.za/south-african-universities-to-offer-bsc-witchcraft/ (dostęp 17.09.2017)      
-
-
+http://livemonitor.co.za/south-african-universities-to-offer-bsc-witchcraft/ (dostęp 17.09.2017)
