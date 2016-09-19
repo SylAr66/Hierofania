@@ -1,7 +1,7 @@
 ---
 layout: post
 category: article
-published: false
+published: true
 title: 'Radykalny współczesny Islam, a koncepcja męczeństwa'
 ---
 Męczeństwo nigdy nie stanowiło istotnego elementu religii muzułmańskiej. Większość męczenników była za takich uważana tylko przez jeden odłam/sektę islamu, natomiast przez inne mogli być demonizowani.       
@@ -84,7 +84,4 @@ Osama bin Laden wielokrotnie pojawiał na łamach wielu amerykańskich gazet ora
 *Artykuł z 1993 roku, "The Independent"*      
 
 Źródło:      
-David Cook, _Męczeństwo w islamie_, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2009.    
-
-
-
+David Cook, _Męczeństwo w islamie_, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2009.
