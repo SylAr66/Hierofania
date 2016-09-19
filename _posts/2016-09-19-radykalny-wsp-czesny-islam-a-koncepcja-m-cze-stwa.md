@@ -67,8 +67,24 @@ W Egipcie jeden z członków radykalnego ugrupowania zamordował prezydenta Anwa
 Farag stawia duży nacisk na męczeństwo, jednak podkreślał, że nikt nie może powiedzieć że dana osoba jest męczennikiem. Tylko Bóg może zadecydować kto jest, a kto nie, ponieważ tylko Bóg zna prawdziwe motywy, którymi kierował się człowiek. Męczennik musi umrzeć za właściwą sprawę.     
 
 ## Przeciw okupantom
+Z wyjątkiem Iranu, dżihad antyrządowy nie przyniósł oczekiwanych skutków. Jednak zamiast wygasnąć, rozpalił się na nowo i skierował przeciw okupacji ziem definiowanych, jako muzułmańskie. Najważniejszym był dżihad skierowany przeciw Izraelowi. **Należy pamiętać, że aż do końca lat 80 XX w. walka z Izraelem nie miała nic wspólnego z dżihadem.** Od 1975 r. aż do 1993 (Porozumienie z Oslo) Organizacja Wyzwolenia Palestyny (OWP) prowadziła działania militarne przeciw Izraelowi, ale nie miały one charakteru religijnego (głosili walkę z kolonializmem, antyimperializm). **Jej działacze nazywali się _szahidami_, jednak słowo nie miało wydźwięku religijnego, ponieważ odnosiło się również do działaczy-chrześcijan** (których było całkiem sporo w szeregach organizacji).     
+Jednak pod koniec lat 80 XX w. dużą popularność zaczęło cieszyć się radykalne, ideologiczne ugrupowanie palestyńskie –**Hamas** (1988 r.). W przeciwieństwie do OWP działacze Hamasu próbowali usankcjonować swoją organizacje używając do tego przesłanek religijnych i męczeńskich. Stworzyli swoją martyrologie, w którym jednym z ważnych elementów było powstanie Izz ad-Dina al-Kassama (mało znaczący bunt przeciw Brytyjczykom z 1936 r.).        
+Statuty Hamasu ujmowały wszystkich Palestyńczyków, jako bojowników i męczenników. Korzystali z wersetów Koranu i hadisów. Na ulotkach propagandowych wzmiankowali o męczennikach, np. ulotka nr 2 (styczeń 1988 r.):   
+> Każdego dnia ziemia wchłania krew sprawiedliwych, klęka przed grobami i oddaje pokłon męczennikom, którzy otrzymali łaskę. Taka jest właśnie cena dumy i honoru, wyzwolenia i ocalenia. Jest to wiano istot o cudownych oczach [Hurys], namiastka raju. „Zaprawdę Bóg kupił u wiernych ich dusze i ich majątki, w zamian za co otrzymają Ogród...” (więcej: Mishal i Aharoni, _Speaking Stones_).      
 
+Po 1994 r. Hamas wciągnął w swą ideologię **„operacje męczeńskie” czyli ataki samobójcze** (temu zagadnieniu poświęcę osobny artykuł), które stały się jednym z ich głównych narzędzi. W latach 2000-2004 (druga intifada) inne, dotychczas świeckie organizacje palestyńskie szły w ślady Hamasu.      
 
+Nie tylko walka z Izraelem przyczyniła się do rozwoju radykalnych ugrupowań. Przyczyniła się do tego też okupacja Rosyjska w Afganistanie (1979-1988), a potem walka z komunistycznym rządem państwa (1988-1992).      
+**W 1979 r. Związek Radziecki uderzył na Afganistan, by utrzymać upadający reżim komunistyczny, a to wywołało falę ataków radykałów, którzy pragnęli zniszczyć komunizm (Mudżahedini).** Do Afganistanu przybyli bojownicy z całego świata (wspierani byli przez Pakistan, Stany Zjednoczone, Arabię Saudyjską). Większość pieniędzy, która trafiała do Afganistanu przejmowali ekstremiści, którzy założyli szkołę dżihadu.    
+Ważną postacią jest Abdallah Azzam, który zachęcał muzułmanów z całego świata, by przyjeżdżali i walczyli z komunistami. Odegrał on duża rolę przy tworzeniu założeń radykalnego islamskiego dżihadu. Gdy został zabity w 1989 r. jego organizacje – **Al-Kaidę** – przejął **Osama bin Laden**.      
+
+Osama bin Laden wielokrotnie pojawiał na łamach wielu amerykańskich gazet oraz w telewizji. Najsłynniejszy jest artykuł z 1993 roku, który pojawił się w „The Independent”. Przedstawiany był wtedy, jak wojownik walczący z rosyjskim komunizmem.       
+
+![Osama bin Laden „The Independent”.jpg]({{site.baseurl}}/img/Osama bin Laden „The Independent”.jpg)       
+*Artykuł z 1993 roku, "The Independent"*      
+
+Źródło:      
+David Cook, _Męczeństwo w islamie_, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2009.    
 
 
 
