@@ -48,7 +48,17 @@ i dla nich przeznaczona męka palenia.
 
 W opisie Kutba „Ludzie Rowu” utożsamiali lud oddany Bogu, pośród bezbożnego, globalnego systemu.     
 W historii wszyscy Ludzie Rowu giną – ale dla Kutba jest to zwycięstwo godności i odrzucenie grzechu. Zwycięstwo ziemskie nie jest potrzebne, ponieważ sama ofiara jest zwycięstwem nad światem:     
-> „Wszyscy ludzie muszą umrzeć, lecz okoliczności ich śmierci są odmienne i zróżnicowane. Nie wszystkim istotom ludzkim dane jest takie powodzenie i nie wszystkie mogą reprezentować tak wysoki standard wiary (…) to Bóg udziela łaski, wybierając spośród Swych sług pewną dostojną grupę, która, choć dzieli śmierć z innymi, wyróżnia się i jest odrębna (…). Ich śmiertelne ciała były palone w ogniu, lecz to nie ogień, a ta nieskazitelna i wyniosła zasada zadecydowała o ich powodzeniu, jeszcze bardziej ich oczyszczając i przemieniając w czyste złoto”.
+> „Wszyscy ludzie muszą umrzeć, lecz okoliczności ich śmierci są odmienne i zróżnicowane. Nie wszystkim istotom ludzkim dane jest takie powodzenie i nie wszystkie mogą reprezentować tak wysoki standard wiary (…) to Bóg udziela łaski, wybierając spośród Swych sług pewną dostojną grupę, która, choć dzieli śmierć z innymi, wyróżnia się i jest odrębna (…). Ich śmiertelne ciała były palone w ogniu, lecz to nie ogień, a ta nieskazitelna i wyniosła zasada zadecydowała o ich powodzeniu, jeszcze bardziej ich oczyszczając i przemieniając w czyste złoto”.      
+
+Mimo, że męczeństwo odegrała bardzo małą rolę w historii podbojów Mahometa, to w pismach Kutba zajmuje ono centralną pozycję. Starał się również, aby podczas procesu i egzekucji samemu stać się męczennikiem.     
+
+### Pakistan
+Abu al-Ali al-Mawdudi swoją pierwszą broszurę wydał jeszcze przed powstaniem państwa Pakistanu (powstało w 1947 r.). Około 1930 r. uważał, że dżihad jest po prostu głoszeniem islamu. Męczeństwo oznaczało prześladowanie misjonarzy. Jednak z drugiej strony uważał, że powinno powstać państwo muzułmańskie, a do tego należy użyć siły. Sam cytował fragment Koranu, w którym prorok Mahomet zostaje zrugany za to, że pozwolił niektórym muzułmanom nie brać udziału w walce (IX:43-45):    
+> „Allah usunie złe konsekwencje twego błędu. Dlaczego pozwoliłeś im pozostać w tyle, póki nie dowiedziałeś się i ty również poznałeś kłamców?
+Ci, którzy wierzą w Allaha i w Dzień Ostatni nie będą ciebie prosić o zwolnienie ze starań ich bogactwem i ich osobami. Allah dobrze zna tych, którzy wypełniają swe obowiązki wobec niego.
+Jedynie ci prosić cię będą o zwolnienie, którzy nie wierzą w Allaha i w Dzień Ostatni i których serca pełne są wątpliwości, a w swej wątpliwości wahają się”.      
+
+
 
 
 
