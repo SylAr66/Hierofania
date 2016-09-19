@@ -22,8 +22,8 @@ W tym okresie zaczęły również powstawać traktaty i książki dotyczące dzi
 *dokument opisujący rzekome plany osiągnięcia przez Żydów globalnej dominacji. Jak twierdzi większość historyków, Protokoły zostały napisane przez Matwieja Gołowinskiego.      
 
 ## Geneza dżihadu antyrządowego
-Nacjonalistyczni przywódcy arabscy i muzułmańscy, pomimo, że sprzeciwiali się kolonializmowi panującemu przed latami 50 XX w. byli w większości wykształceni na Zachodzie i mieli świeckie korzenie. Ideałem do jakiego dążyli było wprowadzenie ustroju socjalistycznego w świeckim państwie.       
-Starali się naśladować, a potem wyprzedzić Europę. Religia wchodząca do polityki była traktowana wrogo, a w Egipcie, Algierii, Tunezji, Iraku i Syrii reżimy były wrogo nastawiona względem religijnych muzułmanów. W Pakistanie, Indonezji, Iranie i w Afryce, przywódcy dążyli do wprowadzenia socjalizmu. Szariat (prawo religijne oparte na Koranie) jeśli już miał jakąkolwiek moc prawną, to był wykorzystywany tylko w związku ze stanem cywilnym (śluby, rozwody itp.).      
+Nacjonalistyczni przywódcy arabscy i muzułmańscy, pomimo, że sprzeciwiali się kolonializmowi panującemu przed latami 50 XX w. byli w większości wykształceni na Zachodzie i mieli świeckie korzenie. **Ideałem do jakiego dążyli było wprowadzenie ustroju socjalistycznego w świeckim państwie.**       
+Starali się naśladować, a potem wyprzedzić Europę. **Religia wchodząca do polityki była traktowana wrogo, a w Egipcie, Algierii, Tunezji, Iraku i Syrii reżimy były wrogo nastawiona względem religijnych muzułmanów. W Pakistanie, Indonezji, Iranie i w Afryce, przywódcy dążyli do wprowadzenia socjalizmu.** Szariat (prawo religijne oparte na Koranie) jeśli już miał jakąkolwiek moc prawną, to był wykorzystywany tylko w związku ze stanem cywilnym (śluby, rozwody itp.).      
 W tym kontekście narodzili się pierwsi przywódcy radykalnego islamu w Egipcie, Pakistanie i Iranie.      
 
 ### Egipt
@@ -53,10 +53,20 @@ W historii wszyscy Ludzie Rowu giną – ale dla Kutba jest to zwycięstwo godno
 Mimo, że męczeństwo odegrała bardzo małą rolę w historii podbojów Mahometa, to w pismach Kutba zajmuje ono centralną pozycję. Starał się również, aby podczas procesu i egzekucji samemu stać się męczennikiem.     
 
 ### Pakistan
-Abu al-Ali al-Mawdudi swoją pierwszą broszurę wydał jeszcze przed powstaniem państwa Pakistanu (powstało w 1947 r.). Około 1930 r. uważał, że dżihad jest po prostu głoszeniem islamu. Męczeństwo oznaczało prześladowanie misjonarzy. Jednak z drugiej strony uważał, że powinno powstać państwo muzułmańskie, a do tego należy użyć siły. Sam cytował fragment Koranu, w którym prorok Mahomet zostaje zrugany za to, że pozwolił niektórym muzułmanom nie brać udziału w walce (IX:43-45):    
+Abu al-Ali al-Mawdudi swoją pierwszą broszurę wydał jeszcze przed powstaniem państwa Pakistanu (powstało w 1947 r.). Około 1930 r. uważał, że **dżihad jest po prostu głoszeniem islamu**. Męczeństwo oznaczało prześladowanie misjonarzy. Jednak z drugiej strony uważał, że powinno powstać państwo muzułmańskie, a do tego należy użyć siły. Sam cytował fragment Koranu, w którym prorok Mahomet zostaje zrugany za to, że pozwolił niektórym muzułmanom nie brać udziału w walce (IX:43-45):    
 > „Allah usunie złe konsekwencje twego błędu. Dlaczego pozwoliłeś im pozostać w tyle, póki nie dowiedziałeś się i ty również poznałeś kłamców?
 Ci, którzy wierzą w Allaha i w Dzień Ostatni nie będą ciebie prosić o zwolnienie ze starań ich bogactwem i ich osobami. Allah dobrze zna tych, którzy wypełniają swe obowiązki wobec niego.
 Jedynie ci prosić cię będą o zwolnienie, którzy nie wierzą w Allaha i w Dzień Ostatni i których serca pełne są wątpliwości, a w swej wątpliwości wahają się”.      
+
+### Iran    
+Ajatollah Chomeini w przeciwieństwie do pozostałych, czerpał z szyizmu, w którym męczeństwo stanowiło ważny element. Wykorzystał postać al-Husajna czczonego przez wszystkich szyitów, pokazując go jako osobę dążącą i pragnącą męczeństwa, a nie jako tragicznie poległego (wedle tradycji został podstępnie zwabiony i zaatakowany. Podczas walki obronnej zginął wraz ze swoją rodziną).      
+Miał on powiedzieć: „czynność poszukiwania męczeństwa należy do najwyższych form męczeństwa i ofiary na drodze religii... nie ma różnicy [w tej kwestii] pomiędzy mężczyzną a kobietą”.     
+
+### Spadkobiercy     
+W Egipcie jeden z członków radykalnego ugrupowania zamordował prezydenta Anwara as-Sadata.  Inspiracją dla tego czynu był dokument Zaniedbany obowiązek napisanym przez Muhammada Abd as-Salama Faraga (skazanego później na karę śmierci). **Głosił on, że nie ma żadnego usprawiedliwienia dla muzułmanów odnoszących się niechętnie względem powstania państwa muzułmańskiego (państwa z prawem religijnym, czemu większość muzułmanów się sprzeciwiała).** Uważał, że pokojowe, stopniowe wpływanie na państwo i społeczeństwo nie przyniesie efektów. Należy przeprowadzić dżihad. **Uważał, że wszystkie państwa są niemuzułmańskie, a muzułmanie nie próbują dążyć do stworzenia państwa muzułmańskiego. Odrzucał pogląd, że dżihad stanowić walkę obroną.** Uważał, że ma przede wszystkim przyczynić się do pokazania chwały i wyższości islamu.      
+Farag stawia duży nacisk na męczeństwo, jednak podkreślał, że nikt nie może powiedzieć że dana osoba jest męczennikiem. Tylko Bóg może zadecydować kto jest, a kto nie, ponieważ tylko Bóg zna prawdziwe motywy, którymi kierował się człowiek. Męczennik musi umrzeć za właściwą sprawę.     
+
+## Przeciw okupantom
 
 
 
