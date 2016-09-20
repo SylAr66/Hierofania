@@ -2,7 +2,7 @@
 layout: post
 category: blog
 hidden: 'true'
-published: false
+published: true
 title: Porywanie żon w Kirgistanie
 ---
 „Porwanie małżeńskie” w Kirgistanie nosi nazwę „ala kachuu” i oznacza „pochwyć i uciekaj”. Jest to stara tradycja, która na nowo odrodziła się w latach 90. XX wieku. Około 40% kobiet należących do tej grupy etnicznej padło ofiarą takiego porwania. Co roku jest to około 12-15 tysięcy młodych kobiet.       
@@ -41,7 +41,4 @@ Fotografia autorstwa Norkio Hayashi.
 http://www.norikohayashi.com/index.php#mi=2&pt=1&pi=10000&s=0&p=2&a=0&at=0 (dostęp 20.09.2016)      
 http://www.rferl.org/content/bride-kidnapping-in-kyrgyzstan/25403604.html (dostęp 20.09.2016)    
 http://www.unwomen.org/en/news/stories/2016/8/stopping-bride-kidnapping-in-kyrgyzstan
-http://europe.newsweek.com/grab-and-run-1634?rm=eu (dostęp 20.09.2016)     
-
-
-
+http://europe.newsweek.com/grab-and-run-1634?rm=eu (dostęp 20.09.2016)
