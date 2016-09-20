@@ -2,7 +2,7 @@
 layout: post
 category: article
 published: true
-title: 'Radykalny współczesny Islam, a koncepcja męczeństwa'
+title: Radykalny współczesny Islam a koncepcja męczeństwa
 ---
 Męczeństwo nigdy nie stanowiło istotnego elementu religii muzułmańskiej. Większość męczenników była za takich uważana tylko przez jeden odłam/sektę islamu, natomiast przez inne mogli być demonizowani.       
 <!--more-->
