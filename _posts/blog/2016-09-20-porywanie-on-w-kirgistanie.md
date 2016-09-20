@@ -27,6 +27,8 @@ Od 1994 roku porwanie małżeńskie jest nielegalne. Najpierw karane było trzem
 ![kidnap3.jpg]({{site.baseurl}}/img/kidnap3.jpg)      
 *Dinara po nieudanej walce poddała się i zgodziła na małżeństwo. Jej rodzice nie zgodzili się na małżeństwo w takiej formie i zażądali formalnej drogi poprzez narzeczeństwo. Rodzina porywacza na to przystała. Dinara nie protestowała, uważając, że nie może sprzeciwić się tradycji*        
 
+Głównym źródłem tradycji jest narodowa epopeja „Manas”. Jednak nie pojawia się w niej motyw „porwania małżeńskiego” ani nic, co przypomina taki proceder.   
+Tradycja „porwania małżeńskiego” zaczęła się w XIX wieku, pomiędzy 1940-1950 zamarła (za względu na wpływy ZSRR) i było niczym więcej, niż romantyczną ucieczką dwojga zakochanych, którzy nie mogli się pobrać ze względu na sytuacje rodzinną. Obecnie niestety, tradycja nabrała innych rysów.           
 
 Oskarżeń o porwanie do sadów wpływa bardzo mało, a wyroki skazujące są jeszcze rzadsze, w porównaniu do skali problemu. W 2008 roku do sądu trafiło 35 spraw, z czego tylko w 15 wymierzono karę sprawcy. W 2010 było 19 wyroków skazujących, w 2012 roku tylko 25.      
 W 2012 roku odbyła się kampania przeciw porwaniom małżeńskim i od tego czasu wiele organizacji broniących praw kobiet próbuje przeciwdziałać tej tradycji. Jednak jest to bardzo trudne.   
