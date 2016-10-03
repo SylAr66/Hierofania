@@ -5,7 +5,7 @@ published: true
 title: 'Święty Augustyn o małżeństwie, prokreacji i seksie'
 ---
 > „Bez jakiejkolwiek przyjemności cielesnej został spłodzony i poczęty Chrystus i dlatego pozostał wolny także od wszelkiego splamienia przez grzech pierworodny”       
-(Święty Augustyn, _Enchiridion ad Laurentium de fide et spe et caritate__)       
+(Święty Augustyn, _Enchiridion ad Laurentium de fide et spe et caritate_)       
 <!--more-->
 
 ## Akt seksualny w raju       
