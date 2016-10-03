@@ -2,7 +2,7 @@
 layout: post
 category: blog
 hidden: 'true'
-published: false
+published: true
 title: Handel relikwiami dziś
 ---
 Handel relikwiami to bardzo dochodowy biznes. Zarówno był taki w średniowieczu, jak i dzisiaj. Portale aukcyjne pękają w szwach od ilości ofert przeróżnych dewocjonaliów.       
@@ -22,4 +22,4 @@ Najpopularniejszą są oczywiście relikwie trzeciego stopnia, czyli przedmioty,
 Kopalnią relikwii wydaje się być ebay. Można tam znaleźć najróżniejsze relikwie, nawet te pierwszego stopnia (choć handel częściami ludzkiego ciała jest zakazany). Co ciekawie organizatorzy aukcji pokazują na zdjęciach dokumenty mające potwierdzić autentyczność relikwii (podpisane przez biskupów). 
 
 ![obrazem, klasa druga, matka teresa z kalkuty. 480 dolarów.jpg]({{site.baseurl}}/img/obrazem, klasa druga, matka teresa z kalkuty. 480 dolarów.jpg)     
-*Relikwia klasy drugiej – obrazek trzymany przez Matkę Teresę z Kalkuty. 480 dolarów    
+*Relikwia klasy drugiej – obrazek trzymany przez Matkę Teresę z Kalkuty. 480 dolarów
