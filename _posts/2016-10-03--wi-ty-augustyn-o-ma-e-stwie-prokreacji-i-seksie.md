@@ -77,6 +77,15 @@ Oczywiście chodziło jedynie o mężczyzn, którzy posiadają wiele żon. Kobie
 
 Dla wyjaśnienia. **W kontrakcie małżeńskim zawieranym w świetle prawa rzymskiego nie istniał zapis określający kobietę, jako podwładną mężczyzny. Taki zapis znajdował się w dokumentach kontraktu małżeńskiego, który uzyskiwało się u biskupa chrześcijańskiego.** Augustyn w swojej retoryce wskazuje tylko na ten dokument.      
 
+Na sam koniec warto powrócić do stwierdzenia Augustyna, że Paweł w Pierwszym Liście do Koryntian „wybaczył” im niewstrzemięźliwości. Chodzi o zdanie: „To, co mówię, pochodzi z wyrozumiałości, a nie z nakazu” (1 Kor 7,6), które Augustyn przeinaczył stwierdzając, że apostoł również uważał małżeństwo za coś gorszego, co trzeba wybaczyć słabym, którzy nie mogą pozostać w stanie dziewiczym. Zignorował przy tym fragment wcześniejszy, mówiący o tym: Mąż niech oddaje powinność żonie, podobnie też żona mężowi. Żona nie rozporządza własnym ciałem, lecz jej mąż; podobnie też i mąż nie rozporządza własnym ciałem, ale żona. Nie unikajcie jedno drugiego, chyba że na pewien czas, za obopólną zgodą, by oddać się modlitwie; potem znów wróćcie do siebie, aby - wskutek niewstrzemięźliwości waszej - nie kusił was szatan” (1 Kor 7,3-5).
+Dla dociekliwych: Pierwsze zdanie listu: „Co do spraw, o których pisaliście, to dobrze jest człowiekowi nie łączyć się z kobietą”, nie jest stanowiskiem Pawła, ale powtórzeniem pytania, na które udziela odpowiedzi Koryntianom. Pamiętajmy, to były czasy, w których wierzono, że koniec świata i Królestwo Niebieskie jest już blisko. Problemy Imperium Rzymskiego (gospodarcze, społeczne, kryzys kulturowy) wpływały na takie postrzeganie świata. W Listach Paweł wielokrotnie odpowiada na pytania dotyczące tego, czy był sens robić cokolwiek, skoro już za chwilę nastąpi koniec.   
+
+## Święty Augustyn, manichejczycy i metoda kalendarzykowa
+
+
+
+
+
 
 
 
