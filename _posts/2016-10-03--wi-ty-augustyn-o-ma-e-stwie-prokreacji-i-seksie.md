@@ -80,7 +80,24 @@ Dla wyjaśnienia. **W kontrakcie małżeńskim zawieranym w świetle prawa rzyms
 Na sam koniec warto powrócić do stwierdzenia Augustyna, że Paweł w Pierwszym Liście do Koryntian „wybaczył” im niewstrzemięźliwości. Chodzi o zdanie: „To, co mówię, pochodzi z wyrozumiałości, a nie z nakazu” (1 Kor 7,6), które Augustyn przeinaczył stwierdzając, że apostoł również uważał małżeństwo za coś gorszego, co trzeba wybaczyć słabym, którzy nie mogą pozostać w stanie dziewiczym. Zignorował przy tym fragment wcześniejszy, mówiący o tym: Mąż niech oddaje powinność żonie, podobnie też żona mężowi. Żona nie rozporządza własnym ciałem, lecz jej mąż; podobnie też i mąż nie rozporządza własnym ciałem, ale żona. Nie unikajcie jedno drugiego, chyba że na pewien czas, za obopólną zgodą, by oddać się modlitwie; potem znów wróćcie do siebie, aby - wskutek niewstrzemięźliwości waszej - nie kusił was szatan” (1 Kor 7,3-5).
 Dla dociekliwych: Pierwsze zdanie listu: „Co do spraw, o których pisaliście, to dobrze jest człowiekowi nie łączyć się z kobietą”, nie jest stanowiskiem Pawła, ale powtórzeniem pytania, na które udziela odpowiedzi Koryntianom. Pamiętajmy, to były czasy, w których wierzono, że koniec świata i Królestwo Niebieskie jest już blisko. Problemy Imperium Rzymskiego (gospodarcze, społeczne, kryzys kulturowy) wpływały na takie postrzeganie świata. W Listach Paweł wielokrotnie odpowiada na pytania dotyczące tego, czy był sens robić cokolwiek, skoro już za chwilę nastąpi koniec.   
 
-## Święty Augustyn, manichejczycy i metoda kalendarzykowa
+## Święty Augustyn, manichejczycy i metoda kalendarzykowa     
+W 1980 roku na synodzie ustalona została jedyna, w pełni akceptowalna przez Kościół, metoda planowania rodziny i zapobiegania ciąży, czyli tzw. NPR, „naturalne planowanie rodziny”. Metoda polegająca na obserwacji zmian w ciele kobiety.      
+Dla świętego Augustyna ta metoda byłaby nie do przyjęcia. Dlaczego? Ponieważ jest to metoda heretycka, która pochodzi od sekty manichejczyków. Sam Augustyn był manichejczykiem, potem dołączył do wspólnoty chrześcijańskiej i ostro potępiał sposób traktowania aktu seksualnego przez manichejczyków. W myśl jego teologii aktywność seksualna jest dopuszczalna tylko i wyłącznie jeśli w jej zamyśle jest posiadanie potomstwa.   
+Tak Augustyn pisał o metodzie manichejskiej: 
+> Czyż dawniej nie napominaliście nas, byśmy bacznie, jak to tylko możliwe uważać na czas po miesięcznym, gdy należy oczekiwać, że kobieta pocznie, i w tym okresie powstrzymywać się od obcowania aby dusza nie została zamknięta w ciele. Wynika stąd, że wedle waszego przekonania małżeństwo nie jest po to, by płodzić dzieci, lecz by zaspokajać żądzę (_Moralność manichejczyków_).      
+
+> Zaś w piśmie _Przeciw Faustusowi_ napisał:      
+**Najbardziej ze wszystkie w małżeństwie czujecie odrazę do tego, by rodziły się dzieci i w ten sposób czynicie swych słuchających cudzołożnikami ich żon**, gdy uważają oni, by żony, z którymi obcują, nie poczęły. Nie chcą oni dzieci, choć przecież tylko ze względu na nie zawierane są małżeństwa. **Dlaczego nie jesteście z tymi, którzy w ogóle zabraniają małżeństwa, skoro próbujecie odebrać małżeństwu to, co je w ogóle małżeństwem czyni? Jeśli bowiem to zostanie odebrane, wtedy małżonkowie są haniebnymi kochankami, małżonki nierządnicami, łoża małżeńskie burdelami, a teściowie suterenami.**       
+
+ADHORTACJA APOSTOLSKA O ZADANIACH RODZINY CHRZEŚCIJAŃSKIEJ W ŚWIECIE WSPÓŁCZESNYM FAMILIARIS CONSORTIO
+
+> (...)**Jeżeli natomiast małżonkowie, stosując się do okresów niepłodności, szanują nierozerwalny związek znaczenia jednoczącego i rozrodczego płciowości ludzkiej, postępują jako „słudzy” zamysłu Bożego i „korzystają” z płciowości zgodnie z pierwotnym dynamizmem obdarowania „całkowitego”, bez manipulacji i zniekształceń.**
+W świetle samego doświadczenia tylu par małżeńskich, a także danych, których dostarczają różne gałęzie ludzkiej wiedzy, refleksja teologiczna winna uchwycić, a następnie, zgodnie ze swoim powołaniem, uwydatnić różnicę antropologiczną a zarazem moralną, jaka istnieje pomiędzy środkami antykoncepcyjnymi, a odwołaniem się do rytmów okresowych: chodzi tu o różnicę znacznie większą i głębszą niż się zazwyczaj uważa, która w ostatecznej analizie dotyczy dwóch, nie dających się z sobą pogodzić, koncepcji osoby i płciowości ludzkiej. Wybór rytmu naturalnego bowiem, pociąga za sobą akceptację cyklu osoby, to jest kobiety, a co za tym idzie, akceptację dialogu, wzajemnego poszanowania, wspólnej odpowiedzialności, panowania nad sobą. Przyjęcie cyklu i dialogu oznacza następnie uznanie charakteru duchowego i cielesnego zarazem komunii małżeńskiej, jak również przeżywanie miłości osobowej w wierności, jakiej ona wymaga.    
+
+Źródło:      
+Uta Ranke-Heinemann, _Eunuchy do Raju_, Gdynia 1995.     
+Tekst: _familiaris consortio_      
+
 
 
 
