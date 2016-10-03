@@ -1,7 +1,7 @@
 ---
 layout: post
 category: article
-published: false
+published: true
 title: 'Święty Augustyn o małżeństwie, prokreacji i seksie'
 ---
 > „Bez jakiejkolwiek przyjemności cielesnej został spłodzony i poczęty Chrystus i dlatego pozostał wolny także od wszelkiego splamienia przez grzech pierworodny”       
@@ -96,14 +96,4 @@ W świetle samego doświadczenia tylu par małżeńskich, a także danych, któr
 
 Źródło:      
 Uta Ranke-Heinemann, _Eunuchy do Raju_, Gdynia 1995.     
-Tekst: _familiaris consortio_      
-
-
-
-
-
-
-
-
-
-
+Tekst: _familiaris consortio_
