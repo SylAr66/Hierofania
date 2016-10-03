@@ -68,8 +68,15 @@ Małżonek ma obowiązek spełnić powinność małżeńską, ponieważ małże�
 
 Co ciekawe, **Augustyn nie widział w poligynii niczego złego,** choć nie uważał jej za rozwiązanie odpowiednia dla jego czasów. Akceptował je, jako ważny element czasów biblijnych.      
 Tak o tym pisał:       
-**Pochwalam raczej wykorzystanie płodności wielu kobiet dla niesamolubnego celu, niż ciała jednej za względu na nią tylko.** Gdyż w pierwszym z tych wypadków zmierza się do korzyści zgodnej z potrzebą tamtych starotestamentowych czasów, w drugim chodzi jedynie o zaspokojenie lubieżności skierowanej na ziemskie przyjemności. Dlatego ci, którym apostoł w 1 Kor 7,6, z powodu ich niewstrzemięźliwości, wybaczająco zezwala na obcowanie cielesne z jedną żoną, znajdują się na niższym stopniu drogi do Boga, niż owi, którzy mimo swych wielu żon dokonują aktu małżeńskiego jedynie w zamiarze spłodzenia potomstwa. 
-(Augustyn, O nauce chrześcijańskiej)
+> **Pochwalam raczej wykorzystanie płodności wielu kobiet dla niesamolubnego celu, niż ciała jednej za względu na nią tylko.** Gdyż w pierwszym z tych wypadków zmierza się do korzyści zgodnej z potrzebą tamtych starotestamentowych czasów, w drugim chodzi jedynie o zaspokojenie lubieżności skierowanej na ziemskie przyjemności. Dlatego ci, którym apostoł w **1 Kor 7,6**, z powodu ich niewstrzemięźliwości, **wybaczająco**zezwala na obcowanie cielesne z jedną żoną, znajdują się na niższym stopniu drogi do Boga, niż owi, którzy mimo swych wielu żon dokonują aktu małżeńskiego jedynie w zamiarze spłodzenia potomstwa.      
+(Augustyn, _O nauce chrześcijańskiej_)      
+
+Oczywiście chodziło jedynie o mężczyzn, którzy posiadają wiele żon. Kobiety posiadać wielu mężów nie mogły, ponieważ były „służebnicami”:            
+> Otóż niewolnik nigdy nie ma kilku panów, natomiast pan ma większą liczbę niewolników. Tak też i my nigdy nie słyszeliśmy, by święte kobiety służyły kilku żyjącym mężom, natomiast czytamy, że wiele świętych kobiet służyło jednemu mężowi. Nie jest to wbrew istocie małżeństwa.       
+(Augustyn, _De bono coniugali/Wartości małżeństwa_)      
+
+Dla wyjaśnienia. **W kontrakcie małżeńskim zawieranym w świetle prawa rzymskiego nie istniał zapis określający kobietę, jako podwładną mężczyzny. Taki zapis znajdował się w dokumentach kontraktu małżeńskiego, który uzyskiwało się u biskupa chrześcijańskiego.** Augustyn w swojej retoryce wskazuje tylko na ten dokument.      
+
 
 
 
