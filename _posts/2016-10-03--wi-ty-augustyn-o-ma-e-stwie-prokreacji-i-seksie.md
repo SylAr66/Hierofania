@@ -33,6 +33,43 @@ Ta wypowiedz Augustyna była przytaczana przez kolejnych uczonych Kościoła. Pr
 
 ## Dlaczego kobieta zmarła w ciąży nie może być pochowana na chrześcijańskim cmentarzu?   
 
+Z poglądów Augustyna wynikało, że kobieta musiała za wszelką cenę urodzić dziecko, ponieważ w innym przypadku skazywała go na wieczne potępienie. Musiał odbyć się chrzest.    
+Augustyn opowiedział w jednym z kazań historie kobiety, której dziecko zmarło przed chrztem. Kobieta była tak zrozpaczona, że zaniosła zwłoki dziecko miejsca, gdzie przechowywana była relikwia św. Stefana. Dzięki bożej mocy dziecko ożyło, zostało ochrzczone, po czym zaraz zmarło. Jednym tym razem nie trafiło do piekła.      
+
+Stanowisko Augustyna w kwestii zmarłych dzieci nieochrzczonych było tak mocne, że był wielokrotnie atakowany przez innych uczonych.     
+Walkę z Augustynem podjął biskup Eklanum, Julian pisząc:     
+> Ty, Augustynie, jesteś daleki od uczuć religijnych, od cywilizowanego myślenia, daleki nawet od zdrowego rozsądku ludzkiego, skoro myślisz, że twój Bóg jest zdolny do popełniania zbrodni przeciw sprawiedliwości, trudnych do wyobrażenia nawet dla barbarzyńców.       
+(_Augustinus, opus imperfectum contra Julianum_)      
+
+**Julian nazwał Boga Augustyna “prześladowcą nowonarodzonych, który małe niemowlęta wrzuca w wieczny ogień”.**   
+Niestety, Julian skończył swoje życie jako heretyk, zwolennik Pelagiusza i jego teologii duchowości (Pelagianie zostali potępieni na soborze efeskim).     
+
+Teologia Augustyna dotycząca kobiet zmarłych podczas ciąży, albo takich, które urodziły martwe dzieci, miała swoje odbicie w prawie religijnym w wielu rejonach. **Zaczęto praktykować specjalne operacje na ciężarnych, aby pozbyć się z ich ciała nieochrzczonego dziecka.**Inaczej kobieta nie mogła zostać pochowana. Dziecko wycinało się i zakopywano poza obrębem cmentarza.      
+**Jeszcze w XII wieku paryski teolog, Johannes Beleth głosił, że w kościele podczas nabożeństwa żałobnego nie może zostać wystawione ciało kobiety ciężarnej, dlatego, że jej dziecko nie zostało ochrzczone.**      
+
+ ## Święty Augustyn, usprawiedliwienie małżeństwa i wielożeństwo     
+
+Augustyn wyliczył trzy „dobra małżeńskie”, które nazywano potem „dobrami usprawiedliwiającymi małżeństwo” (ponieważ ideałem było dziewictwo). Te „dobra” miały moralnie usprawiedliwiać lubieżność, która rodzi się w związku mężczyzny z kobietą.     
+Trzy dobra:      
+*Dziecko    
+*Wierność    
+*Nierozerwalność    
+
+> Augustyn napisał:    
+Dobro małżeństwa ma trojaką naturę: wierność, potomstwo i sakrament. Wierność nie pozwala, by akt małżeński poza ramami małżeństwa; dobro potomstwa powoduje, że dzieci są przyjmowane z miłością, są właściwie odżywiane i sumiennie wychowywane; sakrament, że małżeństwo nie rozwodzi się, lub że osoba opuszczona nie wchodzi ponownie w związek.      
+(_De Genesi ad litteram_)   
+
+Augustyn zagłębił się również w inne problemy małżeńskie. W myśl stwierdzenia, że akt małżeński jest lubieżny, jeśli nie jest czyniony w trosce o potomstwo, należy zapytać: co jeśli tylko jeden z małżonków jest „lubieżny”? Augustyn stwierdził, że żądanie seksu w celu innym, niż prokreacyjny w małżeństwie jest grzechem wybaczalnym. Małżonek, który spełnia wolę drugiego, ale sam nie szuka rozkoszy jest wolny od winy:**„Spełnianie obowiązku nie pociąga za sobą winy, ale żądanie spełnienia tego obowiązku ponad konieczność płodzenia, jest grzechem powszednim”.**       
+Małżonek ma obowiązek spełnić powinność małżeńską, ponieważ małżeństwo samo w sobie ma na celu, obok prokreacji, zapobiegać pożądliwości. Odmowa jest grzechem.      
+
+**Jeśli zaś chodzi o samą rolę kobiety w małżeństwie, to jest ona „niewolnicą”.** Augustyn jako wzór idealnej małżonki przedstawiał swoją matkę, Monikę:     
+> Służyła – gdy dorosła i wydano ją za mąż – mężowi jak panu (…) Zdrady małżeńskie znosiła tak cierpliwie, że nigdy nie stały się przyczyną nawet sprzeczki między nimi. (…) Wiele mężatek, których mężowie wykazywali łagodniejszą od niego (ojca Augustyna) uosobienie, nieraz w gronie przyjaciółek skarżyło się na swoich mężczyzn; ich twarze zresztą bywały naznaczone haniebnymi śladami uderzeń. Moja matka wtedy, ganiąc ich uszczypliwość, jakby żartem, lecz w istocie poważnie, mówiła, że **skoro wysłuchały niegdyś umowy małżeńskiej, powinny wiedzieć, że stały się służebnicami mężów. Niechże teraz, pamiętając o swej roli, nigdy się zuchwale im nie sprzeciwiają.**      
+(Augustyn, _Wyznania XI_)       
+
+Co ciekawe, **Augustyn nie widział w poligynii niczego złego,** choć nie uważał jej za rozwiązanie odpowiednia dla jego czasów. Akceptował je, jako ważny element czasów biblijnych.      
+Tak o tym pisał:       
+**Pochwalam raczej wykorzystanie płodności wielu kobiet dla niesamolubnego celu, niż ciała jednej za względu na nią tylko.** Gdyż w pierwszym z tych wypadków zmierza się do korzyści zgodnej z potrzebą tamtych starotestamentowych czasów, w drugim chodzi jedynie o zaspokojenie lubieżności skierowanej na ziemskie przyjemności. Dlatego ci, którym apostoł w 1 Kor 7,6, z powodu ich niewstrzemięźliwości, wybaczająco zezwala na obcowanie cielesne z jedną żoną, znajdują się na niższym stopniu drogi do Boga, niż owi, którzy mimo swych wielu żon dokonują aktu małżeńskiego jedynie w zamiarze spłodzenia potomstwa. 
+(Augustyn, O nauce chrześcijańskiej)
 
 
 
