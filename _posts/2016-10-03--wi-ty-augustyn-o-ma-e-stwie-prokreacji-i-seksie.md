@@ -51,8 +51,7 @@ Niestety, Julian skończył swoje życie jako heretyk, zwolennik Pelagiusza i je
 Teologia Augustyna dotycząca kobiet zmarłych podczas ciąży, albo takich, które urodziły martwe dzieci, miała swoje odbicie w prawie religijnym w wielu rejonach. **Zaczęto praktykować specjalne operacje na ciężarnych, aby pozbyć się z ich ciała nieochrzczonego dziecka.**Inaczej kobieta nie mogła zostać pochowana. Dziecko wycinało się i zakopywano poza obrębem cmentarza.      
 **Jeszcze w XII wieku paryski teolog, Johannes Beleth głosił, że w kościele podczas nabożeństwa żałobnego nie może zostać wystawione ciało kobiety ciężarnej, dlatego, że jej dziecko nie zostało ochrzczone.**      
 
- ## Święty Augustyn, usprawiedliwienie małżeństwa i wielożeństwo     
-
+## Święty Augustyn, usprawiedliwienie małżeństwa i wielożeństwo 
 Augustyn wyliczył trzy „dobra małżeńskie”, które nazywano potem „dobrami usprawiedliwiającymi małżeństwo” (ponieważ ideałem było dziewictwo). Te „dobra” miały moralnie usprawiedliwiać lubieżność, która rodzi się w związku mężczyzny z kobietą.     
 Trzy dobra:      
 *Dziecko    
