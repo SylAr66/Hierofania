@@ -2,7 +2,7 @@
 layout: post
 category: blog
 hidden: 'true'
-published: false
+published: true
 title: Oficjalne stanowisko kościoła katolickiego względem aborcji
 ---
 Sprawa aborcji jest obecnie najgorętszym tematem w mediach. Projekt ustawy całkowicie zakazującej aborcji nie został odrzucony przez władze, ale trafił do dalszych prac. To zmobilizowało tysiące kobiet do protestów. A jakie jest oficjalne stanowisko Kościoła względem aborcji?    
@@ -19,5 +19,4 @@ W Polsce głos w tej sprawie zabrał Episkopat. W komunikacie z 372. Zebrania Pl
 
 Źródło:     
 http://www.redemptor.pl/list-ojca-swietego-franciszka-przed-jubileuszem-milosierdzia/      
-http://episkopat.pl/komunikat-z-372-zebrania-plenarnego-konferencji-episkopatu-polski/?utm_source=deon&utm_medium=link_artykul       
-
+http://episkopat.pl/komunikat-z-372-zebrania-plenarnego-konferencji-episkopatu-polski/?utm_source=deon&utm_medium=link_artykul
