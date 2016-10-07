@@ -1,7 +1,7 @@
 ---
 layout: post
 category: article
-published: false
+published: true
 title: 'Islam: zamachowcy samobójcy'
 ---
 Męczeństwo nigdy nie stanowiło istotnej części Islamu. Natomiast szukanie męczeńskiej śmierci bez realnych szans na przeżycie było źle widziane przez egzegetów i znawców prawa.      
@@ -77,13 +77,4 @@ a potem nie okazują skruchy, czeka niechybnie kara Piekła
 i dla nich przeznaczona męka palenia.     
 
 Na podstawie:    
-David Cook, _Męczeństwo w islamie_, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2009.    
-
-
-
-
-
-
-
-
-
+David Cook, _Męczeństwo w islamie_, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2009.
