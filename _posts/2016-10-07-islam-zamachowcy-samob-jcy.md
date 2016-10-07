@@ -55,6 +55,33 @@ Według autora, jeśli intencją zamachowca samobójcy jest dżihad i wysadza si
 Jednak według tradycji Dżihad jest anonimowym uczynkiem, o którym wiedzieć ma Allah, ponieważ to on decyduje czy człowiek godny jest miana męczennika. Związane jest to z poglądem, według którego Allah wnikając w myśli i serce człowieka. Bóg wie czy czyn był podyktowany miłością do Niego, czy chęcią zdobycia sławy albo innych przywilejów.     
 Samobójcy pozostawiają po sobie nagrania, listy, ostatnie słowa. Nie są anonimowi. Ich rodziny niekiedy otrzymują również nagrody czy odszkodowania, co uznawane jest za próbę zdobycia sławy i korzyści materialnej dla rodziny. Często męczennicy są czczeni. W islamie nie można tworzyć „świętych”, uznawane jest to za dodawanie Bogu towarzystwa, a to zakrawa na wielobóstwo.      
 
+**W Egipcie w 2001 roku powstał podręcznik taktyki „Podniesienie zasłony”**(Imatat al-lisam) napisany przez Rrifa'iego Ahmada Tahę, w którym pojawia się przyzwolenie na zabijanie niewiernych oraz muzułmanów apostatów – czyli tych, którzy nie biorą udziału w walce.      
+Zdaje się on być konsekwencją inspiracji poglądami radykalnego myśliciela muzułmańskiego Kutba (sprawdź artykuł: "Radykalny współczesny islam a koncepcja męczeństwa"),który **uznał Egipt za kraj niemuzułmański, a muzułmanów w nim mieszkających za apostatów.**Ugrupowanie do którego należał, skupiało się na atakach, w których ginęli turyści i ludność cywilna. Zdecydowany opór społeczny i protesty doprowadziły do zaniechania zamachów.     
+Operacje męczeńskie doprowadziły do wybuchu wojny domowej w Algierii i Sudanie, eskalacji przemocy w Nigerii, Pakistanie, Arabii Saudyjskiej i Indonezji.       
+
+> LUDZIE ROWU:    
+W imię Boga, Miłosiernego, Litościwego    
+Na niebo, posiadające budowle z gwiazd,    
+I Obiecany Dzień,    
+I świadka, i tego, któremu dawane jest świadectwo,    
+Niechaj przeklęci będą Ludzie Okopów    
+Ogień podsycany paliwem -    
+Kiedy zasiedli przy nim     
+I byli świadkami tego, co uczynili wierzącym.    
+A nienawidzili ich tylko za to,    
+że ci wierzyli w Allacha, Wszechmocnego, Godnego Chwały    
+Do którego należy królestwo niebios i ziemi.     
+A jest Allach świadkiem nad wszystkimi rzeczami.    
+Na tych, którzy prześladują wierzących mężczyzn i wierzące niewiasty,    
+a potem nie okazują skruchy, czeka niechybnie kara Piekła    
+i dla nich przeznaczona męka palenia.     
+
+Na podstawie:    
+David Cook, _Męczeństwo w islamie_, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2009.    
+
+
+
+
 
 
 
