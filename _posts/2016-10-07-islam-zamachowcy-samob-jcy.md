@@ -49,6 +49,13 @@ Poza tym, w tekście wykorzystane są 3 wersety Koranu:
 II:249 Jak często mały oddział odnosi zwycięstwo nad licznym oddziałem za zezwoleniem Boga.   
 II:207 Wśród ludzi jest taki, który sprzedaje swoją duszę, poszukując zadowolenia Boga. A Bóg jest dobrotliwy dla Swoich sług.     
 
+W powyższych cytatach mamy przymierze Allaha i człowieka, który w zamian za walkę i śmierć w jego imieniu oferuje człowiekowi raj. Potem walkę małego oddziału z dużym – co jest koraniczną wersją opowieści o Dawidzie i Goliacie. I na koniec fragment o człowieku „sprzedającym” swoją dusze. Nie wiem w jaki sposób ma to przyzwolić na operacje męczeńskie.         
+Według autora, jeśli intencją zamachowca samobójcy jest dżihad i wysadza się on pośród wrogów (**inni muzułmanie, nienależący do ugrupowania to apostaci, więc również są wrogami**), by wywyższyć słowa Allaha to jest on męczennikiem.     
+
+Jednak według tradycji Dżihad jest anonimowym uczynkiem, o którym wiedzieć ma Allah, ponieważ to on decyduje czy człowiek godny jest miana męczennika. Związane jest to z poglądem, według którego Allah wnikając w myśli i serce człowieka. Bóg wie czy czyn był podyktowany miłością do Niego, czy chęcią zdobycia sławy albo innych przywilejów.     
+Samobójcy pozostawiają po sobie nagrania, listy, ostatnie słowa. Nie są anonimowi. Ich rodziny niekiedy otrzymują również nagrody czy odszkodowania, co uznawane jest za próbę zdobycia sławy i korzyści materialnej dla rodziny. Często męczennicy są czczeni. W islamie nie można tworzyć „świętych”, uznawane jest to za dodawanie Bogu towarzystwa, a to zakrawa na wielobóstwo.      
+
+
 
 
 
