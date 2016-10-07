@@ -37,5 +37,19 @@ Autor podręcznika wymienia szesnaście operacji męczeńskich, które uważa za
 Następnie autor **przytacza 11 sytuacji zawartych w różnych pismach z czasów proroka Mahometa, w których, według niego, pojawia się przyzwolenie, bądź błogosławieństwo, dla ataków samobójczych.**Z innych materiałów prawniczych wyciąga i podkreśla kategorie „bojownika, który atakuje wroga w pojedynkę”. Ale czego to dowodzi?    
 Równie dobrze możemy w tym miejscu przytoczyć kontrargument, czyli historie człowieka, który podczas jednej z bitew wyrwał się z szeregu i natarł na wroga. Został ranny, ale przeżył, na co jego dowódca zacytował werset Koranu LXI:4: "Zaprawdę Bóg miłuje tych, którzy walczą na Jego drodze w zwartych szeregach, jak gdyby byli budowlą solidną".      
 **Ideą dżihadu jest działanie grupowe w którym jednostki powinny zachowywać anonimowość, a jej czyny były wiadome tylko Bogu i tylko przez Niego nagradzane. Wielu egzegetów Koranu uważało, że indywidualne ataki nie powinny być dozwolone.**     
-At-Takruri przytacza jeszcze listę 29 fatw (opinia prawna wydana przez eksperta) pochodzących od współczesnych uczonych muzułmańskich, które przyzwalają na operacje męczeńskie. Wymienia również 6 fatw, które stwierdzają, że ataki samobójcze mogą przeprowadzać również kobiety.     
+At-Takruri przytacza jeszcze listę 29 fatw (opinia prawna wydana przez eksperta) pochodzących od współczesnych uczonych muzułmańskich, które przyzwalają na operacje męczeńskie. **Wymienia również 6 fatw, które stwierdzają, że ataki samobójcze mogą przeprowadzać również kobiety.**    
+
+Fatwa **„Islamskie orzeczenie w sprawie dopuszczalności operacji męczeńskich: czy Hawa Barajewa popełniła samobójstwo?”** dotyczy zamachu z 2000 r. przeprowadzonego przez Hawę Barajewą przeciw rosyjskim siła w Czeczenii. Autorem najprawdopodobniej był Jusuf al-Ajjiri, który dowodził Al-Kaidą (zabity w 2003 r.).      
+W tekście zacytowana zostaje legenda ze zbiorów hadisów o chłopcu i królu, nawiązująca do **Ludzi Rowu** (w Koranie LXXXV:1-11, cały tekst na końcu). Legenda nie odgrywała ważnej roli w historii islamu, dopiero współcześni radykałowie zaczęli ją przytaczać.      
+Historia opowiada o chłopcu wierzącym w jednego Boga. Zły król pragnie zgładzić chłopca, ale Bóg ochrania go przed niebezpieczeństwami. Wreszcie chłopiec podaje królowi sposób, jak ten ma go zgładzić. Król musi użyć formuły: „w imię Pana tego młodzieńca”. Chłopiec zostaje zabity i wrzucony w ogień. Ludzie obserwujący egzekucję nawracają się na wiarę chłopca i również rzucają się w ogień.      
+Chłopiec z pewnością jest męczennikiem umierającym za swoją wiarę, ale nikogo przy tym nie zabija. Nie jest bojownikiem. Nie jest zatem jasne, jaką wartość może mieć ta historia dla poparcie operacji męczeńskich.     
+Poza tym, w tekście wykorzystane są 3 wersety Koranu:    
+
+> IX:111 Zaprawdę, Allah wykupił od wiernych ich osoby i ich własność w zamian za Ogrody niebiańskie, jakie otrzymają. Ci walczą za sprawę Allaha i zabijają, i są zabijani – niezawodna obietnica wiążąca Go, którą uczynił w Torze, Ewangelii i w Koranie. I któż może być wierniejszy swojej obietnicy niż Allah? Raduje się zatem z transakcji jaką z Nim zawarliście, wszak jest to potężne zwycięstwo.    
+II:249 Jak często mały oddział odnosi zwycięstwo nad licznym oddziałem za zezwoleniem Boga.   
+II:207 Wśród ludzi jest taki, który sprzedaje swoją duszę, poszukując zadowolenia Boga. A Bóg jest dobrotliwy dla Swoich sług.     
+
+
+
+
 
