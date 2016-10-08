@@ -16,4 +16,5 @@ Pierwszą kobietą, która zdecydowała się zaprotestować przeciw słowom duch
 W lipcu grupa kobiet została zatrzymana przez policję w okolicy miasta Marivan i poproszono o podpisanie zobowiązania, że nigdy więcej nie będą jeździć na rowerze w miejscu publicznym.    
 
 Źródło:     
-http://www.telegraph.co.uk/news/2016/09/21/defiant-iranian-women-post-videos-of-themselves-cycling-on-faceb/     
+http://www.telegraph.co.uk/news/2016/09/21/defiant-iranian-women-post-videos-of-themselves-cycling-on-faceb/    
+http://www.jpost.com/Middle-East/Biking-against-the-ban-Iranian-women-defy-female-cycling-fatwa-468381    
