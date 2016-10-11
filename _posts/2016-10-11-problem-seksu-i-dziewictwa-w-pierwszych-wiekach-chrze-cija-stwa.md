@@ -1,7 +1,7 @@
 ---
 layout: post
 category: article
-published: false
+published: true
 title: 'Problem seksu i dziewictwa w pierwszych wiekach chrześcijaństwa '
 ---
 > Jezus nie wybrałby sobie narodzin z dziewicy, gdyby musiał uważać ją za tak niewstrzemięźliwą, by to łono, w którym ukształtowało się ciało Pana, owa hala wiecznego króla, miało zostać splamione obecnością męskiego nasienia. Kto tak twierdzi, nie twierdzi niczego innego niż niewiara Żydów.     
@@ -69,7 +69,4 @@ Orygenes natomiast zinterpretował ten fragment ewangelii w sposób dosłowny i 
 
 Źródło:    
 Diogenes Laertius, _Żywoty i poglądy słynnych filozofów_, VIII    
-Uta Ranke-Heinemann, _Eunuchy do raju_, Gdynia 1995.    
-
-
-
+Uta Ranke-Heinemann, _Eunuchy do raju_, Gdynia 1995.
