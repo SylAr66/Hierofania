@@ -2,7 +2,7 @@
 layout: post
 category: blog
 hidden: 'true'
-published: false
+published: true
 title: Bojkot Mistrzostw Świata Szachistów w Iranie
 ---
 Kolejne Mistrzostwa Świata Szachistów mają odbyć się w Iranie. Nie obeszło się bez kontrowersji, ponieważ władze zażądały, aby kobiety biorące udział w zawodach założyły na tę okazję hijab.      
@@ -24,4 +24,4 @@ Thank you MyStealthyFreedom for sharing my interview.
 Niektórzy z szachistów I szachistek nie zgadzają się z protestem. Uważają, że nie jest to ważne, ponieważ najważniejsze jest, aby promować wśród irańskich kobiet sport. Wśród tych osób jest Mitra Hejazipour z Teheranu, która powiedziała, że jest to dobra okazja, aby pokazać silne kobiety, które mogą reprezentować inne kraje w sporcie.      
 
 Źródło:    
-http://www.independent.co.uk/news/people/chess-star-nazi-paikidze-barnes-boycott-world-chess-championship-iran-hijab-a7347356.html     
+http://www.independent.co.uk/news/people/chess-star-nazi-paikidze-barnes-boycott-world-chess-championship-iran-hijab-a7347356.html
