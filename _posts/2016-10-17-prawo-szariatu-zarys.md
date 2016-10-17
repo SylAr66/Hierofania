@@ -69,6 +69,34 @@ Według Koranu sieroty powinny być dobrze traktowane. Ten, kto zarządza mająt
 
 **Kobiety**   
 Prawo muzułmańskie nieco poprawiało sytuacje kobiet w porównaniu z dawnymi zwyczajami arabskimi. Prawo zabrania zabijania dzieci ze względu na płeć czy z powodu biedy. **Koran ostro potępiał staroarabski zwyczaj zakopywania niemowląt-dziewczynek**(by pozbyć się ich nadwyżki).     
+**Prawo dopuszcza poligamie, która pozwala posiadać cztery żony (obok nałożnic)**, ale tylko, jeśli mężczyzna jest w stanie zapewnić im wszystko, czego potrzebują. Nie wolno muzułmaninowi poślubić krewnej. **Żona nie ma obowiązku wnosić posagu. Koran za to wspomina o darze dla narzeczonej (_mahar_), który miał być jej materialnym zabezpieczeniem w przypadku rozwodu.** Jednak przepis szybko wyszedł z użycia, ponieważ mało którego mężczyznę było na to stać, a niemogące pracować zarobkowo kobiety były obciążeniem dla rodziny, dlatego chciano je jak najszybciej wydać za mąż i ojciec rezygnować z przywileju córek.    
+Według prawa wdowa może ponownie wyjść za mąż po upływie czterech miesięcy i dziesięciu dni od śmierci jej męża. Podobnie kobieta rozwiedziona może ponownie wyjść za mąż po upływie trzech miesięcy.     
+**Mężczyzna może zerwać małżeństwo w każdej chwili, ale ma pozostawić żonie „dożywocie” czyli utrzymanie.** Niestety porzuconym kobietom ciężko było je egzekwować, jeśli nie miały wsparcia od męskiego krewnego, który reprezentowałby ich interesy. **Kobieta rozwieść może się tylko wtedy, gdy zezwoli jej na to jej ojciec lub inny męski krewny.** Mężczyzna nie mógł rozwieść się z kobietą ciężarną, musiał poczekać do narodzin dziecka. Kobieta natomiast jest zobowiązania do karmienia dziecka przez dwa lata (przez ten czas, mimo rozwodu mężczyzna ma ją utrzymywać i nie może wejść w nowy związek).       
+
+### 3. Prawo karne 
+Muzułmańskie szkoły prawne nie stworzyły osobnego, samodzielnego systemu prawa karnego. W Koranie i sunnie nie ma wiele przepisów karnych. Jednak na podstawie fragmentarycznych zaleceń w tej dziedzinie (nazywanych „granice Allaha” _hadud Allah_) i późniejszej praktyki, powstał zespół norm prawa karnego.    
+**Kary były indywidualizowane, nie było dowolności kary, ani nie wolno było stosować tortur.**    
+
+Kategorie przestępstw:        
+Zbrodnie związane z przelewaniem krwi    
+Przestępstwa przeciw Allahowi (typu apostazja, bluźnierstwo)    
+Przestępstwa przeciw porządkowi społecznemu (cudzołóstwo, kradzież, rozbój, picie wina)    
+Lekkie przestępstwa przeciw porządkowi    
+
+Najcięższymi karami była kara śmierci, biczowanie, kamieniowanie. Za mniejsze przestępstwa _Kadi_ (sędzia) wymierzał kary wedle swojego uznania (jak chłosta, kara pieniężna, więzienie). Jednolity system wymierzanie kary przez _Kadiego_ został wypracowany później.     
+
+**W Koranie pojawia się prawo odwetu i prawo okupu za zabójstwo**(które pochodzą jeszcze z okresu przed islamem). Jednocześnie w Koranie pojawia się również zalecenie, aby przebaczać winnemu i nie żądać zemsty.     
+Mówi o tym sura II:178: "Prawo odwetu wam przepisane za morderstwo: człowiek wolny za człowieka wolnego, niewolnik za niewolnika, kobieta za kobietę". Choć dalej wersety zachęcają do poniechania krwawej kary na rzecz pieniężnej rekompensaty: „Temu, komu udzielone zostanie odpuszczenie przez jego zranionego brata, załatwienie sprawy, odpłacenia krwi dokonane będzie sprawiedliwie, a zabójca zapłaci stosowne odszkodowanie” . Jednak, jeśli zabójca jest recydywistą wtedy przestępca ponosi kare śmierci.    
+**Prawo dzieli zabójstwa na umyślne i nieumyślne.** W przypadku zabójstwa przypadkowego nie wolno zastosować prawa odwetu, tylko zastępuje się je karą pieniężną – _dija_. Winowajca również jest zobowiązany wyzwolić jednego niewolnika (lub kupić i wyzwolić, jeśli żadnego nie miał). Ten przepis dotyczył zarówno przypadkowego zabójstwa muzułmanina, jak i przedstawiciela innej wiary (z zaprzyjaźnionego narodu). W przypadku spowodowania nieumyślnej śmierci muzułmanina z narodu wrogiego – karą było tylko wyzwolenie niewolnika.     
+**Kara śmierci poprzez ukamienowanie za cudzołóstwo nie jest nakazem Koranu.** Ten przepis pojawił się później. W Koranie kara za cudzołóstwo to sto batów dla każdego z winnych, a dla kobiety dodatkowo zamknięcie na zawsze.      
+**W przypadku kradzieży przepisową karą koraniczną jest ucięcie dłoni, zarówno mężczyźnie, jak i kobiecie.**   
+Lichwa jest zabroniona.    
+**Za czasów proroka picie wina było dozwolona**, choć w pierwszym okresie sur mekkańskich przestrzega się przed pijaństwem, które prowadzi do nieprzestrzegania rytuałów. W surach medyńskich picie wina jest już zakazane.    
+Zakazy pokarmowe pojawiają się w surze V. Nie wolno jeść mięsa wieprzowego, zwierząt padłych, krwi, zwierząt zaduszonych, zabitych przypadkowo, złożonych na ofiarę innym bogom.    
+
+Na podstawie:    
+Józef Bielawski, _Islam_, Warszawa.
+
 
 
 
