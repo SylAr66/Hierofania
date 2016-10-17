@@ -2,7 +2,7 @@
 layout: post
 category: blog
 hidden: 'true'
-published: false
+published: true
 title: Gra karciana pro-life
 ---
 Fundacja Małych Stópek wkrótce zaprezentuje grę zatytułowaną „Zagraj w Jasia”, która jest oparta na popularnym „Piotrusiu”, ale jej celem ma być propagowanie idei pro-life wśród najmłodszych.     
@@ -29,5 +29,4 @@ Nie jest to pierwsze przedsięwzięcie organizacji, ponieważ wcześniej stworzy
 Źródło:     
 http://dlazycia.info/ (dostęp, 17.10.2016)    
 https://www.wprost.pl/zycie/10027048/Fundacja-pro-life-chce-edukowac-uczniow-podstawowek-Stworzyla-gre-antyaborcyjna.html (dostęp, 17.10.2016)          
-http://radioszczecin.pl/1,342630,gra-w-karty-na-lekcjach-religii-to-propozycja-fu (dostęp, 17.10.2016)            
-
+http://radioszczecin.pl/1,342630,gra-w-karty-na-lekcjach-religii-to-propozycja-fu (dostęp, 17.10.2016)
