@@ -1,7 +1,7 @@
 ---
 layout: post
 category: article
-published: false
+published: true
 title: Prawo Szariatu - zarys
 ---
 Poniższy artykuł prezentuje rys dawnego prawa szariatu, stosowanego za czasów imperium muzułmańskiego. Było uważane za prawo boskie, które zostało objawione w oddzielnych znakach (_ajat_) i spisane przez Mahometa w Koranie. 
@@ -96,12 +96,3 @@ Zakazy pokarmowe pojawiają się w surze V. Nie wolno jeść mięsa wieprzowego,
 
 Na podstawie:    
 Józef Bielawski, _Islam_, Warszawa.
-
-
-
-
-
-
-
-
-
