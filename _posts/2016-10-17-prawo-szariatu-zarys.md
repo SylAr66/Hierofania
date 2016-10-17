@@ -51,7 +51,24 @@ Istniał jeszcze drugi rodzaj jałmużny – _sadaka_, która była dobrowolną 
 > Koran II:178: (...) łoży pieniądze z czystej miłości do Niego na swych krewnych i sieroty, i potrzebujących, jak i dla tych, co w podróży i którzy proszą o jałmużnę, oraz na cele wykupienia jeńców.    
 
 **Post (saum)**    
+Post przypada na miesiąc ramadan i obowiązuje wszystkich poza ludźmi starymi, chorymi, kobietami w ciąży i karmiącymi, podróżnymi czy osobami wykonującymi ciężką pracę fizyczną (ale obowiązuje ich rekompensata w postaci jałmużny). Ten, kto nie wypełnia obowiązku postu, uznany jest za niewiernego. Jeśli ktoś bez przyczyny zwalnia się z postu, może zostać uwięziony.    
+Każdego dnia przed świtem należy sformułować intencję postu. Nie wolno jeść, pić, palić, a ponadto upuszczać krwi, stawiać baniek, czy poddawać się podnieceniu seksualnemu. Post trwa każdego dnia miesiąca od wschodu do zachodu słońca. Po zachodzie można zjeść lekki posiłek i pomodlić się.       
+Koniec postu jest uczczony wielkim świętem „przerwania postu”. Przed główną modlitwą należy złożyć „jałmużnę przerwania postu”, albo pięć racji pożywienia dla każdego członka rodziny.     
 
+**Pielgrzymka do Mekki (hadżdż)**     
+Każdy muzułmanin raz w życiu powinien odbyć pielgrzymkę do Mekki, ale w przeciwieństwie do poprzednich zasad, tego obowiązku można nie dopełnić. Usprawiedliwieniem może być brak pieniędzy, niebezpieczeństwo na drogach (dawniej napady beduinów, złodziei itp.), problemy zdrowotne. Umysłowo chorzy i kobiety nie muszą odbywać pielgrzymki, chyba, że mają kogoś, kto im będzie towarzyszył. Można wynająć kogoś, kto odbędzie pielgrzymkę za danego muzułmanina.     
+Mekkańska arystokracja czerpała wielkie korzyści ze świątyni Al Kaby, w której znajdowały się ośrodki kultu wielu popularnych bóstw (pielgrzymki do niej były częścią tradycji przedmuzułmańskiej).     
+
+### 2. Prawo cywilne
+W prawie cywilnym możemy rozróżnić trzy główne działy: sprawy osobowe, sprawy rodzinne, sprawy majątkowe i dziedziczenia.     
+Prawo regulowało relacje między muzułmanami, a innymi wyznaniami (określani jako „podopieczni” _zimmi_). Głównie chodziło o chrześcijan i Żydów, których nazywano „Ludźmi Księgi”. Mogli oni zachować pewną autonomie swojej wspólnoty i obrzędy, ale podpadali pod cześć przepisów prawnych, takich jak np. podatek.     
+Prawo spadkowe było bardzo rygorystyczne. **Nie funkcjonowało w nim prawo testamentowe.** Dziedzicem zawsze jest potomek zmarłego, albo jego najbliższa rodzina.**Prawo nie zezwalało na obciążenie dziedzica długami zmarłego, które przekraczały wartość pozostawionego majątku.**           
+Według Koranu sieroty powinny być dobrze traktowane. Ten, kto zarządza majątkiem sieroty do czasu uzyskania pełnoletności nie może w żaden sposób pomniejszych tego majątku. Było to karalne.
+**Niewolnictwo było akceptowane przez islam, ale teksty Koranu zachęcały do wyzwalania niewolników**, za co muzułmanin miał mieć specjalne przywileje po śmierci. Wyzwolenie niewolnika było m. in. rekompensatą za niedopełnienie niektórych obowiązków religijnych.      
+**Nakaz obrzezania dzieci nie widnieje w Koranie.** Był to zwyczaj praktykowany na niektórych terenach przed islamem.       
+
+**Kobiety**   
+Prawo muzułmańskie nieco poprawiało sytuacje kobiet w porównaniu z dawnymi zwyczajami arabskimi. Prawo zabrania zabijania dzieci ze względu na płeć czy z powodu biedy. **Koran ostro potępiał staroarabski zwyczaj zakopywania niemowląt-dziewczynek**(by pozbyć się ich nadwyżki).     
 
 
 
