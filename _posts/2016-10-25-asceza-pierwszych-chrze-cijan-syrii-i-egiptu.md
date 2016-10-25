@@ -4,7 +4,8 @@ category: article
 published: true
 title: Asceza pierwszych chrześcijan Syrii i Egiptu
 ---
-Czym jest asceza? Najprościej można ją zdefiniować, jako „surowy, wstrzemięźliwy tryb życia zmierzający, przez wyrzeczenie się przyjemności i umartwienie ciała, do doskonalenia się w cnocie” (Kopaliński 2000). Elementy ascetyczne pojawiają się w każdej niemal religii i mają duże znaczenie w kontaktach z istotami nadprzyrodzonymi.      
+Czym jest asceza? Najprościej można ją zdefiniować, jako „surowy, wstrzemięźliwy tryb życia zmierzający, przez wyrzeczenie się przyjemności i umartwienie ciała, do doskonalenia się w cnocie” (Kopaliński 2000). Elementy ascetyczne pojawiają się w każdej niemal religii i mają duże znaczenie w kontaktach z istotami nadprzyrodzonymi.   
+<!--more-->
 Pewne formy ascezy towarzyszyły chrześcijaństwu od początku jego istnienia, przechodząc wiele zmian i przybierając nowe kształty na przestrzeni wieków. Właściwy **rozwój chrześcijaństwa umiejscawia się w I i II wieku n.e.** Pierwszymi ośrodkami, w których pojawili się chrześcijańscy mnisi-pustelnicy były Egipt i Syria. Aby lepiej zrozumieć rozwój ascezy, przytoczę główne założenia obu grup.       
 
 ## Asceza egipska
