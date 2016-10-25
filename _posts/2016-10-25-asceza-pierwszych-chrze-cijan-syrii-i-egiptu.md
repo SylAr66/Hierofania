@@ -55,5 +55,11 @@ Mt 10, 37:
 kto kocha ojca lub matkę bardziej niż mnie, nie jest mnie godzien. I kto kocha swą córkę lub syna bardziej niż mnie, nie jest mnie godzien.   
 
 Genezy ascezy chrześcijańskiej doszukiwano się również w elementach kultury pogańskiej, w platonizmie, idea kontemplacji – _theoria_ oraz stoicyzmie, beznamiętność – _apatheia_ oraz niewzruszoność – _ataraksja_.  
-Oczywiście przytoczone powyżej przykłady teologicznie całkowicie nie tłumaczyły postawy pierwszych ascetów, jednak z pewnością odgrywały wśród nich dużą rolę.    
+Oczywiście przytoczone powyżej przykłady teologicznie całkowicie nie tłumaczyły postawy pierwszych ascetów, jednak z pewnością odgrywały wśród nich dużą rolę.  
+
+Źródło:    
+Uta Ranke-Heinemann, _Eunuchy do Raju. Kościół katolicki a seksualizm_, Gdynia 1995.   
+Jacek Sieradzan, _Szaleństwo w religiach świata_, Kraków 2007.   
+Ewa Wipszycka, _Kościół w świecie późnego antyku_, Warszawa 1994.   
+Ewa Wipszycka, _O starożytności polemicznie_, Warszawa 1994.    
 
