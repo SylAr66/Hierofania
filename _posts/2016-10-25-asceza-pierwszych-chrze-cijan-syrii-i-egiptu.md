@@ -1,7 +1,7 @@
 ---
 layout: post
 category: article
-published: false
+published: true
 title: Asceza pierwszych chrześcijan Syrii i Egiptu
 ---
 Czym jest asceza? Najprościej można ją zdefiniować, jako „surowy, wstrzemięźliwy tryb życia zmierzający, przez wyrzeczenie się przyjemności i umartwienie ciała, do doskonalenia się w cnocie” (Kopaliński 2000). Elementy ascetyczne pojawiają się w każdej niemal religii i mają duże znaczenie w kontaktach z istotami nadprzyrodzonymi.      
@@ -61,5 +61,4 @@ Oczywiście przytoczone powyżej przykłady teologicznie całkowicie nie tłumac
 Uta Ranke-Heinemann, _Eunuchy do Raju. Kościół katolicki a seksualizm_, Gdynia 1995.   
 Jacek Sieradzan, _Szaleństwo w religiach świata_, Kraków 2007.   
 Ewa Wipszycka, _Kościół w świecie późnego antyku_, Warszawa 1994.   
-Ewa Wipszycka, _O starożytności polemicznie_, Warszawa 1994.    
-
+Ewa Wipszycka, _O starożytności polemicznie_, Warszawa 1994.
