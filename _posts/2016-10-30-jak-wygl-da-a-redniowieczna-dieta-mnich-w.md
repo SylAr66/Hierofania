@@ -1,7 +1,7 @@
 ---
 layout: post
 category: article
-published: false
+published: true
 title: 'Jak wyglądała średniowieczna dieta mnichów? '
 ---
 Jak wyglądała średniowieczna dieta mnichów? Ile dziennie spożywali kalorii? Pierwszym naukowcem, który zajął się tym tematem był Michael Rouche. Badał on zwyczaje żywieniowe francuskich mnichów. Stwierdził on, że mnisi przyjmowali około 6882 kalorie dziennie.     
@@ -31,4 +31,4 @@ Jedną z tych potraw była najczęściej owsiana papka, którą mógł zjeść k
 Ważnym elementem diety mnicha było również wino. **Wina mnisi pili bardzo dużo. W różnych klasztorach było to od 1,5 do nawet 4 litrów wina na głowę.** W niektórych klasztorach stosowano ograniczenia, jednak nie były one zbyt rygorystyczne, ponieważ w średniowieczu uważano wino za lekarstwo, a nie używkę. Piwo natomiast było uważane za coś tak powszechnego, że nie było żadnych norm dotyczących jego spożycia.     
 
 Źródło:   
-Hans Conrad Zander, _Dlaczego mnisi byli grubasami?_, Kraków 2008.    
+Hans Conrad Zander, _Dlaczego mnisi byli grubasami?_, Kraków 2008.
