@@ -27,7 +27,7 @@ Inną parafią, która również zamieściła na swojej stronie zestaw zasad dla
 
 W kwestii ubrań tekst wydaje się wyjątkowo radykalny. Autor rozwodzi się głównie nad strojem kobiet, ale o mężczyznach również nie zapomina. Okazuje się, że kobiety nie mogą stosować perfum i muszą zawsze zwracać uwagę na to, aby nikogo sobą nie „zgorszyć”. Natomiast mężczyzna powinien zawsze do kościoła zakładać garnitur.    
 
-![0308_04.jpg]({{site.baseurl}}/img/0308_04.jpg)![tabliczka.jpg]({{site.baseurl}}/img/tabliczka.jpg)
+![0308_04.jpg]({{site.baseurl}}/img/0308_04.jpg)
 
 
 > Zakładamy więc na siebie ubranie bardziej eleganckie i odświętne. Jeżeli nasza wizyta ma uroczysty charakter ubieramy się w sposób uroczysty. **Mężczyzna zakłada garnitur i płaszcz, kobieta strój do tego odpowiedni.** Nikt nie idzie z uroczystą towarzyską wizytą w adidasach, dżinsach, spranym podkoszulku lub starej kurtce.  
