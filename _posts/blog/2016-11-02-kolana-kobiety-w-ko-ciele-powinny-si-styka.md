@@ -2,7 +2,7 @@
 layout: post
 category: blog
 hidden: 'true'
-published: false
+published: true
 title: 'Kolana kobiety w kościele powinny się stykać '
 ---
 Ostatnio w mediach zrobiło się głośno na temat tekstu zatytułowanego „Postawy podczas Mszy Św.”, który opublikowany został na stronie białostockiej parafii św. Wojciecha. Jednak nie jest pierwszy tego typu tekst instruktarzowy, ponieważ wiele polskich parafii opublikowało podobne.<!--more-->A nawet powstała książka „Savoir vivre w kościele. Podręcznik dla świeckich” autorstwa Stanisława Krajskiego.
