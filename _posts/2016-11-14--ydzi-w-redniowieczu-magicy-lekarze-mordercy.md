@@ -31,5 +31,17 @@ Niekiedy pogłoski o rytualnych morderstwach były wykorzystywane do szantażów
 
 **W Bernie w 1294 r. pod pretekstem zamordowania małego chłopca Żydzi zostali wygnani z miasta.** Wydarzenie to dało początek legendzie, która przetrwała dwieście pięćdziesiąt lat, by potem zostać upamiętniona w postaci _Kinderfressenbrunnen_ (studnia dzieciożercy) stojącej do dzisiaj.    
 
-![Kinderfressenbrunnen.JPG]({{site.baseurl}}/img/Kinderfressenbrunnen.JPG)
+![Kinderfressenbrunnen.JPG]({{site.baseurl}}/img/Kinderfressenbrunnen.JPG)   
+*Kinderfressenbrunnen*    
+
+Historie o mordach rytualnych posłużyły również do stworzenia pogłosek dotyczących sekretnego stowarzyszenia żydowskiego, którego przedstawiciele w określonym czasie wybierają odpowiednie miejsce i osobę, która dokona morderstwa. I tak właśnie**w XII w. pojawiły się pierwsze zapowiedzi mitu o Mędrcach Syjonu.**      
+
+Krew pozyskiwana z chrześcijan nie zawsze miała służyć jedynie do wyrobu macy, ale Żydzi potrzebowali jej _ut ex eis sanguinem ad suum remedium elicerent_. Pierwsza taka wzmianka pojawiła się w Fuldzie (Niemcy) w 1235 r. jednak nie została wyjaśniona. W 1267 r. **Tomasz z Cantimpre** wyjaśnia tajemniczy ustęp przytaczając słowa Żydów skierowane do Piłata (Mt 27, 25) wnioskując, iż **wszyscy Żydzi cierpią na hemoroidy lub krwawienie**.**Aby ukrywać te przypadłość potrzebowali krwi chrześcijan jako głównego składnika odpowiednich maści.**          
+
+> Mt 25, 20-25:     
+Tymczasem arcykapłani i starsi namówili tłumy, żeby prosiły o Barabasza, a domagały się śmierci Jezusa. Pytał ich namiestnik: «Którego z tych dwóch chcecie, żebym wam uwolnił?» Odpowiedzieli: «Barabasza». Rzekł do nich Piłat: «Cóż więc mam uczynić z Jezusem, którego nazywają Mesjaszem?» Zawołali wszyscy: «Na krzyż z Nim!» Namiestnik odpowiedział: «Cóż właściwie złego uczynił?» Lecz oni jeszcze głośniej krzyczeli: «Na krzyż z Nim!» Piłat widząc, że nic nie osiąga, a wzburzenie raczej wzrasta, wziął wodę i umył ręce wobec tłumu, mówiąc: «Nie jestem winny krwi tego Sprawiedliwego. To wasza rzecz». A cały lud zawołał: «Krew Jego na nas i na dzieci nasze».     
+
+
+
+
 
