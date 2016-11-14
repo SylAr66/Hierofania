@@ -1,7 +1,7 @@
 ---
 layout: post
 category: article
-published: false
+published: true
 title: 'Żydzi w średniowieczu: magicy, lekarze, mordercy'
 ---
 Już w starożytności przypisywano wiedzę tajemną między innymi Salomonowi, Mojżeszowi i Miriam. Pogląd ten był tak popularny, że Orygenes zmuszony był bronić przed tym oskarżeniem Chrystusa, któremu zarzucano, że korzystał z magii.   
@@ -72,4 +72,4 @@ E. Wipszycka, _O starożytności polemicznie_, Warszawa 1994.
 L. Poliakov, _Historia antysemityzmu. t. I, Epoka wiary_, Kraków 2008.    
 F. Fontette, _Historia antysemityzmu_, Wydawnictwo Siedmiogród 1992.      
 B. Seyda, _Dzieje medycyny w zarysie_, Warszawa 1973.
-_Dokumenty Soborów Powszechnych: tekst grecki, łaciński, polski_, T. 2, opr. A. Baron, H. Pietras, Kraków 2002.    
+_Dokumenty Soborów Powszechnych: tekst grecki, łaciński, polski_, T. 2, opr. A. Baron, H. Pietras, Kraków 2002.
