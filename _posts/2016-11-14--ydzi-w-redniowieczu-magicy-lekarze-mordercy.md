@@ -6,6 +6,7 @@ title: 'Żydzi w średniowieczu: magicy, lekarze, mordercy'
 ---
 Już w starożytności przypisywano wiedzę tajemną między innymi Salomonowi, Mojżeszowi i Miriam. Pogląd ten był tak popularny, że Orygenes zmuszony był bronić przed tym oskarżeniem Chrystusa, któremu zarzucano, że korzystał z magii.   
 <!--more-->
+
 > Cudów, powiada, których rzekomo dokonał [Jezus], dokonał dzięki znajomości magii, a zdając sobie sprawę z tego, że w przyszłości znajdą się inni ludzie, którzy zdobywszy te same umiejętności będą dokonywać podobnych uczynków i będą się chełpić, że czynią to z mocy Bożej, wypędza ich ze swego państwa.    
 
 ## Źydzi jako magowie
