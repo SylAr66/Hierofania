@@ -39,17 +39,29 @@ Krew pozyskiwana z chrześcijan nie zawsze miała służyć jedynie do wyrobu ma
 W 1602 r. nawrócony Żyd Franciszek z Piacenzy ogłosił katalog klasyfikujący „choroby” żydowskie według dwunastu plemion Izraela i według zbrodni popełnionych rzekomo przez te plemiona Jezusowi.      
 
 > Mt 25, 20-25:     
-Tymczasem arcykapłani i starsi namówili tłumy, żeby prosiły o Barabasza, a domagały się śmierci Jezusa. Pytał ich namiestnik: «Którego z tych dwóch chcecie, żebym wam uwolnił?» Odpowiedzieli: «Barabasza». Rzekł do nich Piłat: «Cóż więc mam uczynić z Jezusem, którego nazywają Mesjaszem?» Zawołali wszyscy: «Na krzyż z Nim!» Namiestnik odpowiedział: «Cóż właściwie złego uczynił?» Lecz oni jeszcze głośniej krzyczeli: «Na krzyż z Nim!» Piłat widząc, że nic nie osiąga, a wzburzenie raczej wzrasta, wziął wodę i umył ręce wobec tłumu, mówiąc: «Nie jestem winny krwi tego Sprawiedliwego. To wasza rzecz». A cały lud zawołał: «Krew Jego na nas i na dzieci nasze».     
+Tymczasem arcykapłani i starsi namówili tłumy, żeby prosiły o Barabasza, a domagały się śmierci Jezusa. Pytał ich namiestnik: «Którego z tych dwóch chcecie, żebym wam uwolnił?» Odpowiedzieli: «Barabasza». Rzekł do nich Piłat: «Cóż więc mam uczynić z Jezusem, którego nazywają Mesjaszem?» Zawołali wszyscy: «Na krzyż z Nim!» Namiestnik odpowiedział: «Cóż właściwie złego uczynił?» Lecz oni jeszcze głośniej krzyczeli: «Na krzyż z Nim!» Piłat widząc, że nic nie osiąga, a wzburzenie raczej wzrasta, wziął wodę i umył ręce wobec tłumu, mówiąc: «Nie jestem winny krwi tego Sprawiedliwego. To wasza rzecz». A cały lud zawołał: «Krew Jego na nas i na dzieci nasze».          
+
+## Truciciele
+Na ziemiach polskich w 1267 r. synod Wrocławski zarządził zakaz kupowania przez chrześcijan żywności produkowanej przez Żydów uważając, iż dodają do niego trucizny lub innych plugastw. Popularny przesąd głosił, że Żydzi, zanim sprzedadzą mięso chrześcijanom, karzą siusiać na nie swoim dzieciom lub w jakiś inny sposób czynić je niezdatnym do spożycia. **Wrocław również był drugim miejscem, w którym pojawiły się oskarżenia o zatruwanie studni przez Żydów w 1226 r. Pierwszy raz oskarżenie to pojawiło się w czeskim mieście Opava w 1163 r. Potem w Wiedniu w 1267 r.** Rozkwit oskarżeń o zatruwanie studni nastąpił w XIV w. kiedy to zarzucono współdziałanie Żydów z trędowatymi w celu zniszczenia chrześcijańskiego świata. Oskarżenia o trucicielstwo osiągną swoje apogeum w okresie epidemii czarnej śmierci.   
+
+## Profanacja hostii
+Do katalogu domniemanych zbrodni Żydowskich dochodzi również sprawa profanacji hostii. Zbiega się ona w czasie z ustanowieniem na soborze Laterańskim IV doktryny o transsubstancjacji:     
+
+> Jeden jest powszechny Kościół wiernych, poza którym nikt w ogóle nie może być zbawiony. W nim Jezus Chrystus jest jednocześnie kapłanem i ofiarą. Jego ciało i krew prawdziwie zawarte są w sakramencie ołtarza pod postaciami chleba i wina, przeistoczonymi  mocą Bożą: chleb w Ciało, wino w Krew, abyśmy dla dokonania się tajemnicy jedności przyjęli od  Niego to, co On przyjął od nas.    
+
+Hostia w popularnych przesądach i magii już o wiele wcześniej odgrywała ważną rolę, jednak po soborze konsekrowana hostia zaczęła być czczona publicznie, a kapłani podkreślali cielesne przebywanie w niej Jezusa Chrystusa. Żydzi jako magicy, wrogowie chrześcijaństwa, naturalnie byli uważani za tych, którzy kradną hostię aby użyć jej do zabiegów magicznych. Krew tryskająca jakoby z kaleczonych opłatków miała pomagać Żydom w leczeniu sekretnych chorób.      
+W dokumentach Soboru Laterańskiego IV obok zatwierdzenia dogmatu o transsubstancjacji  pojawia się wzmianka o niebezpieczeństwie profanacji hostii i krzyża, co zdaje się nieodległym echem krążących pogłosek o profanacjach w celach magicznych:    
+
+> Postanawiamy, że we wszystkich kościołach należy skrupulatnie strzec i przechowywać pod kluczem krzyżmo i Eucharystię, aby nie mogła sięgnąć po nie zuchwała ręka dla dokonania czegoś strasznego lub bezbożnego.
+
+W 1267 r. synod w Wiedniu nakazał, aby Żydzi pozostawali zamknięci w domach gdy tylko usłyszą dzwonek obwieszczający niesienie hostii po ulicach. W rozporządzeniu zaznaczono, że „mordercom Chrystusa” nie wolno zbliżać się do „ciała Pańskiego”.
+
 
 ## Lekarz jako krzewiciel wiary
 Średniowieczu popularne było leczenie poprzez „kościoły uzdrowienia”. Biskup Grzegorz z Tours (558-594) i inni teolodzy opisywali liczne przypadki uleczenia z kamieni pęcherza, uzdrowienia kalek, ślepców i głuchoniemych w czasie ich snu w kościele, przeważnie posiadającym „uzdrawiające” relikwie święte.       
 Główne zadanie lekarzy opierało się przede wszystkim na propagowaniu nauki chrześcijańskiej. Neoplatonizm, tomizm i scholastyka były narzędziami wykorzystywanymi przez Kościół w celach zdogmatyzowania medycyny. **Teolog Wilhelm Paryski w 1228 r. przestrzegał lekarzy, by nie poszukiwali źródła choroby wyłączenie w naturalnych przyczynach, skoro jest „rzeczą oczywistą, że w grę wchodzą czarodziejstwa i demony”.**        
 Papież Innocenty III nakłaniał lekarzy do poddawania chorych opiece kościoła – zachęcania do spowiedzi i sakramentów.    
 Innowiercy zajmujący się medycyną nie byli mile widziani przez Kościół. Grzegorz z Tours twierdził, że archidiakon Leonast z Bourges po cudownym uzdrowieniu zwrócił się do żydowskiego lekarza, co sprawiło, że choroba powróciła jako kara za skorzystanie z niechrześcijańskich usług.    
-Jednakże ani królowie, ani duchowieństwo ani papieże nie odsyłali lekarzy żydowskich, cieszyli się oni wielkim poważaniem i przywilejami, aż do czasu, gdy chrześcijańskie uniwersytety zaczęły uczyć medycyny w naukowy sposób. Żydzi uczyli się z arabskich tekstów medycznych. Medycyna arabska była bardzo rozwinięta.     
-
-## Truciciele
-Na ziemiach polskich w 1267 r. synod Wrocławki zarządził zakaz kupowania przez chrześcijan żywności produkowanej przez Żydów uważając, iż dodają do niego trucizny lub innych plugastw. Popularny przesąd głosił, że Żydzi, zanim sprzedadzą mięso chrześcijanom, karzą siusiać na nie swoim dzieciom lub w jakiś inny sposób czynić je niezdatnym do spożycia.  
-
+Jednakże ani królowie, ani duchowieństwo ani papieże nie odsyłali lekarzy żydowskich, cieszyli się oni wielkim poważaniem i przywilejami, aż do czasu, gdy chrześcijańskie uniwersytety zaczęły uczyć medycyny w naukowy sposób. Żydzi uczyli się z arabskich tekstów medycznych. Medycyna arabska była bardzo rozwinięta.
 
 
