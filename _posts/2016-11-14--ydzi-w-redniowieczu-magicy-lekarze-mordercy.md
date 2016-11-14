@@ -16,7 +16,6 @@ Synod w Worcester (Anglia) w 1240 r. zarządził, że ten, kto zasięga rady i w
 
 Jednak krążąca opinia nie pociągała za sobą oficjalnych konsekwencji prawnych, jakie na przykład, w późniejszym czasie spotykały kobiety oskarżone o czary. Spośród tysięcy udokumentowanych procesów czarownic, obejmujących kilka stuleci, jest jeden przypadek żydówki z 1669 r., która ostatecznie została uniewinniona.
  
-
 ## Mord rytualny
 Morderstwa popełnione w celach magicznych, podpalenia, trucicielstwo (zatruwanie studni) nie są oskarżeniami przypisywanymi wyłącznie Żydom. Można się z nimi spotkać praktycznie wszędzie. Legendy o eliksirach, maściach wyrabianych z ludzkich szczątków znane były w wielu miejscach, a czarownicy biegle opanowali sztukę ich przyrządzania. Rytualne zabójstwo wydaje się wprost uniwersalnym zarzutem przypisywanym wyizolowanej grupie. Sami chrześcijanie byli oskarżani o rytualne morderstwa niemowląt, zatruwanie studni, podpalenia. Podobne oskarżenia kierowane były pod adresem czcicieli Dionizosa.   
 **Oskarżenie o mord rytualny odrodziło się pod wpływem wypraw krzyżowych.** Opowieści i plotki pojawiły się w trzech różnych miejscach między 1141 a 1150 rokiem.   
@@ -36,12 +35,21 @@ Niekiedy pogłoski o rytualnych morderstwach były wykorzystywane do szantażów
 
 Historie o mordach rytualnych posłużyły również do stworzenia pogłosek dotyczących sekretnego stowarzyszenia żydowskiego, którego przedstawiciele w określonym czasie wybierają odpowiednie miejsce i osobę, która dokona morderstwa. I tak właśnie**w XII w. pojawiły się pierwsze zapowiedzi mitu o Mędrcach Syjonu.**      
 
-Krew pozyskiwana z chrześcijan nie zawsze miała służyć jedynie do wyrobu macy, ale Żydzi potrzebowali jej _ut ex eis sanguinem ad suum remedium elicerent_. Pierwsza taka wzmianka pojawiła się w Fuldzie (Niemcy) w 1235 r. jednak nie została wyjaśniona. W 1267 r. **Tomasz z Cantimpre** wyjaśnia tajemniczy ustęp przytaczając słowa Żydów skierowane do Piłata (Mt 27, 25) wnioskując, iż **wszyscy Żydzi cierpią na hemoroidy lub krwawienie**.**Aby ukrywać te przypadłość potrzebowali krwi chrześcijan jako głównego składnika odpowiednich maści.**          
+Krew pozyskiwana z chrześcijan nie zawsze miała służyć jedynie do wyrobu macy, ale Żydzi potrzebowali jej _ut ex eis sanguinem ad suum remedium elicerent_. Pierwsza taka wzmianka pojawiła się w Fuldzie (Niemcy) w 1235 r. jednak nie została wyjaśniona. W 1267 r. **Tomasz z Cantimpre** wyjaśnia tajemniczy ustęp przytaczając słowa Żydów skierowane do Piłata (Mt 27, 25) wnioskując, iż **wszyscy Żydzi cierpią na hemoroidy lub krwawienie**.**Aby ukrywać te przypadłość potrzebowali krwi chrześcijan jako głównego składnika odpowiednich maści.**    
+W 1602 r. nawrócony Żyd Franciszek z Piacenzy ogłosił katalog klasyfikujący „choroby” żydowskie według dwunastu plemion Izraela i według zbrodni popełnionych rzekomo przez te plemiona Jezusowi.      
 
 > Mt 25, 20-25:     
 Tymczasem arcykapłani i starsi namówili tłumy, żeby prosiły o Barabasza, a domagały się śmierci Jezusa. Pytał ich namiestnik: «Którego z tych dwóch chcecie, żebym wam uwolnił?» Odpowiedzieli: «Barabasza». Rzekł do nich Piłat: «Cóż więc mam uczynić z Jezusem, którego nazywają Mesjaszem?» Zawołali wszyscy: «Na krzyż z Nim!» Namiestnik odpowiedział: «Cóż właściwie złego uczynił?» Lecz oni jeszcze głośniej krzyczeli: «Na krzyż z Nim!» Piłat widząc, że nic nie osiąga, a wzburzenie raczej wzrasta, wziął wodę i umył ręce wobec tłumu, mówiąc: «Nie jestem winny krwi tego Sprawiedliwego. To wasza rzecz». A cały lud zawołał: «Krew Jego na nas i na dzieci nasze».     
 
+## Lekarz jako krzewiciel wiary
+Średniowieczu popularne było leczenie poprzez „kościoły uzdrowienia”. Biskup Grzegorz z Tours (558-594) i inni teolodzy opisywali liczne przypadki uleczenia z kamieni pęcherza, uzdrowienia kalek, ślepców i głuchoniemych w czasie ich snu w kościele, przeważnie posiadającym „uzdrawiające” relikwie święte.       
+Główne zadanie lekarzy opierało się przede wszystkim na propagowaniu nauki chrześcijańskiej. Neoplatonizm, tomizm i scholastyka były narzędziami wykorzystywanymi przez Kościół w celach zdogmatyzowania medycyny. **Teolog Wilhelm Paryski w 1228 r. przestrzegał lekarzy, by nie poszukiwali źródła choroby wyłączenie w naturalnych przyczynach, skoro jest „rzeczą oczywistą, że w grę wchodzą czarodziejstwa i demony”.**        
+Papież Innocenty III nakłaniał lekarzy do poddawania chorych opiece kościoła – zachęcania do spowiedzi i sakramentów.    
+Innowiercy zajmujący się medycyną nie byli mile widziani przez Kościół. Grzegorz z Tours twierdził, że archidiakon Leonast z Bourges po cudownym uzdrowieniu zwrócił się do żydowskiego lekarza, co sprawiło, że choroba powróciła jako kara za skorzystanie z niechrześcijańskich usług.    
+Jednakże ani królowie, ani duchowieństwo ani papieże nie odsyłali lekarzy żydowskich, cieszyli się oni wielkim poważaniem i przywilejami, aż do czasu, gdy chrześcijańskie uniwersytety zaczęły uczyć medycyny w naukowy sposób. Żydzi uczyli się z arabskich tekstów medycznych. Medycyna arabska była bardzo rozwinięta.     
 
+## Truciciele
+Na ziemiach polskich w 1267 r. synod Wrocławki zarządził zakaz kupowania przez chrześcijan żywności produkowanej przez Żydów uważając, iż dodają do niego trucizny lub innych plugastw. Popularny przesąd głosił, że Żydzi, zanim sprzedadzą mięso chrześcijanom, karzą siusiać na nie swoim dzieciom lub w jakiś inny sposób czynić je niezdatnym do spożycia.  
 
 
 
