@@ -64,4 +64,12 @@ Papież Innocenty III nakłaniał lekarzy do poddawania chorych opiece kościoł
 Innowiercy zajmujący się medycyną nie byli mile widziani przez Kościół. Grzegorz z Tours twierdził, że archidiakon Leonast z Bourges po cudownym uzdrowieniu zwrócił się do żydowskiego lekarza, co sprawiło, że choroba powróciła jako kara za skorzystanie z niechrześcijańskich usług.    
 Jednakże ani królowie, ani duchowieństwo ani papieże nie odsyłali lekarzy żydowskich, cieszyli się oni wielkim poważaniem i przywilejami, aż do czasu, gdy chrześcijańskie uniwersytety zaczęły uczyć medycyny w naukowy sposób. Żydzi uczyli się z arabskich tekstów medycznych. Medycyna arabska była bardzo rozwinięta.
 
-
+Źródło: 
+Orygenes, _Przeciw Celsusowi_, Warszawa 1977.    
+I. Abrahams, _Życie codzienne Żydów w średniowieczu_, Warszawa 1996.   
+J. Trachtenberg, _Diabeł i Żydzi. Średniowieczna koncepcja Żyda a współczesny antysemityzm_, Kraków 2011.    
+E. Wipszycka, _O starożytności polemicznie_, Warszawa 1994.     
+L. Poliakov, _Historia antysemityzmu. t. I, Epoka wiary_, Kraków 2008.    
+F. Fontette, _Historia antysemityzmu_, Wydawnictwo Siedmiogród 1992.      
+B. Seyda, _Dzieje medycyny w zarysie_, Warszawa 1973.
+_Dokumenty Soborów Powszechnych: tekst grecki, łaciński, polski_, T. 2, opr. A. Baron, H. Pietras, Kraków 2002.    
